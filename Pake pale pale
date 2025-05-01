@@ -1,0 +1,110 @@
+[4/27, 00:04] D V S K .: 
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #EXTINF:-1 tvg-id="Lokal" group-title="┊LIVE┊👉LaLiga 2 2024/25 " tvg-logo="https://www.visionplus.id/images/repository/154/372154-SNAPSHOT-m.jpg" ch-number="1", LaLiga 2 2024/25 : Granada vs Elche #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  #EXTVLCOPT:http-referrer=https://visionplus.id/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=113
+https://kingtvpremium.my.id/play/pision/index.mpd?id=113
+
+
+
+
+[4/27, 14:50] D V S K .: 
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuoFVlX1Z8c-aZ-WkYy7c-ns7GmIwAQUTOrPs12jcC8JLzcDkzwMjmvL4LbAqet0t__OErP9_SALn0UY1XH6USPBfPdR0z8pfnVPEtE5SrdnPWr2i7Cu6wsdwxy8P-qT5Rc4NXNlFFY1IzR6YTV6-mwt9zDfiB3RII9CATPxfIWEraF59FLPYDRGwbv92C/s700/SOCCER%20CHANNEL.png" group-title="TIMNAS",SOCCER CHANNEL HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://terabit.web.id/media.php?id=1&type=drm
+http://terabit.web.id/media.mpd?id=1&type=dash
+
+
+[4/28, 16:16] D V S K .: 1gtxchg
+[4/28, 16:34] D V S K .: 
+
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="BRI LIGA 1", BRI LIGA 1
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+[5/1, 13:27] D V S K .: https://elitestreamid.xyz/converter
+[5/1, 13:28] D V S K .: NEW MPD AND KEY
+BEIN ONE V+
+
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+
+
+[5/1, 13:28] D V S K .: ESPN 5 🇨🇴
+#EXTINF:-1 group-title="test", ESPN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
+
+[5/1, 13:31] D V S K .: 
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="TV | VISION+",BEIN SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="TV | VISION+",BEIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="TV | VISION+",BEIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png" group-title="TV | VISION+",BEIN SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="TV | VISION+",BEIN SPORTS 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+[5/1, 13:33] D V S K .: Berlaku buat clearkey sports vidio juga 
+
+https://bintangstreaming.my.id/all_clearkey/mantap
+[5/1, 13:41] D V S K .: Berlaku buat clearkey sports vidio juga 
+
+https://bintangstreaming.my.id/all_clearkey/mantap
+[5/1, 13:41] D V S K .: Buat yg ini 
+https://bintangstreaming.my.id/all_clearkey/mantap
+
+Jgn di ganti dalam nya udah pakai url ini aja
+https://bintangstreaming.my.id/all_clearkey/mantap
+
+Jadi klo update clearkey baru semua ikut update
+[5/1, 17:34] D V S K .: 
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="TV | VISION+",BEIN SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="TV | VISION+",BEIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="TV | VISION+",BEIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png" group-title="TV | VISION+",BEIN SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="TV | VISION+",BEIN SPORTS 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+[5/1, 18:47] D V S K .: https://perfecttv.net/PerfecttvFree.m3u
