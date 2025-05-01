@@ -1,0 +1,850 @@
+#EXTINF:-1 group-logo="https://rocket-tv.online/Gambar.webp" group-title="‼️‼️ INFO PENGGUNA ‼️‼️" tvg-logo="https://rocket-tv.online/Gambar.webp", Had Maksimum Peranti 1578/2000
+https://github.com/akkradet/IPTV-THAI/raw/refs/heads/master/nosignal.m3u8
+
+#EXTINF:-1 group-logo="https://rocket-tv.online/Gambar.webp" group-title="‼️‼️ INFO PENGGUNA ‼️‼️" tvg-logo="https://rocket-tv.online/Gambar.webp", Tarikh Tamat 16 May 2025
+https://github.com/akkradet/IPTV-THAI/raw/refs/heads/master/nosignal.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_typ#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTINF:-1 tvg-id="801.astro" tvg-name="ARENA HD" group-title="Sports | AstroGO" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" ch-number="801",801 Astro Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzE4NjAyNDkiLCJyZWZyZXNoX3Rva2VuIjoiSHhTU0NwcVY5WGRzT21HckZXOERmaDdVaGJIck9Gc0ZHK0F5eVhFOFwvTnlobEZXQmc0QjBTQ0YrMDRuTzd1dm9CYnRcL0hJZWw4eXZadytIclNTR2lmS0hEM0ZKeWxEZGtQSTB3S2gyZ2xhdzJubU5SWlozaldrMlQwc1U5QXUzWDh1QkFOYVRCdEFQWHV4U0JJVDBWTXZRVWFEQnZYZXczcnNHZUk2c283cDd3U3E3TkUrcE5FMk1zeGJFM05oVWVDS1VmeVIwdzdXYU5JczU3eUluZnFWa0dHU2xxMjR4WkZOWHIrNnhLc1wvd0Rvd3V1dDhFU2p2T3R5SkQ3azMzUjVLME1YTFFYUFFkY0NRbDdvSGlmN0JFN0RkQmY4NTlDcHo3RCtXVHBxNHJKUURTM0duZkd5MkVZS2FyZ0tVY0QzbnBGZVBDYklvTzQ5Z3hYUndJb0g0SkxaUEFRWmFLZU9zTmY4QlNJVnZRPSJ9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#EXTINF:-1 tvg-id="816.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" group-logo="https://rocket-tv.online/Gambar.webp" group-title="Sports | AstroGO",Astro Badminton 2 HD
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTUxNjg0MzciLCJyZWZyZXNoX3Rva2VuIjoiTWFrUlJzenF2bkN6WjZCQzBQczRiUGJTdGtZWjBDcmg2dnExZDJoWTdwMlo5b3VoUXBJdE1lQWxydHdyNmphSjZIK3ZoQ1VXNXZVSjAyQWpCa21md01rcm04M3BoalN5TmNad0pkTldNUnE4ckh3MVBlemhZdVRSellsSTgxeDV3NTlwK2dUSzhpMlVickpYRjBVOFpNeFFIMVY1c1YzXC9kamtEYmM0M1E5RVRhd3Q5ZUZGWktUNFAyeElBTGZyN0Z5ZVBVTnE4dlZMMGxvcHlNMFcrUTJGUnJzM1VWNUtOXC9HSkM4bzJRYmRIUHgwN3pKcDg1Tk9mRXZZUHNBXC84c2J4QlUra0dFXC92MG9cL0s1WlduT0g1NjkxOXNwY3hHQWR2dFdiK3Z0ZmxLT2FPZTc2T2lvSkZLWHV4M3pOUG1VYnR3OG51aHpXZ2U5QUJKXC8rT2VOaXNmT2t2WTFNXC94N1N5TXVTZVwvWHVCMmc9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kf6+hDwIx8xSPv2CcpLkDg","kid":"efQChzCsypq4sA8mFY3bEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="814.astro" tvg-name="ASSP4 HD" group-title="Sports | AstroGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" ch-number="814",814 Astro Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDcxOTYyODMiLCJyZWZyZXNoX3Rva2VuIjoibXZXZG1HeERpZ1NGYkkyOEhZMDBIeDNXNWdzdWl0STNMd3FkNE9CMTJSa3JYSHFxbXFDbWZXTXc1YmR6NVVZUHBxKzkzVHkxcVwvM2tBZE1BZ0tZbk1GbEw1bXJQU3RNeHd6YTVUeG8wcllSNEltZnQ1a2RFd2RUNk01bHRCZHU1bnl5N1UyRStYQ1ZPeldaT0xPSjAyRkt5cWlBa3VyVkYrd3JmUGRJZjNBTkk2V09HYmFwRjZ1dEMxNW5qV2xLUFExYmptXC9MTFoweUR3N1FlZlB4WTl2clJDaW00bjNyVTZlRmJsT2dMZmd6V1lIZitrRDBiakxmcjZJS1huN01SRHdQb3ZPYWFwdVR5c2FCbEtPMlRka1JEWWtRM0F1eW9sTGRGdldoS3ZSeFZpcE8yaFwvQ0ZFOUlETUdIeWRVODBSS1RiTW4yVW1odEZYVU1IWVBYa0xqa3Z2Rkg1ZmpqMWVMQkoreHVhNm1ZPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HuOyUiJ8XC7JN4yDPS4U/w","kid":"6tAzXWBAEiVyem1THpwnEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="802.astro" group-logo="https://rocket-tv.online/Gambar.webp" tvg-name="ARENA 2 HD" group-title="Sports | AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" ch-number="802",802 Astro Arena 2
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzg2NzIxOTAiLCJyZWZyZXNoX3Rva2VuIjoiWEEyeVF1YU9qbnI4WVFTODhnY1NIVTVQQnN5MW5aam5hSnZLYVpIM2N3dkhCSWFXWjdHZjZYeUJFRm93Qmh5ZlZRdTVKalRsajFEMUlvNG1va0U1OUJyT0d4Qnd6MzF6MXhVSFpNZGpQb1pWQU8xMUFhaGRJcVFJWGpVeTNGdUd6SzAraUxnQlg1WXIycTNQQVN6cEZUbmNCSGt0dnBZSnB6MENaSk1KcmpscWhPVDlxNElZK1BKTHpxQ3FRUWRGZXdxVDdsNDlrbG5FbTFVeWZ1U3h3S3p4VkI0T1c0clBRbW9ZXC83aXVTVEp4RXRqQ3lqRmJoK0RMc2pEWVRHMW5odGRXQlZqaGNBbTNZdnhESFpHNWJvMlFQMFl6U1VRRitORmplZ2t0cEQ2Tng3Z2pEeDloTlRkclQ5ZDUzQmtvU3BiRkxOKzhZWGpFRWlkM01oMEx4bGhKc245bG1wRUhHY2w1WlQ5cVljND0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+#EXTINF:-1 tvg-id="817.astro" tvg-name="Astro Sports Plus" group-title="Sports | AstroGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Astro_Sports_Plus_1_%282024%29.png/800px-Astro_Sports_Plus_1_%282024%29.png" ch-number="817",817 Astro Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTQ3MjYwMzgiLCJyZWZyZXNoX3Rva2VuIjoiMnRnVHptYzFNVFpQZkNTUEhLOTFHU1F6ZnFOWkZyMytnMkplSU5yTDh4bnRLejl1VzNUcFpnaWJHdWtabUVwRVJjZnREcG8rNGpzcDVHbVhjcWtSWXA4c2Z6SHdtaWF3bUI0bzBPNXAyR1BkR3FZZlNEa3pXU3BHU2pwdEdYTFVudWQzU2FZVFFoMXgyRklRWHdIaWZ5ZGFTbkZlR3RLQzFcL2JUbzdxK1dPYXlFdld4ZEdGdE5yS2pWeTQxMlFkUlA4dkpIZUlIdUkrZkdHajFZSjNmdW9CV1kyajlWdkZHazgrb05memljZDBWTlgxWDRMaGtYN0w1K21mWlZRa1J6SGpxM0lWOE5FZUhDT29ka0xUK1pUVDVmMGppMGxyWmdrN2FWb0RMWmUwaXU0UlNlaE4zb0NCbHdLaUJuQVZ3NjFkOUpTd09HQzJwT01FWXAzNnpMRWxHWGtmK0dVN252a0FhV003NVcrST0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
+#EXTINF:-1 tvg-id="809.astro" tvg-name="Astro Sports Plus" group-title="Sports | AstroGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Astro_Sports_Plus_1_%282024%29.png/800px-Astro_Sports_Plus_1_%282024%29.png" ch-number="809",809 Astro Sports Plus 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzgwNTE2NDIiLCJyZWZyZXNoX3Rva2VuIjoiZ2hJd2doaGR3eTBqSGt5dlhDOG8xU3FPZlZicU94MkU0cXBNV2FDYTBPeFJcLzRHekIxSG1wT0VFVTk1QVpFNzN4VGlwbUZFSDg3TTBZRllLalZDckNDTzZwUHltS1lkcXhwa3JQRW5zazV0XC9aRW9QazhLUjNVd1BKTFdROG94ZHlpbWx3WVRcLzlsbzRYUFlXOWNKakRWNGd1bmNhOFZNOHdMZlo1OEFxSEtnaEZMZ2RNelViaXNDVk9cL091dnNHdTNuc0crMDZJdThyVzJMSXNBSDZwSkJ5Rkt3ZW9wUnZtanVkeVlwUVwvTjMzS3hzdzg5UXZXWDdOZjh1SXBucFpBNGEwcFluXC9FUnV3dHhEK1JzaXFyXC9XZU9ENGhMOHVWNHRwYW9nRG16QStMWjZ5MWEyTmJ5Yk1Vc1hLc0lmVlwvXC8xQTNkdXgwdXcyYWlEOHVsZWxYMTlTdklIYWNtWXRqXC81RFwvSWhvU0pPOGs9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+#EXTINF:-1 tvg-id="815.astro" tvg-name="Astro Badminton" group-title="Sports | AstroGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Badminton_1_%282024%29.png" ch-number="815",815 Astro Badminton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzAyNjQ1MTciLCJyZWZyZXNoX3Rva2VuIjoiQXFBUGJab2NuQjJtNUg1WXV2VHgybXFpUk9JWXM4eDFQWW8waDV4T1J2WFNSc0F5SWFkekJPbWVmTGxqUEE0NmRWSzAyb1ZleEJsNUoyeXl2b1JaUTQ2bmZ3U2h5SUZhWTJmUWVoVjRQZjJmYmphWHYyaUsyNDBZQXRSUFBtQ0FXTjZ3XC9IdlplWHdGaERSM1p2bjQ1RkdMZXUxWlVcL05maFFkNHZaTzJUZ1RKRTczXC9XRlpsamxmNUxpcVZxb0hHUVU1XC9OZEFFeFJUb2UzSFhpSXgrV0hHbkNZTUtpTmZrUEtBMFN3T2NSb1Jsa1kyKzZvbjFkMmtuSjFCMTBsNXdhMzFRZ2gyNytxUkhZWTF0Tmg3RCt1U2RqcWNZRFFnRWNqanBLKzdJUnZFXC9uZHVVOVpjbXR1YzlJdnhSTkVyUlwvY0JDbEFsM0wyaUlMYm1lYU1TZEM4VkI5MzA2d01EQzY2cUQ0Vk9NbnVVPSJ9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="Sports | AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png",Astro Supersport UHD (1600)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="Sports | AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png",Astro Supersport UHD (1600) CH805 B
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDI2NzMxNTQiLCJyZWZyZXNoX3Rva2VuIjoiSU5icGxOVTM3Smc5b1lIOXpVajBDcE9ZRGRzaXVxb2h0UFdSbU9JNW1uOGxHZGRXY2ZVcE1QSVpzN1wvWEttYmhCYnU5WHFGOHdmRFRwMXprWTRFTnFpc0NcLzE0ZUpPWURZTVVrNFRiREhMOVFnSFJtanFDZHFSVGc0cjVTOUFzeDZEMXNyS0ZsTmtOcXFycTkzNDhGNnlGRE8xbVZxOXI1VHFNdWJPb0xxTDEwNm5vY0ttVk5CaVNPSWtYbjhBWE1qNkRkbGJ4VUNyVm1MZ01ZYjNpTnB3amdlb1djNkNWektjSWJXalVVVVJOUCtpRnVRRTlFaW9NMjhwbUR5SnBiNnJMUWlyRXFRS3FTWHFsSEwyUDdMbDl1V00wSDlQeGUxM1cwUkk1WUxydE5vaHB3N2RBVEFBQ1djdmZtNVpsV2JnblNXdjVLRzFwS3dtZ3U0NUZMaHNmNTRseStHNktFek92R3puRTZZcVE9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7W1n2VPRSwJrJgLPiEZXfg","kid":"Xv0m2lABNjtNb6SpyBKtEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="824.astro" tvg-name="SPOTV2" group-title="Sports | AstroGO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png" ch-number="824",824 SPOTV2 ᶠᴴᴰ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTQzMDE3MjUiLCJyZWZyZXNoX3Rva2VuIjoiRUJGYXZhM3RYWVp3RWhSK3RrYjRsUmtaZlMwXC94WmliZVFkM3lDNTgrQTYrY1JCaGQzd29TbEd0eU5wQjQ0a1ZRMW1SQitOeWpqXC9ZRFFmcFkxQ0w0cG1Vc015QUtvb3RsRDlsYktyZWxibWtwXC8yZGFEc05JYWVseVdQcno2blRBbTVuYWUxZVpIeCtpa1I1ZWM1OFwvNUtqNmY1TjlCdEw1eWpyUzZUNDRRVHZqOWhiZXFveER4dlVSWHNTZ3k3NytUV1c4WWl2R3AydXVRV3dvTTlvVG05czRDUk03WGowTGNWXC8zUlV3Zm5iTnU0NjJyajJ1RGRcL3NUTE9MTG84TmNsYXVEUGtLOFkzMWowVFhkVE5Qd0p2WGFxT3hnTEN4dnM5QlM3VFE2Z2hUVFZBUTJ3bEV3eUVaQ1o0OUlGRVM0NWpQN2NmaUlxUWJ2dzJYK3Rma1UwQlZsQzczK0ZBamowZVc4V3pXeHNBPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nNXA0eVMIuA12I3Twd/ITA", "kid":"AQy7nPGgHq04Bwcw04vHEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="826.astro" tvg-name="W-Sport" group-title="Sports | AstroGO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png" ch-number="826",826 W-Sport ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzc1Njg5MTIiLCJyZWZyZXNoX3Rva2VuIjoiTVB3T2s5XC8rOVdLbVF3ZHFaWEZsaFlpNlRlbWU2TWdYTVpXb3lvV2NXZmtKWWp0ZkRZZzJUdE41WkFWMmdaYXBDays0NlMwVWNxYm9pWmdZUkVWdUdaRlVZcnRMUkpYRkZkaEFsbndHbWxuQWhOS2RVQWFQeU9IbWFjaHBKbkFHcTdwYk5rWFJPWDRCajRYV2NnUHdENVB5b3NZYUt5cks0ZmJqRDJ4SENEbUdCc2tcL21DWExEQW82WllZMDVcL0tWUEdTOUVtM2dEY1piR0hLVVU1WXNxWU5UYXhORFF4YmsyZ20rWGlBait4TVdWZytZbHRETlZqRFhnS284THJMdGVTY2x4d29vZEtIZU5xeWRDcndBYlp6blk0VVpyWXZiaDZGXC9JYmtiNmFUdVFMb1Y0bzlBTkdjbDlHeVBHTlRnQkZzSVVNZ0JWR3RRSTlBM0d1ZDQ2ZE9uciszaHZJeVV5UjFuK1BPOVZCWT0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dYgj5Oq7bkyMA20HPbRrjA","kid":"wOGASqHZ/ZxBxBvw9hpfEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="823.astro" tvg-name="SPOTV" group-title="Sports | AstroGO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" ch-number="823",823 SPOTV ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjgxMzQ5MjciLCJyZWZyZXNoX3Rva2VuIjoiXC9oSUdZNzFyZWVPN2hLeDdJK1NqVkszeFQzYU9WdkFqQWw5WGozd0p5RDhCeEErNlN5MDcyQ2xqeTVcL3hHRG1ra2haXC9PcjhYQmhVRlpDakM3Sm40MENCYjV3b2JCVUlLdDhiOTF1dkJjWFFKdUZkMk12QmlcL2s0NXpcL1V6eUZGWFdxWExidUNvT3V2d2lyR09DQkFiWCtpbTBGSW1cL0xTdHhQTGN3c1Y3WE1tTmRPQ254UDhqSHFxOTM2SkdFUm9WRGZ2SWFidFI5OVpGRE5KbVBTUElJTjZTcE1XWG1NNHM4NlMwMUo1ZGdvWnRnUFpFZXdCU2xEWFp1VzJ1T1lcL3JFQ1Bac285dHZTbHRQZWp0WUxWVWEzcUlTSVRMdEFzRHlZVGhQdXAyNzUzRUhZTnB3d0dFazdESmZ6UE83akd2QUNITGdvSEx1SzFiYkZrNWZrWDUwVVVlZU5KcDZqa0d0YlhGMjk2TDFmST0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="821.astro" tvg-name="beIN SPORTS 2" group-title="Sports | AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" ch-number="821",821 beIN Sports 2 ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDI4NzUzMDYiLCJyZWZyZXNoX3Rva2VuIjoiUUUyazh4bXpDaEpNMHdReWdTMjFCYWVySklYOXdCXC9IVlBUTFJXM092WGpMSzEwaG1QRWNTR2t1Qjk3endlMklwT2Z1U2JXR1lkZHpGWnZvTDJuWU1SakhZSEFIbGJhTnVcLzVPK2VXZTd2eUlWZFY4TlFHdndTdWZUcGVHK1lSdzBGY09jekNBRHNRTlFEZGV4SXBiRTRidVplcFRTMVwveFd4WW9iMEd4UVFuMkkxUDVlNzJ0USt1UTQwVHVOamdsOHMyTW9jVVJNdVpqMnMrbTdyZzhhM0JUZzlaWlVrSHR2SmJlbTN3eklLSjhxYVdMdGJKMlZyMU8zZWI4Y2Z3UVhVV01QWnlYcHZIODFLcUhnbUtMVUhSZURTSTZFK0FXenJhTlFNNVVSSjRVVllxQlJQQW40b1FuaFdkS0QxQnRvZFFpY24rSTUxS1ZPdXFWOWd1ZGxFYTZOMWJxUlwvSTdtdkJvMXNMN3g3dz0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="820.astro" tvg-name="beIN SPORTS" group-title="Sports | AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" ch-number="820",820 beIN Sports ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTEwNDM2OTIiLCJyZWZyZXNoX3Rva2VuIjoiMGNRblFzZE0wQUl1R3ZlRkNlNkE2bDBtTW9Ram9ZNGVnZlAwMEoybU1nSHk4NWl5ZFU4TzQ1QmpybDJvaVVrbE02MlhkNmdoWnU1TXJXS0g0NEc5N2FKYURlTXVDN1lseXZXV1RPV0hiTDBRUW9FWUNPWTIrQ1BydEZSYUJXZFJteWJSandiQ2xwaWkrSGVZOEl0Qmg1c2twZXNsb0xjZ0NlTzloUjJjRGc3VWZzRUNNajZYUE9mTFYxbUNEelJNaDdcL2podldKZWpGZzd4bGloenhZekJneEkwTWdKd3Jrd1wvVzJLNHFSMGNkT1VhQmpGamFqSUpYcjlZTUFnZ09QcXIyamVjbFBFSFhOQ2NYR3BBaGhjV1U5aStESWxLVFkrZXViNFBuVjlwb0dTbjJVWnljUU14M2FOVm1cL01qSWRSK2ltYXVpenBNMUVocnRXRkltS0FHTWh4aCt0bmNuVzRlUm9PeVpWYTZrPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCohvyNspymx40PtbgpjNw","kid":"IMiE747Saydi+LGnjy0ZEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="822.astro" tvg-name="bEIN SPORTS 3" group-title="Sports | AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" ch-number="822",822 beIN Sports 3 ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzE3MDQ4MjUiLCJyZWZyZXNoX3Rva2VuIjoiT2xwMTlYS1hYM0tzR01LR3hWVlNNcjhaOFhcLzlNZm1pOTBuS2xpd2xrOHBxUjlMTFIyYldleDRlTFZyMURhbjg4dk9TdnR1bTc3K0NjK0x5MDNMQkt6RGlya0Z6UHFLK0F4aVVUM2FSWWNJc3BOZU0wYk1IQUFPZmdlQ2NkN2loTStwZkludGRjeHlHdFBWdUFpVFwvcnFZNFJDTExDT1lRVkxDXC9Iek9NV3NGWUpIazJSUENmVVwvcW4yeVZsdmkzNlErbjJ5U1Z3bytpK0pQRzY2OXRDeEZwMzZCdEZ0NnBNNjdxUWZBMzh3YXlZSnl1VUxDTVlYWUNPYlMzVmNyemFjVXdpcDFDNUc4OFZOWTZWaitkVU5Hc2w0ZXZwU01cL0dBdXlyNDBWTUxObXlqb3dLVUJmbnI0XC8zaW9LNW1xMW5DUjdrUm94K1RcL0QwTHU5TTBqOGFMempzZFBKb1NyOTlna3J0WWtoMnRnND0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
+#EXTINF:-1 tvg-id="823.astro" tvg-name="bEIN SPORTS 4" group-title="Sports | AstroGO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png" ch-number="823",823 Bein Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjg1MzE0OTciLCJyZWZyZXNoX3Rva2VuIjoiNHdvMzdvMEQrRk1NMitMaTZWSGF6cHA3K09RZktWeVZHOU1EUXdYeVlBVzJcL1A1c0orMytPdDhYcmhvMUF1Tk9Xdld3dmdEUEhqekhucnZkTkxBcWU3eVJweWYzNkg3RDRXdUVXcUcyMW5OeUFZeUk1Sk5mZUFBaVQzSnlON1o0dm1DZm9JaDlVbGxyUXpJdXNkbjhLd0ZpOGhIYnJjaDBXXC9UUldlazlSNVBybjJQZEJCeXZBUHpscVBwSHFsSXUyeUJUQWpxQ0NHbHMyeVY5S09qbVBIc1pzbWdTQngxOGlDdzVHakRYTnZpZTJuQ3lmK2RDcEJ0Q25pN3RsNE1MRWNiRXgydWRJQjlRWThFdzRoNHdzYkhnM1RYXC9TYmlWU21rSGFGNVY5YlRweWlGQ0NTVGxJRkdQTTJibSswbXdKTktiTXNQdHVNY2EwajM3Y2RrU0Rkeld2TTVNYVpBMGhpMlwvUnZRRHM2OD0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de4031a7e1079b2ff388da11db9a710:463d877c3b6a9c5948b9045ab56d6dd1
+#EXTINF:-1 tvg-id="824.astro" tvg-name="bEIN SPORTS 5" group-title="Sports | AstroGO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png" ch-number="819",819 Bein Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzA0OTI4NzUiLCJyZWZyZXNoX3Rva2VuIjoieU1IUjdiTW5GVWJcL0VBNk1XbGNVN1wvcDJieHhFblJWTDI2cEFoNk8zXC9JVCtUTVwvYjFDTUVWMSttVzdnb1hWSFNHQ1h5ZlNGSDB4clp5MmtnaWJzSU44STZ0WkRyRTVneXNWSFFVQzI1VkNxalRrYURaR2tFVkNZZkVMSzJRVVJDYzlVZGxqdG5PZUNTcUhicDlNdzcxTkxLTzVuSm5OekR0a1ZNbHpoRjhydFdyWTJObDRFSlBQU0NySUFna2p1VE9WQlwvK0wwRWFiSDBrMkw0Mlh0MFJxcWtPNGtNZUhhQ0xOXC9peHFOdWMraCs1aTdYR2tsb2J3QU5zYXpFT2FNUjZxYVBMM1JURGlma3ZLMm1HSVpxais2M01UZzJuT055eG5HbDNwYjZJN2JXVXV1b1RxNGlxV0xSbjl3RHZwWTgyWVpVcUhlZk42VUFWYzY0XC9jSUNIU0JNQ2VjZThRTmxIUVV5SjNMOGZvOD0ifQ==
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
+#EXTINF:-1 tvg-id="813.astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Astro_Premier_League_3.svg/revision/latest/scale-to-width-down/300?cb=20241016164008" group-title="Sports | AstroGO",813 Astro Premier League 3 HD
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDI3MDM5ODEiLCJyZWZyZXNoX3Rva2VuIjoiK3RqTHRNNmJLTEVNM0xsdzJCVW5vdnNxSms4OVlpeFpOVXZRczR4aDF4eW5MY3lJOXllVVVoeUlIK25yOFVIc0RtUE85OTVEOHZEbHVHcVg2b0dQNXRFTmw3dVVFN2ZLd090QkhiQjlFNzBDcGhqSzNKNU8xSmhFVkx0YnFWV1wvbFBMWWprMlkzNFFnTlNQUGQrblhMWHc0Rk0yTjJacE9JaXZrYWRPcWF3VjNUb244OTR5Nnh4MXl3OTJkMytCTzl5c1wvTlBRSm5zQlVnVWR6N0V1RkdVSytDZWpZbzRkQ2lPUmNuMDhSZWdzZjlSNml1Z2RFWmpDZ3BJSkxMbEpiOU5IYUJTOFJLa3llUU1YSnVHNmhXRkt3ZkhlWno0bU1HVm1mSXlIekFnWVU5R0tobGprdW5Vc3MxdGpcL1pobHVHVkpaM3psa3BrT2c4YU9UV2V3VW9ybEdaOEsyQXYxemFETEtIN1VYYW5FPSJ9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4
+#EXTINF:-1 tvg-id="818.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague4_2024.png" group-title="Sports | AstroGO",818 Astro Premier League 4 HD
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjA5ODc1MTQiLCJyZWZyZXNoX3Rva2VuIjoiQlMwYWZkbUNUcW1uenlwbGxoeEFVTEtiR1V4VHlESVkybUYra05INm9QUkgySEpwcWlhSzkwMUxwd1F1RnRrbEVKM1dsd1h4UVNONnJ5Y0lscmVGVTA2YkgxcEk1akV2U2ZNdVZjd3lcL05pWFwvTFk0aVpzcTJublZkSEYrVlpuZEpqNHdxdjhSZHBhWkxSVEk5cmMyVTE2RjVSaFRcL2lxYzgyTjQrT0lVMjI1Y1hBUndlU0krZjFtQjErWW1HcjNRUkxJQ0VBTkVoZExcLzVBNExWM0Y5WlpoKzl1RzNhR0dTVUlmeWZwUUIzYVJXUFwvcDZ0RmtmNk5lYjY0alh3RDhScURLbTVuS1p5MUdDWkJReWFINDlHWGVRMmZJU1RLbDZNanc3eVh2UjNmWDRsZHlDXC9Kc1ZVbVpiWGtrbkErb3BnR3VkYXorcXMrbld5akFUT0ZiUHZDTGFFb3VFWUtLenFyR2g5UmU5T1U4PSJ9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
+#EXTINF:-1 tvg-id="819.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague5_2024.png" group-title="Sports | AstroGO",819 Astro Premier League 5 HD
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDA1ODI3NjkiLCJyZWZyZXNoX3Rva2VuIjoib3BkMU8zVTBuRjBxUTM0YWd6blViOVlsYzRoNnRzYjlTVGttelFHNWhDcG93YWlRM1JcL3d1NUdITmRNNFRlUGM1UHBXXC9VWTBHa0xJSXBodTd4Tm9kWkVIMm83VHk4Wnp5S2RUSGxEN0NJZFdCdDFIOVlvZk5SMURDNFA4RTk3eUM5dzg4eW10aEZ3XC9GbHlIVStWVkswNldvNEE4N0pPYkhIaFVjSHdsazVzaTErQkJPb0ludTZNcnA2WXh4Uk50RUpxVnptWVY2bUpiNGk3dVBPVE5TK0NuTG9qdUpUNThlMFVkdFZrVERuMWZuSEFkU3Ryd1FYRW95cWlCR3V6a1d6aDZZZkZDSUUzK01MVk02NlA3VHR0dmZvMzRwcXR6cXIzdHlJcGY4MmxONDM5SFdCUFBPdWVDcmhBcDdqSEU3RGZOd2FJT0FyejJDN0NZQkdDbDQyZytrRXN4bmJZdFJrMUtQWnFINzF3PSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0OeU48/1ZO0scgoJjrF3xw","kid":"TbI6Qbq/6a/CIqWMWYKDEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="825.astro" tvg-name="EUROSPORT HD" group-title="Sports | AstroGO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" ch-number="825",825 Eurosport ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTg1NDI5MDciLCJyZWZyZXNoX3Rva2VuIjoiNWFyRE9yUVwvVDVQT1cyaWR4cDFIcTdXU3lMNnpjdytObGdQKzJLUWEzMW5VempXTm9DNW5RNEU2NnVhZVV3VTdLOTNUWjd0V3l6TUIxOWdSNWg1SlU2cmljV1V5NTN3bXhOM1VPaXhrTFV5OWFkNDRyQ0ZQZlR1TWFHWUJTcFRra0owQnhxRkpvc3N4cnhKSzErY1hOQVdESnhVREtteVNSK0pJem9MdGhKZ21pcWI3U1dMaVc5aUxSanhKZlwvTHNVZjRVbzdiNkRhNFZTaWdGazlPSG0ydktnYm9MZ01XU2VDSklqa1B6UVRqeHpjTmd0V3RtdzV5ZEZLZVcwT2p1enFXb0Rjcm5MaytNNHRWUHNMOTROSHRVVVJDTHMzYVdSSVhaXC9NeVh3aWlFYXp0V1F0dWMwOE44Sit6YzAzNVdMbmlydGxubUdpNlVzd29WVU11eUFkcmNWZHF4clJqWVNZa2c3SzFZeG5JPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KGObz7XL7o/5yjmPz1v80A","kid":"cFurXmRbbXyVWIspUg+BEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="831.astro" tvg-name="GOLF CHANNEL HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="Sports | AstroGO" ch-number="831",831 Golf Channel ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODM3MTkwMjYiLCJyZWZyZXNoX3Rva2VuIjoiaTVMK1Z4NjRFSmw0YlNLcTdLK3p5a1NoZmlEaW9VZStLOWUwZFFoUDNSY2NkTUpuaWtMOUpydnYxOHZlV0grV2xoTmdoSjVreWJOODFpbG8zVFJjR3pURGg1aFFBaXBtN29xZ1FoYW14SU5kb21RTnFwWnhGbStBZFJrU2x5WE0rWXVoTkk4eHhkaHllMjhNUUg4UXdFQzFtWDhRV3FRaGUwallyWEMzS3lyNmlnNzdXVWZLTWN6aFJaUjRYZ1FQZFRpWlwvUEtYT3pkbWFBQitjTXdpRUd0bUxlWHJYcVliczljZkcyaExBUWRaS0x4emMzU0hPMEp0QWg4ZUVzRVpBV2NkVmlpY3lmYWw0SlU2eEQ1bnp1a0VpQ2p6NGNMMHdJYklhMGptUUt0cW5KUFNraEZrSHdxdmJRbWFURjdLMVk0TDk2WjE0TWlDeUlFOXlPSEhWakZVMVVnYzR5N2xKVnV1OHRFOHpcL2s9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bld//MSTW6JK/0xMndaEbQ","kid":"m/61BoclYX261jOEc9ptEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="833.astro" tvg-name="Premier Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Sports | AstroGO" ch-number="833",833 Premier Sports ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzQ4MjEzOTAiLCJyZWZyZXNoX3Rva2VuIjoic21uVXhyUGVpQ2R4WXVrdHY2bmo4bEJQdTUyeHJiRitYcW5TdmdxdHZKSlRHd2xiTkdBd1hcL2VPbWhGMTNrY0FyZEJieHBPUzF1cmlRcnJrTXRheTd4TkpUMnNiUmRKQVU1OERRbURCU0pwZTVwSmlZQkNmU1wvSFlDajFIbzZYRFRWc0haVnA2aUs1U2NzS2s0dGQ3cHB1MmZqdWdMXC9jWk1CU2h1K1d0TktpU2lRSkhTWHkwcTFUeG9Xd3dBWDk5UFwvREQ2Q1lKYzVoekFqNEJpOXd5NmxVckdCK081TDM1QjU2M2JUVlJnOXdURGRaVUZHOHFrbEM5a0tZWVlycmJ5eDlkWWNiMVF3NHJQRmdMUVFSdExLM1NGd2tScXRpNG5VMHZVUzBteXdKMDU4TWtMK3RXWE5CS3YrTTJBVjFFd3lMUVFua3I4eDdBUUZiWUV6N0lWdkdKaWhQWjRMMzl3OFIxbmQ4dmpSWT0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zYTtE2sMxx+KuM1NT2ouTA","kid":"A8Lgry+BWfnwzptdvIZfEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="832.astro" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="Sports | AstroGO" ch-number="832",832 Astro Cricket ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDQ2NzUzMTIiLCJyZWZyZXNoX3Rva2VuIjoiN3hWdEtBWFdIaTFWUHVtdXdITFdUWURZZFU0WUlpNWprNGEzaU5LZm83NWJ0N2N4Nk9aaENDNmhmQnFkZkc2TG05RDNEMHNVSStTSUdtbW0wMUtBQm5oTlVJVnU2Sytid2l2MEtBa2dDd1dHUmp1M213b08rRXFHb2U2TjNIWllGSXdBdWUzbHhLd2Q4aGhyUTZSWTliK0VVSjVOcm9tK2VlUFdzTVhBVDlKSFRTc0NzcHdKajFpWnB4UnZyMEhWbXZwaVY3MmUyMkNPazcrcEdrTmhQcUNVOFJJU3d0ekJcL0xSV3JSMjBlNklteXJrS3JLM1wvOHd4THNGUzBnQUJlV2prSFlEa2ptMm92cDdcL1BkZk1PYkljZFBkZGV6a1FxcjRXQTBFQ1NoMzU1cDFmUVVZaUlkK3kyc0dGOEdmcDh4ZlczNjVnMFdTUyt4Q1NjeUtXMThYcnF3RGpIemM5NW5hMU1lS0h1T3ZjPSJ9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://rocket-tv.online/Gambar.webp" group-title="Malaysia" tvg-logo="https://telegra.ph/file/0c4afb9624d691ef282a4.png" tvg-id="132.astro",DRAMA HEBAT
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjkxNzQ4MzIiLCJyZWZyZXNoX3Rva2VuIjoiS01rNERIaWhXeHJvVDRzK0VnSGQ3VW9EMVNsRjhpVytSeW1ZV3cwNkNzOFBnTmdHeFB2aWZaUVZSWVQwOHBXS0NUc2dWajBHa2pGUGFPUG9pdXRodFwvdUc4MmZuTVhcL1BBTDNjQUtUdGhXcVJJMm5FejRURDhSOVY1M0JmWkRGSE5jVkR2OWRwMnBTeU9TTWxKSHN2VWd5WVc4SGorTDZ0VndyUlNuUmpRenM3eG9QNVwvMG8xcnVneU5CbDg0Q2lRckc4Y1grdVNTcnN0OEVNVmNIbnArcm91dmQ2MzNxcnJTXC9BXC91UW5mMEFHZmwxemFtRVJ6VlpDUFhMSmZkNUF2NHFLSWFMeGVWV3ZVdDROWWNUTGhFRDNndDVDUVE3SlF1bTVtNlg2TkNEejliZjFhazJXVmpjcVhEY1lSUTdDTHl6SEYxdm5OaldrZk9BaFB5UHpsK0hEVW43ZjZFc1lRbm5LYUVpd1VJWHlQU3hCNHFsbFY0a1hweXZBVG5hQk5WM2oxekI4VnZBdmQ2RmZNSGdsN1I1a0lmU3kzUWN2clBqTWNEcldrRGFEbnRBNWJrSm0zb1VWY3o1dWJuXC9KdmdUWk1hSWVnUEVvVmg1cGpDTjZjbEE9PSJ9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
+#EXTINF:-1 group-logo="https://rocket-tv.online/Gambar.webp" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Scream_2025.png" tvg-id="100.astro",Scream
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzA3ODU0NjkiLCJyZWZyZXNoX3Rva2VuIjoiaDhWNk9GdzlaWGM0eWdHclIrRGZST2xEVUZKdjF1eTZBOU5uVHlJVlBhQjlUdzFcLzBRdzUyYXZkSmFrKzBxa05tSFR2T3U1T0dLMnJuOEoyNXM2dGloQmRIS1VoWWxiYWZ0XC9tam1adFljSVhTVHJlZzh1VXp3UjlJRzIyM0RKTmQyWjFra2RNcFMrb0lVbjg3TXRsXC9oY1NMd1Zjc3M1T2haNXFEWGI2OTJCaHBsMXZSMVwvd2l2WElGdVJPTmcza1R3UkxoOGFcL1ZEYWlQWm0xdlFzOTB1Zk9cL3ZwMndUclZhOExMSTVFZWhWS1wvMXREQ2NFV3lrMkFtampMV1U3djhrVmM5a0YxTm9ZWlN3ZUlcL3VVZktKeWZYWHJKOWZDMmRNSzRJXC9ibUdTa3FKNU5VZTlDK3cyNUNTSW1YbGt4NkIzVTlFSUMrR25JYXNFdmZFREpcL2xna3B0M0lTdFJsQnpjTDJcL2Q1aTdBZkk9In0=
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://rocket-tv.online/Gambar.webp" group-title="Malaysia" tvg-logo="https://telegra.ph/file/6c1ea8ba4e4fd18681306.png" tvg-id="131.astro",FILEM MANTAP
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjU2NzAzNDkiLCJyZWZyZXNoX3Rva2VuIjoid1NtdHRhYU1PVE5zTU44UGk2UnF0NmxuamU0M1Rwcm1nSGJzaWdpOTd6RWtsamQ5SkpSQzFMRG1BVGgxMUxFbDdTVUs4K0laTWNjV05Jb3ZteEdPb0Fua2tqT1BHVXJsS0JYQUxTZ09pQ0l1cm5JNE1GUE9OSXF6SkFwRERuYjNYSmgxTFlOWVc5WmVhSmNGXC9qdTd4T0V4am5Fd2JHT1k5bDc3Q2wxQkNTZHNRWDJoWTJncU44enBnaGNFUFZEZWJaRmlmRFwvek1DRTNhMWFhVWx4cW9cL3lHQWNQYVd6Znk4RUpXeTVtWE1IUGZNdUl4VktNRHNCYjNQb2JVQmRldnBMVko4Qlpqc2xUUHl5T25JK3NUR29SYldHRXMxYXI1WFJFb2JwVFNFN0lidVwvV21KTFhRaXI3Znp2cFwvbWdcLzAzbE1hTTIrRGdUT29HV1hxXC9Sb1wvQ2UySURNR0xHeWg2dWhOVE1zTXVTVTZDdDRlUmJmSTJqVjFpdkFxQnVORkR0emVDdVwvOEpRMkk2eFNJSkR4UG5CZHpkd042dnVudHNBTkZ6UWYzV2IrK2ZuYTdVQlF4RHpwYkRXM3hMb3hOWkZQOWpmU2IxZWx4cmtadE1tXC9DVWh3PT0ifQ==
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://rocket-tv.online/Gambar.webp" group-title="Malaysia" tvg-logo="https://telegra.ph/file/1621221a6795938224b62.png" tvg-id="134.astro",LAWAK SENTRAL
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDkzMTcwODIiLCJyZWZyZXNoX3Rva2VuIjoibkZvUkVDNUhwRXZjTVZXQkpObmJMUHlOd0llTmlmMWRKcDBrRUJYYkMyRUdQXC82MFF4bE9sRGlZVzhldzFLQ1NLZGozSEwrZ1ZNaU44TVRibGU5XC9GXC9icGt3UDM2N1U2aHp6bWhGc2xoWmtXT1k1eHFCNitNZTBVWEtkXC9CTVwvdVwvZ25zNmx4V2pZNm5QNG1wNSsxUFZCWWlCNHE1emhuTWZYTUx2ZmdMNnVndmwwZTlTdkpKNFB5RW43akY1eUZOeXh1NkloTmY1VFloZUM2R25RTkZoY09cL25RZW11NUlVTWVwZ3VBTVlaXC9cL3VvM0wzS0pLUEFnM2Y1d0w4R0RIQnZncjd5SjlQMDJ1eFZ5NnpkRTF3UWJINEVXSFhsQ3NyeU9BRTJOMnBYZkNSTlpvTUVOY0VlTEhhVVY2UVM1ZUkrTWh5N0hrazBcL3p4MVZhMVVMUSt5a25STkFVNWFIOE5yR09waWF1YVFOZ282NHdqZ28zNExMS2JwMlRMS2xiOFZ3K2tpZGE3dU8rR1wvQVhjdmZNbjlzSVBYYmtcL3dKQzFhMUdqWTRET1ZHcDFxN2VFUk13KzU3VXBUbENoV21YaFhSQms2YUJ0czN1d2puR2V5ZXl1SVE9PSJ9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://rocket-tv.online/Gambar.webp" group-title="Malaysia" tvg-logo="https://telegra.ph/file/d58fe99a006c3ad4b9e24.png" tvg-id="133.astro",DRAMA HOTPOT
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjYwNTE4MzciLCJyZWZyZXNoX3Rva2VuIjoiZXdKczVZWVwvRzZJVkRpblBNZU1meVRyV0R1dFd1bVNLalBReEFCdzRrc2hCVXdZYVJTY1BwbE05d2RSdGxGQzAwVzRTbjZSS0dtTkYyYVh1RmdNdlMwUE1uK3NrMTRYSnp6NGdudTVXKzh1dnozenpOc0EwclZzdnZUSHhNVUIweDNpcmIrMVZHYWJiajJhUHprbUZReGVKd1ozQzFMYVwvZUhkNmY2clN4aHhHZXA5WVZHTzhyRWVwVXpkYkx3OEVnQjlqQ1wvZUZsMHFNTVRFT1FKdEVQN1gzV3lyMmZyNmd5NGJLaU1lWGtoZGJaakthODZzQ0xUQVlmcWVNb2dLQTRMYlwvbXRRSkhDRU9SMGxja091N05ZWXJ2UVliQnVuU3ZqRzBmelpxNjNVeU5VdVUyM0tMcDNuZitEWlJSVUhJY1BrXC95TVRnTXNxRjZXQUJxSGZYYWZrcFpXdFY5d2pnczRha1dMS1VadVM4OEdcL3Ewc1lnaUtEMnRObHdhclwvSkdnSEljRXBxNWFTUDRjQWlMZDYzKzhNOGtTR3BpSHZrUFhISUtxbGQ0enVqWXBTXC81NytiNW9YbDdUWWVGYlVrZnBSdVwvNW91WFY2bE40ZWl4V05IQmc9PSJ9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://rocket-tv.online/Gambar.webp" group-title="Malaysia" tvg-logo="https://telegra.ph/file/071ec21b298280a2e418c.png" tvg-id="135.astro",TRAVEL & TASTE
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTI4MTA3NjQiLCJyZWZyZXNoX3Rva2VuIjoiSFQrXC8raUl2aU1VZlJTU3dOMXc2bEZvNWd6RXV5NktpcnUxbVZEdUMzN0J6ZVFFaytIMGJ1UFBlQmZIXC9iMTZwejRnNWh6WFplOE5aXC9XeHRjV05uZ3BibGRNSmhsYzlKTGUrWUNxdHM5THJuam1QazR3XC8yR3hRXC9FTk5DZVwvWmV5cEEyWmw4dElLMWVVOGRtQ092aXlsM3E2TE9QVTJESk44ajNKMGdON1k1OG5pdFIyWWg4NzFVTzRQM1Y4Y0doRnBGc1ZEN3VcL0paaHA1N2pnejdKa0ZcL1pLUGhxc0dwQ051UTVlbU5MTWxtRDA0ZVZzMk9uNk1XR2JrdnIxRkpBcXI4anV6RVRhY0FYZ05ZY1U3dGN2enpwMjd4WGJaY2x5aUgwb1wvMXlEVG5naEZQZ3ZrQ0UrazNVRjhTeFVrNU1ibmdLSDJLcjFCVlNQQWxxbmdUSXJTTnl5VnRYNk5ZVFdTcFlNNVpTNk52dm1Va2FCcExFc1M3WVRNNXFaa1RZczNLaDZUR242QkNDUWZiWDFaZWppUDBPbmxVaHV1XC9SSjR6XC9DSlh5Yno2bVwveWdPUCswQUVsNjdRZWtqa0E1VWNYeUVnTjN0c1pFQmJrUkdQNHpOaEE9PSJ9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://rocket-tv.online/Gambar.webp" group-title="Malaysia" tvg-logo="https://i.ytimg.com/vi/KPpA0LTosX4/maxresdefault.jpg" tvg-id="OhMyCeria",OH MY CERIA
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTMyNTg0NzAiLCJyZWZyZXNoX3Rva2VuIjoiQ3dtbFd4ZjVSVytQZkR1SXJQU2pcL05kYnNqZDRWa2htTkVcL3B6cGhldis0SUR1RjdVRmN2UXhoVUdlM0cySkJCNkM0U1cxc010V2NiZVJ1ZjN0TTUxUDE2MnE4aDJMVEpzQk1nSUJobWpQVGEzc2x3clU2RFNXaFwvZ2h0S3ZwRHNybFZFS1NcL1wvU2lpeTFyYUV5QlpXeWcxSkZOMFI4Rnl2WTRWamFLZVlIZlpKRG9MZjNySHZDQ1Fsa2RVdVBiYW00Wno3ZzZyY2k1OWhWeEFxVGk2RFwvVWFha0hOWDVQeGlHSjVCWnpNZTZPWkErU0FsYk91U25nK0szaWdOSmJFT2lUQzJmYWJRa0h5VW1EQVFieHZWbGdMNFp4YmhJc21XMnBHVENlZDQ2UzFWUHF5RTBCQlpzZm9KQzJTTWltSG0zZmErakRpQ29jRGVxcnZGSmg0ejBkZ2wyUVVHd2NvMXJyanRNK1BPTThWQllhUHJPd1E4Y0hIRmlyZVluSFBXV3FmTkFWYmw0TGN3TEZUUUtlNTU4Vm03XC8yTCtCUDR5SG5sU3BNOEx1WklSTGNQaUJxZ3NTMWVYb0dUeGs2Mk84bHRcLzA2V1NubDNNcElFZUlRZXdMUT09In0=
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://rocket-tv.online/Gambar.webp" group-title="Malaysia" tvg-logo="https://i.ytimg.com/vi/Gz07Q4H2ts8/maxresdefault.jpg" tvg-id="JomNgaji",JOM NGAJI
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTU0MDYyMzciLCJyZWZyZXNoX3Rva2VuIjoieE1PcW1FN09LQktyZmcxSzRpVUpGMUZWeGFXZnFWbjBZRThxVmlLNFwvcTRhUnoxQlNBcW1ENCtLcVRcL0ZOa050UlJmRWppUVRHc29YTkhTTUJGZW1qVG45dWxVRm4yMDdzRnptWU1nNFlPYlpOTDR5ZDZMRlVuMkRcL3gxWno2WSs4SFV3ajZVN0RRXC9MaFp3XC9FS09cL2UxYkg2T1wvZGlqNXluNmw0QWM5ZEY1Qkh1UEVjSVwvNUl0eFwvaDRkRzh2M1F6RDBGOWtcLzl5aDlkUXoyS3hpNm1MUSt5Umc3ODBSOEZMR0tRcXQwVnpnSjdFMWZiMWhhZlwvN29SOFRoNGoyajZFVG16bU91b2J2ajNKaVwvS1FNekkraEc4UGhiQXpqZTdMRGpRSUd2VDNPUUVJbldUb0Q2Q1h2OUVsa1YrV1dDVGp5QnFhMmN3RVc4SXgrT21DeFBcL2IrT0F4TGw2eFI4UjBuS05tSDlsWENrT1RoYldua2kzMkdxTjBZT0dVYktsY2lKZ1dSU2pscEVBQmdGYUc5RTBza202SjlJcCtWNFJFSWdhUW1HV3pwZ0t5V2U5YzVRWWh1UGJJekFYVmVRSHg1YjZua2tvaENTcU4xaUg0OW92WXN3PT0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
+#EXTINF:-1 tvg-id="101.astro" tvg-name="TV1" group-logo="https://rocket-tv.online/Gambar.webp" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" ch-number="101",101 TV1 ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTg0NTYzMTciLCJyZWZyZXNoX3Rva2VuIjoiM01tdXFXTFJ4ZXFyeVh5QmZrNjd0Vng5N05LOHZjOEJlSEt6UXN0SkMrKzFrTnZ1U2U1R3BGY09yejVqRktJMzRETGpQcHdJUVFRZnc0bEhuTUlaNWFtTitOMzJ0S3hpMHo3azdkam56VzQ0UGMzMjViWVFLdFJ4SHJFNEUySldCWDBPSTRVYzFpeEZzaEMwdk8wK1lQWjZPNkFvMFpBeVBZclc3MkZaOVYrU1wvdDcrZ0NYckFnTGxYUStrTWUrS0dKZzZsdmVmVU1LNTdIQmxNY1pydDNjM0oyclJtWERydjhrY3V5N2F3WlI4U2NGTGlTMzF6UjRJWVUxWXF3YVUrbTZwTHZXbTRkQUIyZ1VcL1JieFoxbkVvVFI1bzM3RkREc3dndnpEaVRjYktvdTVvK2lYR1pCT3prSjcrTDh3Kyt2WVlOYkpYNlNWeEJmekZ4Z0dFNXRsejBjMmdUeW43SVpZR1h4dzZleFk9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JKmxeFmGKIfyj2PHwpvKpQ","kid":"T4hUgf4FPlRAllMsHcuXEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="102.astro" tvg-name="TV2" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png" ch-number="102",102 TV2 ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTQ2Mzg1NzkiLCJyZWZyZXNoX3Rva2VuIjoiWHlCQTJsWmhuY1wvTjUzc0tDWVVxU1Zlc1NCRUs0bjE2VHFBZ3YwTm1TajdrcFppcXlcL20yTGRGZkxmdHY0Q3ZHOUpwN1Fyc3llTEFtOVY0cXE2TktsTGJcL2M5eHZCTzV2YWFZNHc1NUhoeFd6T0M3TGZaa2dHbmpFNWcza043TXlwTm5zbG50RVhhNlpXMVpGQTlCNmxjQnhZV01iWDZHMktxc2g1c0w5VlBxdVBPYlVjVVhETVk0b1BkK3R6TzN3Y3Y5NTNTYnVkUzZtSzdiRWpyNG9GZTJud2cyZU9hRHpxK3FOa1h3RGRSUVdTem9abER0S25obVluRjZ2NjhoYUdrdTdSQVwvNmdwcHU3Y0gxVVJ5emZMdVdhbWh4bGMxeTZOS0xqUlY5cWFcLzJtTFhkRjNqM1dXSkx5ZUl0RzdMMXp3QUxzcXAzbGpjam5PRVZMU0RaWkF6SVRNUzByYzBrbU5mcGs0Y0w2OTA9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" ch-number="103",103 TV3 SD
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzcyMTg0MDYiLCJyZWZyZXNoX3Rva2VuIjoiRHhySmErYmlITVBZRWFPTjJ5TDFZdU1HUG5vSDl3UXhOSlNYenlCQ21QTnVOUlFMQnI5VE9NSkx6QkhPYVZEaXpsOXRsSmVoRnhIN1l4Q3NoSWVlZ2p2dUtEMytZT2h1elhjMnNuUXhuaHkxYUZSN1dOTmg0V2pwb3U4eXlJRlZLdkdWdXpRdEJJK25leDFMbSt0SUF2ZkExV0JjeDRQcXdJZjljYXprVFlvTWJCWFNwREpwXC9JZ1A1SUtNbStEcVV2NE93MUZ1em5SQlhQTTZHc0RGb1dNa1BSWHVSYWtDcjh2OVZOQnRyeXI1Z3RqbWxxY0RjZ05kSk1kT2NFSmN1ZDZCcXBCVnNxVzB1dlR3SWpMSzB5bklsVnlqR1lrOVJXeThmRTQ2TmZFcjRKTHBmbm1hbjA3OUxaeDdyM2JUTnNTdittNFBHYVlpZlVqN1VKbmlmaHVkZ3F3aCsraUhEc1QrWlBsVWI0WT0ifQ==
+
+================================================================================================================================================================
+
+#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" ch-number="103",TV3 ᶠᴴᴰ ᵀᵒⁿᵗᵒⁿ
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://iptv.rocket-tv.online/play.php?ch=eyJ1c2VyX3Rva2VuIjoiOTQ4NzU2MDEiLCJyZWZyZXNoX3Rva2VuIjoicFFkRmgyMG02ZkpLOHBTVmZSY0p1NUdEeEhXVVV5dDd1WXphQmxLK0F6bFpkSnhVWjVySjdqZTlpeFBTaFRldDJWQ3dvZXJxR25GcEhzb0dsTzBVS1JCZ1U3cGp6RlJOeUcwUG9kTVVGY210ZDVcL3Q4eTRYbkVCOWROWFNOczAxTFwvekRVT0lVMFNCM1VUZlpaT1czVXQ2dk5ram5QbjRSXC82T2g2K3BUcGF6bkxBaGY1aG9XTjBYb1VHZWorN2V1bXFpOFRtbklwaVpVc1N6TnlGWHhES0lGS1FZNWcxSEs2aVNvdWZZWXd4NURna3RDWTlvMzZIb0pHc2xSbm5wK1JydlBRZHE5XC9pQVREcE53QXU0akN3SnBsUzNaQlhHMXVEdW9ZaW9mTnJpaW9TZEFycXZVXC9XaW1TRmM0ZW9nblZCZ1NEMEs4T3VjcXg0NlJNU1J3XC9WV2pDRlNWOFJHOEhCMXFSR2dIdlE4PSJ9
+
+#EXTINF:-1 tvg-id="107.astro" tvg-name="NTV7" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" ch-number="107",TV7 ᶠᴴᴰ ᵀᵒⁿᵗᵒⁿ
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://iptv.rocket-tv.online/play.php?ch=eyJ1c2VyX3Rva2VuIjoiMTQwODI2NzUiLCJyZWZyZXNoX3Rva2VuIjoiUDV4MnlYeEtVV2pzR1pVMlROVHY0a0x6bG5uenhLNWN0MnM0QlwvWm0wZ20yVUVUZGtcL0E0ZUhpMHJnWnFYY3krQXkyUnhmV2ZmWFd5OUM0ZWlaUlV3R2QyYVwvQU5FQTRMODhZcVVlb3JIbnFvTmYrZWl3RkkyZjRIQUwyWG8wWUg4dnd1dG96d005UUhHM3FwRTRQeTlIYkNIZ2J5WHlYcUJOdlczdUtDU2JFcDNab2JwZVNoVEQ2YXJudFBrUXVJUnd1QWgzMUZTSm9nT2NcL2J5dUI0U3poSTBDYVR4YWhTVmdEVU11QUNBYzRwMElmblFKTFNPZmVXVXNQVlJcL3ZGdE83Slwvdk5Ock1sWHVra2tCZEtUYWlKbkEzZXlWZ3IrY0Rxc1dUWkFRcDl3MFNvOGllYys5THBVeG1BK2pJQWJ2YW1kWHZDR2ZiYTRMcFp4NWJPZkRlZUw0T3UzR2dac25La29OZVJcLzE4ST0ifQ==
+
+#EXTINF:-1 tvg-id="108.astro" tvg-name="TV8" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" ch-number="108",TV8 ᶠᴴᴰ ᵀᵒⁿᵗᵒⁿ
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://iptv.rocket-tv.online/play.php?ch=eyJ1c2VyX3Rva2VuIjoiNjE1MzgwNzIiLCJyZWZyZXNoX3Rva2VuIjoiTzhqNUZTT3gxaUU0MHdiNDY5T2FLMXZ0bnNoVHM1OUZxaHZjeEVINTFHdGM5bUhjcVFPWk1vemZBQ1JkMCtUclNXdlk2YkZaN3Z5cE1Gd0ZPMzJ2SU5hUWFVK3NZdkRnUnJwRlJKSHFyVmpMcnNYdDNabEFic0tRNHV6RTFRc3lXYjN3SjZVTU40cTA3UHphZ2xqb1lPK0tJcEZNSXNjaHdQYWJQd3dZNnhSQ1V5Ym9SWTQ3MDZnek1YNUFnVk1KTUlrV3B1TjI4RitJOTJrZlM5RHBOOVR4MVp6Qzc5MnRpTlJCcXBFYXFUQ1lUYW1qeFdOeHNqN243TjdcL0huY2VVQkU0d2N6cDV2XC9qNWJGc2pDcmxQZjNaUUFQNGlkb2hcL3lVQ1dOYzZjWkk0bWgyZ2RoRHNrSmpsVXNkVGhkQ0JCc0VLaU01dkR6RlJ5blM2QlZsQ0syZUlmUmMrMkxXczVLRW9meWpXRitrPSJ9
+
+#EXTINF:-1 tvg-id="109.astro" tvg-name="TV9" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" ch-number="109",TV9 ᶠᴴᴰ ᵀᵒⁿᵗᵒⁿ
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://iptv.rocket-tv.online/play.php?ch=eyJ1c2VyX3Rva2VuIjoiNTM0MTg5NjciLCJyZWZyZXNoX3Rva2VuIjoiZWpoazIzYjRYQStUdWNjVUJnaDdaUFg0K0NvVVAycmJMbytnV0d6WVc3Uk9RcHVZdFVJbHViaVwvSkxkdTBcL2hRVXg1emJPbGRzY1ZqZHJYbGhScVVNcmF1TVVxd0tOcUtRNmY4S21EcnRMTkVZOUhaeUJQOHB4R3ZcLzJcL1NkMnZsdm9Mb0FCS3FsaUdwNytSd2RKbUd3alRrU0ROc1hCR21HdkZaVmNBSlR2MnJDY25iNGViQ1ZmcGlDVGxlQVZaeW84QWVFZmE2QmFyajY5ZzB6a0NjbmVsY0VPcWZKZDhPTEdUZ3RxZnJ3cUUxV24yZXNxTG9FdWdEd3gxS2JHaFhPb0JTMlQ4VGExNGhSUm15ZWErNFJWZDArSDdMNktZclkxWEVjN1pvaWl2UDdBMVBwNnVMcW5jRFwvTkxoTzZwUVwvTXZTUytwbFFXOEZrREZwcW5acG5nOTNkbEV4WGxqdTNoZGpPMFZEZ3dvPSJ9
+
+================================================================================================================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" ch-number="149",149 TV9 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzUzOTAyNjEiLCJyZWZyZXNoX3Rva2VuIjoiOVY2ZWJSOE9sZmlGK1dNc1p2QXZNVmdub0ZNbTR3ckZSMzRVVjBZa2F5c1ZrYzlIbzJSZG51WHNlZlpcL2VUcE1mOEpcL3BLOTJcLzAxNnQxcDdncnc0N2M3aHpUa1Nxb1pDOWJjZ0Z5UldnR1ZYSUc2TGRPV0NhUFE5WDZVK3gzQkUxVzBJUzZTQVRKR0ZjYnlNZlBXNGk3S2h2ZUVwNTRrcFJwNWlLSW5XZGxoWmhjRElnc2hzbTdWRmgxdmdIRUk3akxnQ2hLXC9FRFBrS0x6d1V3bHNsc1Jwd0NvRGc2YTVpU3hzZWdsVlVFZk9TQlM3eVJRMmpWNUpqQ3I4V0JoUE9RTkxveHlxRjRoZzE5dm00cTd3czAyTGdSMUhlTTJ5b1ZSRlpDbUhkNXpYT2pFSHQxME1jMjRjYWNSUVdPVlBDaFBwbG9iQkliOE1cL0QwYXBjcXVBWHZ5bGxlSDJjWE9GXC9PRmM0djhZck4wPSJ9
+
+#EXTINF:-1 tvg-id="DramaSangat" tvg-name="DramaSangat" group-logo="https://rocket-tv.online/Gambar.webp" group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" ch-number="",Drama Sangat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.php?ch=eyJ1c2VyX3Rva2VuIjoiNjc1ODIxNDMiLCJyZWZyZXNoX3Rva2VuIjoiTytOYzljVkNFQlRqdUZBSnpubHlqQ1RCNHR5dlpkbnZHK2s2enJFdGhseFN0NGFhZk4xVG9hajJneFJGV0U2ZGZ0RG1idjNVN3I0NXFmSG01YU15Y0RSelk3OVJXVStET1FNYkJ5dFMzVzBzdEIzakp3OFlBV2lmSjV5VEtnUXNYMmZFMWt3cGVxRzQ0TlMwVzlCUTk0RVB3VTNcLzdlQ2lISWlaY2ZJbHJkQXBrMWJYVkFmZHlpQkF1XC9XU2JWQlFNNzY1dmo4TlpGS2lveUpzckpsMjdUQzM5MktHR09uaWh3WkNQa0wzZFlwZ2FOTktZRzdET1ljbGU0eFVaeWkrVmFDVFVkU28wcjZlTkdTcnlZUkZXeXpTbnB4YkNmUmFqWWt2NEl2dkx3Ujg2N3lRVDVGdENEUUNuTmltZ3lGUUpZUGhYWXMzTzE4K3J0RUpCRDl6bGE1ZTZ3QWtaTlRsenVcL1dnWGh3UHEwPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jkIAv1xNUj/wC/0XPQIWAg","kid":"eExgN+WIjoQQbkEFn+KxEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="RANIA HD" group-title="Malaysia" tvg-logo="https://i.imgur.com/6XVguwv.png" ch-number="112",112 Astro Rania ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjE0MzU5NzAiLCJyZWZyZXNoX3Rva2VuIjoiK0dub3dVWVoyWm5vM2thbHdDcmZUMjd3dE1VaGtPVEJmXC9FWlQ1cVFIRytoYnJZNFdUYitTSTg3eUZsNFhGc3QxSW5NRHZnSkQxNlI4UDNaVFNRS2Q4XC9vQnBDUzJ2MjZlV1dcL0kxVCt0MXpIbEZ0U21oOFlVUVwvSFU3RnBERmFwM2g4QXZFc3RDbXBITzcrK2s2VEtLbFdwcmdWcUtVWE5aVVg0d0FLbDdYNllMMGVObnVDXC9QdGtZTUFROHRyXC9uMTdUMHRPOVAxRkw0U240RVR4cEJjbldjaGhIS2VtQ1NlYisrMkxFY2QzTnIrQ05XMnpCYXVhRFVEVlwvUVZqV2NGcXBEWHBuK0tRQlFKcHdFNVNkM0F4NmdmYkFpcXM3M3lPRFBvN1JrWVlkK0QrbWErRlJlZlo3VmhPR3o1clpLTW1rQTFReDVmWDE4VloraHdYNzNxXC9LWkhhb3pmb0MzWjRxSGt4bWFpcGM9In0=
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9cIxIYX58MSJS3POF0GdjA","kid":"hpwyN9L654MBqR27WpJNEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="113.astro" tvg-name="AURA HD" group-title="Malaysia" tvg-logo="https://i.imgur.com/JrJouVq.png" ch-number="113",113 Astro Aura ᶠᴴᴰ  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; pepek Build/RTM; 1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDUxMjA2ODciLCJyZWZyZXNoX3Rva2VuIjoiOERPOXptYk5lUitCdk0zT1BSU0pHeExWRGR5eGFnOWNzOXBEb2E5Q2ZvTG9WTHhiZTg2c0RTTFI3NktYeWhDVWdpWnhpWWo5Nm1Jcmw3UERYYVk4UjVrZ2dIN1RKUXJaekw2cDgxN3JocnM4Y0ZMYVFNNEkyNEl1UjVtT1ZtTHVYTlRRMTFYXC9zQ0R5SHNLQW84Q0NrTWVVNHY3QnV6UzhXVFllcWpqM1U1UzFMS0N2Y2M0aVRibE8yMFg3d0hLdHZaVFRWMWFOazlvRTh3NkpPUUcwbGI3cmpsTUNNam0zZThibXB2dHJZUGhkc3NHM0JobUpnXC9RKzFjcXZleW5DeXZPQTFVSlNBdCtLbFcyOXlhZjlcL1Z6XC9pd3d6ZG8rTk5aRDJMR1Y4djF6THVJV2hPUW96WFRTOVY0QVNyY2lPQU9CUVZ6Um44bUY0aUpGdkw1Rm4rcnRIVXNkZjN5TDZ6bDU1YTlsTWNIOD0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6jW+eODKIfbGOpgcRGHNg","kid":"QaQvta9FdQHBG7mxWNWhEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="114.astro" tvg-name="TV ALHIJRAH" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" ch-number="114",114 TV Alhijrah ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjMwODU3NjQiLCJyZWZyZXNoX3Rva2VuIjoiOGswUWpXdkJVVE1Vb053OTNMd0ZJOFFGNUhiMXpXSTE2SUJvQjJGU2pHQitSMWpXMkxsZk1wa29cL20wYXJUSU00MkUwUUVDZWVvVnpqME9vbFRHR0tFYzRqTm9pZGsyUTJZYU8zXC83VmlacDdTeXVpRDZkT0puUCtRXC9ybzFqNFhXdnNZUUpMdUpJb205S1MzSG5EemdWYTg4eWpTUFZoMnpOYXJadHg3ckJEMjFGVG41WVJVK0ZvUzBib083WllRUzl1OGJLTnZ2bmZ6ZFRha2hDclFvemlwOXpkM2tYNEUzRUJTdnNzOE1VU1Rnd3laQTY2Z2lwQmZLK21cL0VHckJObHFmcXBuUFlqaTNTZVU4RHdxVlM5dVc4b2xEdlpUTW9aTEZGeXA3blgzUnFoV1JpeFdVWnRyQkI0V3NHaTRCXC9yamNFWHFOeFh4dUdvSmFXaXdFck5Wd0tGY2YyMWowSHo2Z3VKZWFBTlk9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"btm0l2qFSiic5iyslXpV1Q","kid":"rTyyQs3jtofiOYzSHrm9EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ColorsHD" tvg-name="COLORS HD" group-title="Indian" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" ch-number="116",116 
+Colors Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDE4OTIwNTciLCJyZWZyZXNoX3Rva2VuIjoiazhqSW9ZSGo2OUE5N09VOFV0enBrUlNKZytwV3A2SDhCXC9hZ1pWQmVoZktQczNIbklldlUreUlwbElNUEdCWlJwTGh1TmNRMXhRZHpkXC9sOUVrcnQ1d0pOcWJXdlBGenZ5SENYS0x6VHRkVnNBVUxsN3dEblBrVUt2NGJDQzhsWU44XC82TzcxQWZtR3lnaENcL3QxUGtYK0tIekxhSVFzVVpcL3dCZ0E4d1k3aTFNRWxMWHZwSk1KSWhEZFlkcXIzQ3NUVmVOeVg1TFZNRnk2VUpFaE44SklZUVlXSUJseWh3MW94VDlnUjlsQXFjQmhpbHJQOHlUTDNwenRNZkNic3pEajlYekVBa3I2YzBQRk15WTNPdmpkZkFSdmlJUUR2R3VSaDZiVVYxUmJUcGpIdThpdHF2WTBMMjZQRFVWelFqY20ra1pQMGxiRkZsejdVazBhYWl4dUJIUzc5a1JcL0VJSnhsMlQ5UmVNOGdVPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ColorsTamilHD" tvg-name="COLORS TAMIL" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" ch-number="222",222 Colors Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDM5MTg2NTAiLCJyZWZyZXNoX3Rva2VuIjoieE5HdUpVZlhlRHpuNXNSc25GYnlZSHVXZ0JxaGh5NGI3VjI2OTZNQmkzdkxVdmRrVHRTUHBWc2ZPTFN2MDFncHpCZFF0aGNoZzhLSnZXN1V6XC9QZmZveVIxbWwrQklCTzdzaGc0VWw5U1RUaU9CXC9MQ3Jodm9WMHAxSEZRclFjelY2MmMxVDNQcWFGcDhjQWhHV1kzS2tGYWVGYVFLRGg5ODJuTkc3V212Ym84UjhSaXl1XC9rSlVPbmtRMyt6c042ZHhTbXM3YmlCbzhPZW9OVmpFZDVFK2dwbU9GTFNmUjhVb1NcL0N6a2hkais2dGFBalp1b0czclAyVGpOWmtmOW92V05mWU5wSFZvd2I5RGhVb1JBVUFRZHpuTnhWdllxZm5VdzF3amRcL1JTZjZ6ekt6WXVYREJIN09wMnlXTGVVdFRDdytkSUprSjJTbmhpamdxRUtNeHlMbGRET294a3l3SmVRcWpkbWlySTg9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Znoz9NW7NYfy1SCYhoOerA", "kid":"DU4+fawtWLk7+BmnL+jVEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="223.astro" tvg-name="ZEE TAMIL HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png" group-title="Indian" ch-number="223",223 Zee Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODEwNzQ1NjkiLCJyZWZyZXNoX3Rva2VuIjoidGkyalwvc1VIQ2djNWhObXl4TEp4T2tHQTZcL3h6XC9rQkl4a2t0cTJsaFZnRVpPMHhYMWZNSWM0Tm15YlhKb0JxMGkycTVvK3NcL29MXC92V0xZZFpzMmw1dWZMZnhMVVdXeTV3NWtsc0MxczJzTkd4KzZOaTFWcHJPUUJjd2w2cHhNaFMwUUF5SUdWXC9CWmg1SHdPTTMzc2hqeEpOWERqWGl5WCs2SzNucW1seGJjR2hlOG1yWmpwckxlWGxuS1FzOEs2ek4wdVJFTnBnTENtNk5uV0dkZHY2c3JZZE9UMHRpcUpqZGUxcjJWZys3VzdMWDBTRlRSY1Z0WkNLR1JxYmlFOVpzcWI5UEZCYlpQUytBRjcxeUY0bmpSc1BhYzhiSGY5dldzMndCS0ViWThTaDVQU0h6WVBWQzR3YVM1VFk4NXBQRmV0SWpkcnMrVkRUSDdaSXBTSTVTUktiaDd3UStDSG5pWDJIeXNrZTNBPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Vcyu6IazQN2QH0v43Z06ag","kid":"w+lWs4rpk74UlMfPoXsREA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="122.astro" tvg-name="TVS" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" ch-number="122",122 TVS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDMwODE1NzkiLCJyZWZyZXNoX3Rva2VuIjoiQnErY2UzYkNNU2pYUGhtdEViQW5DRWxwejMwMkw1U0dFdnArZExOeWtINUJySDJic2hMckVVRk1ucFE5YnZWcjhyWDlGWHJxTFp2bnZcLzJYbG43S1k1NTdvMnhkemNZVWJYZVdoQ214MGYrRW1oUUU0RDRVejBKdE5NYTZ1MmJCZm1IcG9nS0tKeEdQdjJMa1czWlY0WFZiRGlTNWlMOE9hNTNwYW8xTlBWSDRcL0ZzejExbW5pN3huakF3cWh0Q3FLWHlvVm5PT0VtdmF1OTdaMWp2MjNSd3hUbUJoR3pQcG83SnRyelRVczFtcDdEZWZScHZqOUg1NzI1RTU4anF1N1ozZmNnTGdKXC9LTXJ0TUJMZVAyNWFlT1QzWDBseEdxYzBmMlhRU1wvMG12OWgrU0JmZmpuUHFUcnUrZjNcL3ZNNWZDYWJpdjhzSERkbGRtQU5WdURkNGVRSnFjQWtsRlhMVjRWcTNvcHh4V3c9In0=
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yEdSMcCdwbY5iGl2tvx1dQ","kid":"YPICsWQH/t2ONpwyr1fdEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="146.astro" tvg-name="TV Okey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Malaysia" ch-number="146",146 Okey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzY3MTU5ODIiLCJyZWZyZXNoX3Rva2VuIjoiRWpuVkFFR3F2OEhFRjJUdFlPcU9leGRRZkQ0VmNCTW5zTDNJMHVMZHBjRTNZa2xLMFpFTWdBMWt2VFdZVis1eTE4aCs2aWo0Tk1LWkZyRmlHdzgzR2hZYzgya0ZhM1VOSmhmbk1KcGx2XC9ySFNBaEdkN2Y2dFdEV0lOQytHaCtTOGlBek40SXdFaitlS1V3aGRXVEQyMzB5QVU0XC9yOEhta21kQjRyaGVMaXQ4ZWdFdFJaWU16MU9oMFoxcmFobmdrdjRYQjBDZWhjU2hWVVROaVQyOXphczg3WlpRVU1yMHpcL0FhU1dISVA2NFNaQURGVDlmNG9Fb2puY3JtY2pibDZmMHRZR2JlUkdNTEI0cVdxTTdLZldGWmpBRjJ5Tmd1MXEza1Q4OHh2ZlVMNEljQjN4WmVhclEzYWo2K0RHOEltd3hubGRCNHVDUmJJWklCOW42SUJFenNseGpVT2NpYkRyeHBTaVdkQnRRPSJ9
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tUFjJhFKE+kGYqT7rzxTKw","kid":"ckmcatRMw32VqQdUIJEREA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="201.astro" tvg-name="VAANAVIL HD" tvg-logo="https://i.imgur.com/jXBuSzM.png" group-title="Indian" ch-number="201",201 Astro Vaanavil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTg2MjM5NDciLCJyZWZyZXNoX3Rva2VuIjoiR0lpQms1UDFSaVVTRkhRb1dTSUplQjFPR0pXXC82dE1LdVQ3S3g2WWIrbDNPSDVPR1FzTXlRRlg0TkNOQmtxTlVFdkowVkNBdE5WdXZUNGVId3JlOTEwOXM3M0g1NUVFamJ1bnJleWJIM0hFcXZFazRrVkhvS0hpd0tlSG9JVFNEc3RoM0I4TXJPbFNCNkswaWlqcGJyckxYS2JQeTErU3VzbU0yaHYyWlh0cldUdnU0UU5cLyt6UUJCcXVEcTBLUG9RNmdcL3ZKWExQTHdMNUswS0drak4zWE9UbWhCRkhOSnJkdmJ2QXpiZ09yMVhBdG9SZWVwdEZqVGw1c01HbEF6RlhiR01PRlZSUG91all2XC9LZ09hWFY3MnpUYlwvUFIxUW5SUkdrMmY5ZGZsV1NpTWs1V0c3VTBSc29XRGNGY20rekhZZUFhVXpiWlN6XC9CWktWdVRtKzN2MldYNnJMaDhVbUtRXC9Cb3lZT3JjYz0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XzX4FWmRQOJknYJfDSQCjg","kid":"F9XWLcYZVLgu4BbaJkq9EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AstroOasis" tvg-id="OASIS HD" tvg-logo="https://i.imgur.com/18Gk00F.png" group-title="Malaysia" ch-number="106",106 Astro Oasis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjc5MTU2MDMiLCJyZWZyZXNoX3Rva2VuIjoidnU1ZEs5K2JxNk1WcWx2Vno3QWl5V0lwTlR3XC9LejZrUm1qR0dDQ1pcLzZUeFBEZ0VrbFkyUE5SVUNjVnNpNEFxckg0SGUwcGxzQ3F2WTBhZXlCSnVrS2xzQ1AyeVhpRW5WRElxQnBmNDEwNStvb3RHQXBMYjVCVk9qOTRGaTlsOHJ3cHd6NEVJV1lBSHkwWWxBaXlLOHJRS2ZUT3k1OGV5UncyZXdpeGtcLzFpZUhSZ0Z5OWhRcE8yajVmSDJCTWJHRkxCd0ZnbDk4MVExYUZYVGVtYXl2UVFjeVhhaFBDTE9meDlaZkRDblcyRngrS3lXcUJwRG1ySWhYOERDQlZrXC9FNFhCQTQ1MzMrdUlBZGFGaGIyZW5rc3NrQnllc1B3bGs4UVhYZ3VlQU5jY1ZBYmZhaG15UlBaYlwvckhObkp0QUd1T2hJbVR0NXdaOVVlV3Zkb0dWU0lPY2tobEpCSUFxWFpFTUNXcEVKZHM9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroVellithirai" tvg-name="Vellithirai HD" tvg-logo="https://i.imgur.com/cI0viGH.png" group-title="Indian" ch-number="203",203 Astro Vellithirai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzc1NjgwNDEiLCJyZWZyZXNoX3Rva2VuIjoibGpvS0FIUkJaN3NPa3dmcGU2VEsrNlVBbXVvTk5hQ2pjZld6ckVJQTZkNEhMVFVIZHhORUcrc3J6aHBIQU1McUsrSWIwd1pxczZyTUlZUkY1WHRRUXh6QkExbVZEbnh4QVl3ejhVelkzRVZoRXMzb09GOHl4Q3MxdnlqeDBKc0VIWlRiTGxkd1drd0dveGRcL1V3c3pIZkdDTmhpVDc4dnA1eUFPWklcLyt5TWo4UG8xa0dqQ0hDUWppSWw5NSsybXhvMmlxaHA1dWRqUGJxUG93M3pUMmZUNzNLNnFTd3dlaUxnaDg0UUppY21nVE5nZWlNM2kyY1BoK2hFcHVLZDNYSm4zYUE1ZGZFdmNwaDh5SDluMkJOdHpxK1NJSGZCY1RjZTlKUmUyMEJXVHVMVkxYY21MbEZJUTFFc2FpVURqaldUclNnc042dGE3Z1VaQ21jUXpjODdlaTgwajI1U2trVk5nM3lUOWNjczA9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="211.astro" tvg-name="SUN TV HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_TV_v1.png" group-title="Indian" ch-number="211",211 Sun TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTk3MTYwNDMiLCJyZWZyZXNoX3Rva2VuIjoiU2xuZWNRenB4a2RwNVpQczBaVVJ0TzI0Mnk2emI1UThaMm81NWR4aUtIeFgrZEcwbnNmMXNpVzZwb3Q3TVlKUmZIVlVWeTgwOVBQS25hWHZjT01lZkpGM3ZlVGw0NXJ4UER6TDlGU3RtbG9ZTkJSS2NVanhmek9RbDRoXC84MGIyMjU2SmxuTXBsUUV6SHRUc0lzZytpUmtVTk9oemRqcU9KVnczbnBIOFhGZzh6SHJ6MHp0T1hHUmtDbUxHRUVvOHBYVUcydmExYzNhbHVEK1A4aXVQS2FSeWljbTAwcUJ1dFJpVUNJWnJFSWxHNXZDU2IrUTFXNnZQSlVoVVB1UEZLWTRzZGc2N2ZGWitRalk1UlZWRUp1dWR4VGcyb3RTSlVEb3dnaWtESkE1TVJ0MFwvMmVZdGE5anAxVGRpM1pFR2MwZ1pSXC9MZysyMm1yVDlpNHF5aU9UTnBNUzlaRHROaW9zdGV6dVJmS3h3PSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2gpwFI4SbrQMzgJmV1OJbQ", "kid":"vqypRh98oNWLpSn+0ue2EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="212.astro" tvg-name="SUN MUSIC HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_Music_v1.png" group-title="Indian" ch-number="212",212 Sun Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTMyODY3MTQiLCJyZWZyZXNoX3Rva2VuIjoiUEp1S1gyOEZJVTBGcGk2T0NhbE92dnQ3YWdEdnpDbFIwWlExa28rUjgweEZSdW1sUHl6bGtZRFhOWkorK29ldk5ReXNiZXFDT1RJaFR1amhBeGd1VHlwTEw2RGd1bVZBUUZIR2NJemlhaEpnSjhDZlRkK2VTYXI3dUZERmJEMFJZQkZheVpvOXB3UHhwTmV6Qk5UWFpVQ3NocWdrMDErbVQzeHpvWm50ZktEcWZlXC9YRzhPcW9DTjk4XC9zZVJWUUh0Y1lcL3QxK2V5dTR5Y0Eyd2FzcnB6Z3ZWbE0xdldPMHQ5ZWNvTUo3b0JjVDRuUU5YempUMysxRHdtUCtORTNZMHMyNEd4RUt0TmFGV0tlZGxob3FybmdmQTNObk1HOFptMHE2R0h0K0F4eFBvcms0Q0FnbVlmMkFjNEJla1N6d2FWalc4VWd6enlpZ1ZmcTl2Z1NKU0hyNWtrYTh4eU0wbXdhcjFPTGZzTHM4PSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XrN2KxpGMaC5jiXiPO8Bkw", "kid":"hZ9bIFTEBz6PDaRj0gi5EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="214.astro" tvg-name="ADITHYA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png" group-title="Indian" ch-number="214",214 Adithya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODI3OTQwMzYiLCJyZWZyZXNoX3Rva2VuIjoic3l0aDFnUkVcL3ZzS1YwTnlMRFNQanZJUlozS2FVMGJnQVVhZk5KWEhQNWtKaVcxWE1PaU82RHI5ZUJ1TU1KM2krbFIxcFhseXVzcVFEOHFBZEUwZ0VxOEM2bzlhVzVqTHRKYTEwR1dtYXB1UUV4bGRMcGRxWnY1eURWTjYweGN5ZElvNEVrcnN0Mk52NFpuUGNPajBnRVFGdGR4UGl6U1RlMlgrMUFkZ2JFbGR2RHl5YUdwaGNaT2dBd1wvTThJSThwZFp5Z2FOTmVMTENOTlNYeWZMTVVYTWQxWkpuM0NWSDNEcUk4c2NzNHhWN2RNTHhNd0I2RXE2R1JlMFE3ZE5hS0NPODBVdm5DNVc1ekJPZHVMZWN5SFptTTRUcE16RGc0MlpGNENsTFFMcmZMbXY0XC9mQXVjaDBcL25lVkZwUG0yWFwvRmZiRDNpdjFrMmZZT3hmVE1JcEg2bk5OKzF1cVhOSVhPQlUzdDdoVW89In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rAh5IEchjKKgHyu9EtkFAQ", "kid":"ChccwbuQ94ggzyXMVfDuEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="215.astro" tvg-name="Sun News" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-News.png" group-title="Indian" ch-number="215",215 Sun News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTcwMjE2NDkiLCJyZWZyZXNoX3Rva2VuIjoiOFwvWW9nSFRpWXJzMGhwakJEU0F6XC8xaW5DUFpRNFpaSGZSQkU1dGF5dFwvcnFmclwvR3M4SVhrWmFJY0k2UmQxdFA3ZDZJdG1IOFlhazZEUUFIUFNDdEhJZWNrWVVjOHRrb3V0aEVISDV4SnQ4b2JoRmQ0dmVMSFdxMFUzaHNCckhcLzZzNTMreTk0MlNPc1dIRXBkMkFDXC9GaTJmYnh3dkZqTlR2RVVDRW9cL0ZkRm95TGprM0NwcFFMd3pqUjd3b2hCTnBvVFVuOW9oNDcxOHR2Y2lSMGdGS2RET2c5UnBnXC9neXJCdEZjdTlsUDdJVEtyYzNzYkJtKzVET1ZvbFNzaGZvemlCWlM2dnRSZGJoTWxFUXFzQW1pVFNrZE1Cb01xdTRlWnBjOXA4azFWZ29qb3FWWDNmd3VwK2piUGM2TU40aUNqNlFIVnlGNWNNb2F0M1N3UFhmc3R6Q3V4NmFRbFhJbEt3OFFNVSszSjQ9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"c2SM66N1FkWSbUVCHIXZJw", "kid":"jnhjqOdwsNcuvkpoQ3tkEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="216.astro" tvg-name="KTV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KTV.png" group-title="Indian" ch-number="216",216 KTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTc1OTg0MDIiLCJyZWZyZXNoX3Rva2VuIjoiblRcL1ZJTVIzdDY5SEdqRGNrYUdDSk0yQnpLaGN5QUt2Wk5KT1wvNGcwbUsrOENnQ0hlVWxJRmhCVkpSU0kzaXBaVldsZElBNHpwWXNzaU81TDY4enp4Q3M2S2xicE1DT05zYnNoNFp5TWgrSVwvbkhpWHRRYk9Ldzh2cHloKzEyUkl2OHVJWm4yWGV5b2F0REw4Nk9LenZjc1liTmtvRUtXaE9ROXZDQTd6RUF5ZTBjQkFTQWlSS29XOWNFdVJTOVhBMVZUWlJCMTUwY2ZYclZjQWRvTDdrXC8xemRkT1wvQnJyc09BeVdWc2NvTEJWbWwreFhONzZZbWNobVVycEpnb05xeUdRMERxQytrV0dKOTd2bTQwaEhvQlpKeHN2RlNoK2F0TUVHOHZBak5Xbk5IMnJlZmM2VnBEamw2UU5aOUFQKzVPd1lnYkpuT3JQUTRWK1p5MFpXdzZsZXVpeDczd2QyV0IyZUx5eFwvSkM4PSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cmMEcIxCn2E+wtxTYZ1vdg", "kid":"4+G+lObBk/oheHzoQ122EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="217.astro" tvg-name="Sun Life" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-Life.png" group-title="Indian" ch-number="217",217 Sun Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDQyNTM5NzgiLCJyZWZyZXNoX3Rva2VuIjoiZmVCOGJIOUM1TmJFcE1vYVpOUnE5Yng0ZmR2emV5SzdXVlNIVDk5cXRkQlBGcjlKNjJ4UE9HVFFPcXpyK2pleU1RKzBlbmlYVURXXC9iVmwxUFpPaHA1amttU1JwMkR2THIwNlh0XC9wZ0YxTXFpSjFKd2VhZ1JTc2VrM2ZnVjFEOUd2UDQ2UW5lNHgwbTlkUUl2aks3MzRUT0xiYWJDeDdLT0ZNT3pRZjZvMzdyTnZOTVpEXC9udElFM0xKUGF0bWhlcUQ2ZUo3WkhPMnNwOFBnK0NKWWJWclh6K2lBdytKdkozXC81bUE5cEU1cUtIdDNjWllRc01hOGFWb3VsK3JJVWpxN3pRYzVqZTNHWXVKaTBTXC81c0ZZRHR5U0FsdGp1RlJ3YWRWSVFudVFkSVprNWI3NDFXeW5XQ1dHbUg3MWVodElNWGZ2MnlGKzJudkNXcWxkUGl0S3l2aDlmdzVNSWptK1c5dGd2NnBGZkk9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="221.astro" tvg-name="STAR VIJAY HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png" group-title="Indian" ch-number="221",221 Star Vijay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTMwNjc0NTgiLCJyZWZyZXNoX3Rva2VuIjoibFduYmIyWG5VMGhvTURVN3FUeDhyQ2t2bHc5UEFNSDN4XC9XQ2NVWmg1M0liZUV3WmZ5V2hIeTJPaGJDVVh2aTRpbndUME9jdXVkQlVpRU1QRWE1UmUwXC9vNXdYeWRPSmZ1YWZmS2VCMkxOdDY5NkcxaTBYdG4rcnZXWU1kb3dBc2xEa0dLcG1adFU0Vm5XSERicWdQXC9OR01uTUJ1S0xqbk9pWG42a01iNnMwT3VaMG1QTUE2RklUdEVyZFB4cHRYbndPYkpmNDBIekh6SjZxUHhsZzZVNkV5b0p4R3UrczdHQUl1VnVKTzB6Vm80OUs3dmJ4XC8zK2docWpxUlIzemlcL1A4ck10bktLbUdEeW1MV0dZcEY1ODNFdEJsMzVPSUwwb1wvZmR4TUFESHF5TXB3NENmcU1paEJNZ2JUaVwvNU8xVWRIc0t1elpiXC8wZ0JVU1FFM2kwbVloYkh5c05EXC9Mc2FWQll0eXpGWFlFPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IPOS5aECG+aPwyvNuew61A","kid":"25ZIOQB2LiM6p4MEV6DTEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ZeeCinema" tvg-name="Zee Cinema" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-logo="https://rocket-tv.online/Gambar.webp"  group-title="Indian;Movies" ch-number="251",251 Zee Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzM5NTEyMDQiLCJyZWZyZXNoX3Rva2VuIjoiWVExaXJMT09GZ2VleGtPV0p2WUN0SUhzRnFpYU1oS3F1OGlqS0VWcWp4cVNDd3A1ditvOEN6elNRTlJYOFZLMlFIODAxYXBzSExtZUNDT016a244ZXNzV08zWHB5dFRMNnBHdE43MUhBdkJIb0IyWTJzbmQ3UXdpZmo2SVJ6VENyb1VEQVdQR05zaXVEMTVBVnltM3JJU0s1c0NROFlcL2c0NTBrME5IY0VrUjk1WkdOSE5lNTJaQ1lxQjYwdmI2VUR6N2k3bStZRXc4UUNtd2x2Q2RYa2hSaE1XQm5VQnR6K1IyZUNjMGF1dXErQjZ2RTh0K3NMNTdiMTdlVGEyd1FOc0MzTTF1NjYzVFJcL0FzSmh6M3JZXC9mK29HWTg1cFwvYjZsQmlMcWhpak1oZThwWlpCemozcllaQWt3XC9yWDk2XC8yZnY2dmxiQWxJTFpXa2p5cXh0XC90ZTV5Z2EwVUxnTndkK09kQ3JzTHRNaz0ifQ==
+
+===================================================================================
+
+#EXTINF:-1 tvg-id="SonyKal" tvg-name="Sony Kal" tvg-logo="https://ml.globenewswire.com/Resource/Download/129f47a3-4a9d-4fe9-9a65-cbc15aa2994f" group-logo="https://rocket-tv.online/Gambar.webp"  group-title="Indian" ch-number="",Sony Kal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMjM4NjA0NzEiLCJyZWZyZXNoX3Rva2VuIjoiM1ZaWURtZTNLbHoyN211R3FoM2Q1aVwvMDY3eTVDd2phc0paVTRZV3hPbFBxWVB5Q3FRbWxGQ1c3cW9RTXkweGxsZHIrNTZFWElNT2VwNWZvbnQ3NUIzOUhZQW8xR1ZTeEdZN0pYenhRYUhJMlN1YWNseUt5M0JjSk1jcjlOU3VHQm55T2w3MzRGZzZTYmhEYmxJUDBoMWNleTMxTHFcL2xLakRiaUZrSTV0dUVmUzFneWhKdEUyTDNjOXBjOWZ6R0lZWnRuRzB1Z3RMemFtdE9HeFdUU3VPOVREK2l6ODg0b0hjbEhkSW1NYmh3TFwvOTU0VnlJQjdvRUJxdUtPSEdCaGl6OUlsc01SUGZKZUR3VWpNSjh6ZkNhRDR3ZUR1ekdZaXBzMlR5Vnc1WWhKTEs5MTNtSUxCNTZRZ3R5NmcrSjkxVmRCeEl1WCtTMWlkOTRkOFNiWEpBPT0ifQ==
+
+#EXTINF:-1 tvg-id="BollywoodHD" tvg-name="Bollywood HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_HD_%282018%29.svg/revision/latest/scale-to-width-down/1000?cb=20181116224348" group-logo="https://rocket-tv.online/Gambar.webp"  group-title="Indian" ch-number="",Bollywood ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMDc5NDI1MzYiLCJyZWZyZXNoX3Rva2VuIjoieXVXc3d5dWVCQW9LVEZ6bmtpQkJLMkZ1R1dRdVprYnBmZ2ZZV0xWOTg0dlwvenlrd0lFa3FjOFgzd2RzZUliM1F3R21yVkdCOUhkTE9BQzdhYTRkRmJERUVsUlJicGxkbGlBVktITHk1UVFFMmU3Z0IzVWwxSWJYSlYrUmJ1bkNcL0drVXFVU0pTQUtnTmxuVDJTbnVOQ2lnb1pCR2RXVHdacXJDRGFrRXBlMnVqakVub3l2ZlwvSnZaVlFGcmMwWkJQRkIwSU93UXQwU1NWVmdjdGlXcTMxUlZGOGQ4UTVyVThTdkZSNnFGaFl6S2tpdEMrSlJGRkNqT2NTcWc3NmhqN1FlbFFwMVlodDlmT3g4aGROVzNhQm1KRit1N1Z1dmdCN3RhQWE1ZnJsdVZOMTZLejdzVUZwQ3l1bzhJWlZvU1p0MU85NkJYUlhPMklCM2MzMnBkVXQ1ZjhPdnNVMGZGdWVxSjBGM2dmc2lXdGpBWlZkOXpnNVZ5ZVpZM2JSTGk4cWFUemkzTHhrUmV1MmxMXC91SGZSMTZJd3BwWTgzRmRacWQrM2dmN0RcLzUxeVFqRXdoY2FCUjl1KytiNkVlMHpxIn0=
+
+#EXTINF:-1 tvg-id="BollywoodClassic" tvg-name="Bollywood Classic" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_(2018-.n.v.).png" group-logo="https://rocket-tv.online/Gambar.webp"  group-title="Indian" ch-number="",Bollywood Classic ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMzA1Mjg3NDYiLCJyZWZyZXNoX3Rva2VuIjoiR3hDOEVBNzB2cnIwNzVVODQydnpkRFFDOTdBMFFHTHNxK2RuTThqMnhta1wvUmFJZ0RYTzh3UnNqYVZ1QkRcL3dqTVwvN0hMVkVxVlFiNVV5aHRwbm14Tys4b2V1b2tkOW95cEJXTFdxenpvc1FWUkJ3ZDB1VzVncFRUTWZOQlVqb0cwTjkxQ05ZR2tsOE1UTTBjZEYxOVEyRDJlTmJkdjN4czBabCttRENhUDFTR081M1B0V2hkSXRoK2NLbnY1MVwvVUNoTVd1UWxcL1RjQ1hycGVrNzlCK1lNckJcL0M2V1VINkNzczA4NVJlUU9EMDdYemI5VVA0S1wvTXlvVDRvVVFJSWlSWnpHdGRTWlppdWlvVDRtZUNoOEl3aHQrYnhuSU9nVVhcL01ldDRrYWFmS1doeVNvSUxmUjdxeTMwU0E1Nm5DVGhuVVNcL3NlOHp2dGNcL2NRd2d0VEtNQXhvenFRNStFTlVDUzVZMFFqSjBQUzJhZzNNT0lnWEhFZzdwU3NDQTFIditsZnd2OFI2ZHM4K3MyK0NxMW5IZXNFcTZtaVhSNG5ZNldlZ253UEhWUm5mOFFwRUFyeitlT3ZHUVYxNDdDMksifQ==
+
+===================================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d9mO1x23Ukwnh1oJqXX55g","kid":"fvfpE86FoRMbJwNgaRaaEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-logo="https://rocket-tv.online/Gambar.webp" group-title="Chinese" ch-number="300",300 iQIYI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzEyNTk4NDYiLCJyZWZyZXNoX3Rva2VuIjoiak5hMGZGYUQ2Wk1Od0RrMnpuekNIdkRcL1JHMElidXVtdXBaK2QwTWNXRTg4ZWNOdSsyeEgzMDhvYTVBeXIyYzNINm85ZGJLRGdcL3dnV0srNE9PSDdlMXhUXC9qMzhBT053d2JWaFpNdGhFYmJmUDNZS3R4eFp3ZGxkdE1IRnVHMWlzRmVIQjloV0s1XC9cL3ZOdEI0eHB0T080cFVwSEtzd3B3ejU2SEZqN2R4Z3dKcnIyS2cyelFjVHcwd3hMNVcxWWZMRmVUdk8wU1Bqd0lwZFFDbHk1anZkTlpCV0ErSkkwT2ZWaldwVm4zYkxwSGlDYUVhSGo4cFNNeWphbUM4Vjlnb0hFTFhoWTREc3BTZ1BnUmF2aHdqSXA1bVB0Nkl6WGtBZkY4TFVGM1grVkJSc1M0YVdVMVZmR2xwVmtxbWYza0F2cWxCazBvN2JORmNkQlQ5bFkwSldcL05iSjA5RytxRGNXRjFVSGZITjdNPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+#EXTINF:-1 tvg-id="305.astro" tvg-name="TVB CLASSIC HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="Chinese" ch-number="305",305 TVB Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTUyMDczMTYiLCJyZWZyZXNoX3Rva2VuIjoiUjJWSU9PdkFSWnpZc25DVlhoRnFxekdibE5UUzZqVlVON2tZT1NVUWRMTmpON1wvc1hwZDBBcmJEN2RJYzhRUk5CVUM4bDFPcjJKR2FWdWpURzhSN2RPN0RoSjg5d2NrZm1CZ2k5N25KU25jY3RUd0huamhHVDNobklwQlhReDVTRDdzTklDMHdPck41NDhCQUZ0bDlwb2xsQitWY3VUM0QweG5CWmF5Z24zYURKYmtFODQ0QjhuN3RQQ3NXamhqM05HMzNsd0xPZURKYmJZSXFqaEY0cDFFaU5mZTJCUlVlY3l2YVwvNjVzVis1clczWVhSUWU3elVPSkd4VUQwd2U2eEpiQWJLNnNuQmZGMkZ6WjF1M2NaVThCK0J5YkxpWUc3R2VcL2VzUWUwbVFjYnoyTUZyUFwvQXRrRkN1SDRaT3N2RFlkZVNXYWRWVHZcL1BcLzRiTm5BVmNodDRWSjhHaVVkMUhaZHNBVGI2dG1JPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBSW HD" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-KBS-World-HD-Ch392.png" group-title="Korean" ch-number="392",392 KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzI2NDAxOTgiLCJyZWZyZXNoX3Rva2VuIjoiU3B5WGZrWGlXaXV4U0lOXC9MbVNQUmlaVzRwM1RHUmxieWRvbmw1eWdLM0R2dEsrMTFtU2l2ZDdBd3M5YzhXUjd2aDJUZFd6TllLMDZxWERndVhHckJ3VndERW9ycExLZlV6SnBYYUx3czVXcWljM1ZqNStMcVNNbkNXMUllNkp6SmZ6MVNIZ2hWTExrSUc1bXRzSVpBMVVcLzJXTVhyNzZKWSt1XC9OZTNWeVwvNjJZWHRkRmNJZkxuYUtFaE1FSnRCSnV0N09ISDE2djlYd2JmRGUwTEN6em9IRDFON01hRmU3UHNzNjZCUmszOGhWa3FVWDNpOEY4RmNqTUk1ZktXK0hjaVNBbm1ydXV6WlpBbTFcL01jRUNJdFc0ZjZMTmZwMTVNSUs2NUs0eUhWbUFKUDBhdWxZUjNvSHY3czVXV3ZxaGxlNzVxNkNCd2VlMlh0NWJvd2FwQzNjTVdzQWx1TnlOQ3RSOHhXNXQ4YkU9In0=
+
+#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-chno="1296" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/USAJ3000013FJ_20210909T003532.png" group-title="korean",New Kpop
+https://iptv.rocket-tv.online/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNDkyODE3MzAiLCJyZWZyZXNoX3Rva2VuIjoiSUU4NzZqdW1pd0gySjhYUDBYMkg2TElcL3BVMlhTR1Y0c2JaeWYxdzhpVzdSME8wUjZWQVVJWGw0a0Rna2dNTUJYbDVFa2dLXC9kSmllNTlqUGRqUXJSd0ZuNTFtYlZhUzN0bUFPZEtpa3g4MFhOTkR5RVVneWFWYzdsdzdsNGozUjBabkk0cnI2b0orYUgzRWZ4RitndjRJODAzSHJ2cHNmbjcxdFRcL2dkOVZjMlM1ZUF6alRCNHd0MysrYUhVVDdHbjgyZm1maEdzSmxRT3lvZklwRU5wanJ0dXFLOEhGSDJ2T1NOeVR1UEtxV1wvTUVsUFhWTnc2Um5qNmhMTFh5TG5DSGhQKzhwNVp4RG5CUjBTZmdPMHpEaGpUcGR3M0lEckdMb01UdjRuMW1wSjhzUEd1RXJEQVdzVWo4S1NKYUNKNkZcL2ZWSXBFd3hWT01FUVJvcWFOcVEyaUtGRE9ITWkxeGRvY0U4dnUyNldjWGszZVR4dDJTWnNySEhYdU1hcUx2cFBcL0YwdTFvRzBsdnFIWUpOcE1udXZRNzh3ckN4cE5qdmluWXZmOFYrb1V0bWxQY0ROcGhBRlwvUGpQdlpjQ2xEXC91QmtHa25yQzhxMzFGTWwrXC9oMmQ3N1FnMndkS2NuSFd5ckptSTZvZncrRnRsNWd1aUZQS3d2SEVBU1dMcVhlUjJvV0NDdE9GR3IrWU5aMEtPbjdsQVV2XC91TDlFM0lGbWV5d1ZhZk9MblJ5RnlpQ3FtaHNkSUUwbCs3bG9FWTFoZ3lkSDFQSkFLRmJNTkNobXJuQU42SFRPaGpDRnZZaHRKdnJPbVFTYTRBRStIdlh4M3BFUjFGRUdKN3BzaEg4MFUyckhzVUJjMU5aS3hub2tIa2srZEx1WUtqR05LZmRJUzBkUTFxclQyOXk0ZGJoXC8xenJIVGk3UytEdkZZOEtrRk1oUGx6eVBXVE9JcVk5ZXVZNHJsVlN2b2tcL29lRzZJWUlYUURyU2l3PSJ9
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-id="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ygtv_logo_dark.png" group-title="korean",Yg Tv
+https://iptv.rocket-tv.online/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiOTUwMzEyODYiLCJyZWZyZXNoX3Rva2VuIjoiR0xRc09wXC9WcUlTWWZcLzdhRHVIcllXQytJQVpcL3VUYlR5dWFaTUxseVpIeGduXC9NbTVPVFZCK0ZTSnJidnA0RG9qeGI3OFVUcHRmTkxUUEhaakVrK2hmd3FRZ0JlcEhLSVowRGVsU1RJa2xKR0h3ZnE0cW1aUW1JN1NYMWdsSERVYWExYkppYTFjaGdjalA1ZGx2QTJYVE0yMkhMNEFCVVZQK3hOVjlBdWR6eEtjbjRzK05IOGdjVnk5dEFrWEMrTklhODY2QVhDQUJFZnY4TEx5VlFmc3BSanZrQjhaTGE1YmR2WVdCUmlZb1hRUUZJNFAySHJwU0NPbmtsdjV1ZmJsekhiaHZkSTFHdmRlZzIwVTExMUYwQklzWlJVbFBETkIwWm0rOFRSWFNvN0VWcGFteWNJMlwvMGNLVEYyaXh1YlZIMjVyMUZHY0xyZ1ZzbTFLc0dHNEE2VXZnT1NicXV4WVIrUjdWYklRN2YrZGNSYUg4TytDeVJDUUNFbDVPR1YyaWswSzdoNEF4UThjNE9XUG41bEV2ZVdIc1hvWGRuUnV6SitSWDF5cVwvQW9TSUFNREVBb2tcL05cL01ETFBnNnNoOUhFbUZLeTVyNVhnUmxkMmg1S0owdTJNZUJXWStqbEUrdzB4eTg0REhXU1llRlpZQTE5TnozOFhnb2lwVzBqb2JBMEt6ZndEbkw4TkZzaTE1S3lzYWJQN0J3ckVoUm13cUFUdzFackQ1TTFRMFFCT0Q0UGlDNmo4cFVOd2JjTlc3ampvMjdadkhVWGxmaEplYjJwTXdWMUYrUGxuMVBZYk9VNlpjbncyOXR6QlpDcHFWRExhc25RcWxjOUpWeEpyVVNnQzRaSElPcWljNlhkOVZPeWFjZ2xaMXlaSmJWZEx2OGhxc2FIU3B1Y1NXd2JtXC9TdlwvT1VBdVVwcTMxa2J4VDFGYURQMVVDb0N4SlhwNUhyM0hRK3IraHZwOSsrQ0Y2cUkwblJTTDUxckNlbFwvOEVCMGVvYkxKdFZ0MENpY0dNVmI5Z05ZNjROdmVMYU1KSFdJcTM4VnFOQjdrVTZkZnk4eEtTdzAzVmJLdG8reHQyc2xwRUFRR05QTVwveXhtbEliMktSYnFmeE96WmJrRXJEVnV0YU1cL1JyZ2w0ZjNxcDRUaHRIMTdGaUJCanhCdXB5eFZNenV5RW9sdHVpY3FicXlNWlczd3VTdk1ISVhZU2hpajJsbEpqM3pPY3JMTWw5XC9KSkFiUWVhUlZ6V3BxMnkxRzBtaVFmaFNVTzBtczRuRlA1UHZ5ZkFzXC9CbzFEVWJqbm9leUErRjhHZ0RoT2pWN0IwWDFlTlNiZDQ0Zng4amRjcTNicVJsXC9GalRyZnJDa2J2WjY5TzQyNHd0NnFTdHE4ZWxqWVBucVhPNmdBMDZXdE8zNW05b3lJPSJ9
+
+#EXTINF:0 tvg-id="SBSTV.kr" ch-number=" " tvg-name="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="korean",SBS
+https://iptv.rocket-tv.online/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiOTQ3NTAzODYiLCJyZWZyZXNoX3Rva2VuIjoiak5sMUxIaU5PVnA0YWd2N1lEWVlMUHZnU1VEK01nbGYxeSszRXNPaFFLeUlCcTN6M2tuWktXVG5WamY0TFwvMFd4VlZGUnFRaUNVYU00cDQ0R2pkejNSZzNhTmF5cXJPcTBxclM2d1Zhc2lGTmFrTWx1NjBHNlpmeFVINHZ0ZXRMSlwvM2NKdEVYSFp1K0RUZndtenJEaFNqeGhQRndoa1ErWERtRDZtbEZ2U0tuV3JlRkEwYkFVSm9rZUVWNG5kVTU1TGpSWDk5eU9odExrT3JMZzZ5NklRd2wrWFl4TDFQRjNEeUVZWVN0K2NGTnIwUEdQajRQVHdZcDRCRTVIMExCRkJzYTBKd0dmTGpGeTJTZlU1TjB4d0J4U3JiZFVsVCtnZnNRR0FTWTVVOVFkbnVLcFJBeENJT0s4ZHJFXC9ZR3hoN3VJTnZzblFtYWdRNjUrdlYzd2VJNVNJVTFRTjFscTJNWFFtcHZVTjlrPSJ9
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-id="5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png" group-title="korean",Rakuten Viki
+https://iptv.rocket-tv.online/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMDIxNjc1MzkiLCJyZWZyZXNoX3Rva2VuIjoiYjlPa1RibnR0NERtbmYzdzhiY24rK2NvYnd2ajRYS0NkQkJqUlR0VlFkTzM0KzU0UnVRWVpEeTJuN0NmSkZuRklcL1wvYlVmZTRmYW9QSjdUR2tLU0hVRjVVSUlGZ000YmIwWGNacGZOdFlFVmlXanVRVnNGbWtET0lNR25qRncyQ29SVW50d0w5cmdsWW02ZjhCY3A4dEZGSmMwcW5vXC84Q1NYZnloNUhrdVowa3YrbmlHV3JCZlFTUlJyWHRmT056MXozeHFzRjVDVm43ZWw1NUlSQ3JhcU8walNmbmZSc2wzbmZWbGRrbmZxZ2kwa0dKWUNQcVFLbWJEb3BZNEtJSFZOQUlcL2RWdkhIUGxCQzhCRzJLSWlkSFAxcjlYYjdhcWZYZWEwajlNVFZkU215aWZ4WEJFemVSdEk4YnFhYWpwXC9CUlZlaGVmQUZHOXdUWGdjUVpOSFgzcldmeWt5NVVsQ1oybXE2b3o1dnRMa3dkMkUxOHNQV0liaGRhQm1yTUFGb241aHdwWGxhd09xK0tyOWJNMnA1b1NqZ2R6Z0RKaUlzaDdrSkppYXdjbXNyblFIeVJ2ckJxR1NwK1RVaUIwXC9ZcWJvRVpxMkxFSVVqVEx3WFhXSTZEWXJvZmJIUktDVVBXSEhmT1VUZFRZUFpRYzhTbGRMcVg2b3VqU09DVlAwa3NyNkhoMjkwN3FWbDZ2V1hhcUlaeFhjK0xRbXVxZEhSaDZUM3haeUQ0WTVcL1daS2xnQWJZZVRRbjUxXC9ST2t6b0NJcXBtRG1wZlZESmV1N1pKaEs3TlZrcnhtVXErZis2ekZ5TnJJSFRlNkJlbjNIXC9QQTBIcWRCZ0pTdlAyaTMxOStcL1NWYWN1SE5iSUhXdDQxRjBnd3o1XC9QeHRobzNXb1Z5Z3V0N1QrNkVKMkFicFo4NElkNkNSZW8xcXZPWDJWcEd2aXNyMzFIQ1dudEdod25nOFZGejBLNmpQUCttajhiVXBuOGRLMDdcL3VZUU1sOXBUZGNUaUFkMjZpbHRxNVJtT0JOUmRYNFYyUTFnRzVyYVBaMDdSXC9SNFNRYktPb3hiKzM5ZVd0OU43MHFyVk9mUVB3SWRZc2NjcXVuQXo2WEpUZ0tUNnJzXC8rbEpGdktcLzJ2V2twalR0MGpYMmZnZjN6KzlkQ2lEdldnTDhYNWpJV0pyRXBKQTB1OHl5OFNSejJ3dVFORTZBaGVMOW5EZkpCZ1o3R1dVditWNkZVQ2Z3UmFpWmVaOE9oUHBWaFNzdVA1bEdOTmpMMFBQa1I2R1oxZ0U3YXl1ektjSFpaTUFXMFwvYWs1eEpFQ1pIRWNyZVFcL0cxeHZsM3lcL1U0RUNHYXJcL0FIZjViK0JacUh1c29PdzJ1aUxWYkZXMXBvTVUyQ2lEdGJxN1V2K2RqenhEVUJUK2h5RldUM2x0RmVsRmdiZEc3XC92dmMwcUVCbE9CdyJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GegOzF0zchXGQATLScnLAQ","kid":"+vTWK7iY3lA0RsKPsaqSEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="395.astro" tvg-name="tvN HD" group-title="Korean" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvN_2021.png" ch-number="395",395 tvN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjg3NDYxOTAiLCJyZWZyZXNoX3Rva2VuIjoiWVZqODAxU2pqOUtUcWZzditkM1piYTdSbmlpc0JZVFFpTDlhMUNLOWlZcVFid2pzdmpRRjhnVytqamZqNEEzTG8rNDgxZHB0U2NBVUl3dEtmMmErSVFxMmVWVTZSQVNqYmFta1hkVm9RcGVOemlVWEJwNWJrdEM5MHBkS0lZczI3eU1OWE1kM1VpeFVUQmk4ZkZHN3VEZUJWXC9iMUlMNHlrMVpjYnIrZExpQVwvSDExVDR0aVV3RGhyaUd1TFA5WmYxdWJDd2w5TUo2UEZSU2pSSUo1S3VJM093Wlk5T29xa1cxVFwvd1c2S1NwRDNUcFJtdzBITXVuZGd1YXM3N0Q3aWhHR24ycnU3dUkybnUrRWdGUEtjYWpMK1wvd0VUMVZKZ0tadWNHbzViYkpsRHU4eHlRWFYxNURLV041ZG1IUWRRcXZOeUI2UUo4RkpucHlQeUZhQlc0MXEyQjNadzNSdkxsVmFiaE5HSW4xST0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"taOoAISBIMhDrg+mjAnCYQ","kid":"qkiyi9cj+RIUiH327Z+tEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="396.astro" tvg-name="KPLUS" group-title="Korean" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" ch-number="396",396 K-Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDgzNjk3MjAiLCJyZWZyZXNoX3Rva2VuIjoiMVozc25ISURtc3Y1QVFCbmJGK2lTMXI1bHlvTXBNOENpQk5yQzY4a1o4ZlwveUNpaHZlTTRwXC9iQVpzcnpmR21Ha2pFYVFINXNkYmZMbE9DXC83NERWczJOMEczYVplRUorWStoZXhyOTRlWTEraHowb3ZFbXFrOGdGSStVWlwvdkpsdyt0OEx4ZlwvVHVFR21mZnh2XC80c0w4bGtDTm9IWWx5eWF1VUczaGNrMFpuWG5FZ2FveEFGMEw4TWd6U01CbEY5cWJYOXNmb0NMcGRzVlM2MjZMNnVWelA4bnJDeVpKOFgySTMrSHd5a1FKRVpUa3pSSUJ0WW5XRnVubjV4YU9NNjQxeE94N2crN0ZFN2hkb0c2alRhQ1hlNmpLNlZpYmt3bWQwM1Rsdng1YmhXNnNqYmpBNkZzWlBIdHNlaU1ocmNCK2lMejBJZHZLTkVXeWozUUthYmluVHpHMmlWVTE5dzJ1cStRVTRWbmh3PSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RLQjp33TSs4WLbNcuw+2ow", "kid":"mIF7FEvPGf0N3Kf+VM7hEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="398.astro" tvg-name="NHK HD" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="Korean" ch-number="398",398 NHK World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTY4MDc1MjMiLCJyZWZyZXNoX3Rva2VuIjoibThUbjRZY3VqVmxONFBxUzR5T0tOc3dNbkhRTXU1d1QwYm1QalNzczAzTnlseTRYYWVMdThUdEhGTnNcL1I1SzVkdE9GTVhTVkREdjl5a2oxODNcL0phZ1U1SUZBNUhjMWsyVko3cFZqZFk3NjQ2RjVrdVF6THd6ZjZGWUpMcUtcLzU1d1RKWWU5cGtYdDN5bXliYzBxMUJEMzBSVmVXaDZXXC96NVp3V2dBYXFzd0ljaWZUWGc4enN2QWxkTEpOMUxJWnhHZ1A4anY4MTQ2WGo3eHJYTUM2WmxCVlJLUWxBN3R0V0h5ZDF0Um1zMXV0bGFrbkNLK0Y5Tjl6NzdpOE9KWEs4c3doVVZOSFQrdlNVTmJNNklSZDJXQ0JMSVdSK0I3RGxpYlViSTJjOWJvWUZ0aDV0RkF5NXpJU2E1TFwvUjJCVTk3Mkh5RmxudWVnSDk0S2FreXAxZFMxT3lOWDc3RCtzVXZoaDNWcVozUjQ9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OPv7OlbkD/ksnfisvLqe9g","kid":"/x/r1wGNDdcRYB55Xg1iEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="401.astro" tvg-name="HITS MOVIES HD" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" ch-number="401",401 HITS Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDY1MzQ4MjciLCJyZWZyZXNoX3Rva2VuIjoiRDlmeVZzb0FNN1wvVERZdzdLY0ppb0VFcXptN2lYRGJXbWJQZUw0VmxRMGJ3eU1UUUZTelAreDVaSVREQjI0M2VYS0lMTjJidWh1dEtRenNqTVFEcE5QSjZVVmlMNSt0YUN6WmNBV3hrbFQrcG9TSHR1dkQ4dXV5ZW1aMElieFwvS0lyZXdsUU9tV3Y1S2dMcmJ2SUNQR202RDlCbUJtYkdpZFYxaFwvXC9tdis4dmxBd1Y4M05uVHJsaE1tbG9FQmRMQzFiTWZQTW1IXC9obU1DRU5BdjBLN0d0RVlCWlBjR0FMS3RiMGZ1YXBHd0NLSDU4UU9yZDNwaktnOUU2N25ZbnlzVStYZjJYYit2MHBMVjJhWlRvekFReURKMnFYREFLNm82TDRlZWJta1B3dEZES3pYOTFuZkFTbExtQlBRQ0NKYjVcLzZnUjk0TkxuaHlVVndPR1R2blRQeXFkMmxUZHFqWjlKeERLTnl3dnVNPSJ9
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/TAP_ActionFlix_logo.png/revision/latest/scale-to-width-down/350?cb=20210920130656" group-title="Movies",TAP ACTION FLIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjk2NTc4NDEiLCJyZWZyZXNoX3Rva2VuIjoiZlRwSFpmUkxzeTlGaDF0c2JndHkxb1hFeTFRR1g0T0FhRHdXbmR0UlNyTmxYeWN0RTc3c2h2QWpOeVpLbUQwcktYb2N1WnN5a2EwUUFPOSt1ZHdLMGJxSEg5XC9oMkxQQStwU3dtdlphd0ZtM1ByUGJWYkwwbm1rcG5zUkQxQ0tjMTRPcDBjcFJPSjQ3YVRkMEZ1endQMUVNWHpERWw2Z3Z1dmVOZnBsdFZnU2VBazdsbDJZZlAyTEUrOXNKTzJpblpXbm5qKzlpOUFBUnVGcGNUOVwvWUlyd29VUlwvSVR1cmpHaldQdkZCZ0w4a013c09MR0lBMHprdjd5Y0M1V2RDVEJDcWZJckdkMnhWb3JVbFwvcGtcL2xKVjB3VkZKSitJb2pYRk5JZnZIMDFaNE5WaU91bUhTUXhBbFJVaG82bUdKREp3dGQ3Z0VcL0l3MnBtOXlrTkFBblwvckZaOUZYUVpHQWtIWE10VnFtcjJBNk5TcWN1bWZLbzUxSU1RXC9KUEtsVCsifQ==
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/revision/latest?cb=20210920125940" group-title="Movies",TAP MOVIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzQyOTA2NzEiLCJyZWZyZXNoX3Rva2VuIjoic0tMV0U3TkpFRTNnVnhJNDhhMzhiTXZzVE51XC95MTV2c3Vjb0RZRkVYQ2p3RG9pVENGVUZRWGN4VWRneUZOYWJpOHJSbzFGR0M0cklFOExBQjVaODh0XC9RVkczRG1idExYY3B5Z1BiZW9tR2R6ZEZIWVdaR2F4RXkycU03STJtYlZIeXVXOUg1K3FSaXdiVzNuQkdKbUloMTFkK0F3eVFqdjdObWdIWkNHXC8zWUtLaGRMb1d6KzlCY01lQ3VEd3ZDQVRRa0N6M1NUdFwvK1wvWGl4eDNHUjYwYnIzZWRpYUNYbElkOTY1b3ZzWWJHMjEzVXN6dmIrYjI1K3pXXC9Tb1luK3ZXRU0yelJ2VFZvbktpSnRVYWlHeFhhUm1EUnpWUVZreWtpT3pwYzBtSTl6WTFMYWFLa01rV0tGNmU4Wkd1U01HcWd6S2RzeTAyK3pWN2czbTg4ZDZNdkViRUxvbTF4RlNIVk1BTm5NQVdvcVBTR3BVQXVZXC9vakR3RU1xK2psbiJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+#EXTINF:-1 tvg-id="414.astro" tvg-name="HBO Family" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" ch-number="414",414 HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTI2Mzk4NzAiLCJyZWZyZXNoX3Rva2VuIjoiZk1LQW80N2lpQTNjVk1IelJHT1gxZ0tFeVV6eHhUMzlMOU5uZVQ4ZmV1ZlJURFpZaXBLeENOWTRKTTNDQ3hNZjczVjk3NStNMStDV0h4TmpLR3pNRHd5TytoQ1g4dklJajAyZlFCWmE1b2pXa3pabm4xd3lLcUhFK1BON1I1ZnByT1pmUG1ObVorWlRNMWRyOGtMNVErTCtNcW1BaTl1SVA0R0VTMFY3Y3ZYVU56aGREbUlJa3Y0dmpQWXdoaTFNNWZDbU94MXl6WlJWUzBoNlVIU1RXanJcL1QxdU1LU0drQTEwT3EzemhEdFJ5eElRY0U2eGpqdnphbGNyY0l6ZmtteTFmNE4yMnlkNnQrSk9MU3l0OE9lVG1vRmhsKzlpVk1QZVgreUVOWkdnMnRJdkFRT1E0b0lWc2lvTldHSFFvelwvR0JzNGhoWVF3ellJYmc0RVpFRldqeUdFTng1TCtDT0Y4V0E2MStqWmc9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Red+aounZ7Y8rP2wHvKsKQ","kid":"2P45jHkGUXP6l4jyJgVlEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="393.astro" tvg-name="ONE HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="Korean" ch-number="393",393 ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzkwNDY1MjgiLCJyZWZyZXNoX3Rva2VuIjoielhzSVwvTkhJXC9cL1hKcWx5VFpEQzlcL3hreUVFa3VXNGhWU1c4ekYzQ2dxRUkyWFlhWXJRZnU3Nzc2cnhOUW1Jb01NVXQzNGtmXC9cL0R2MW9cL1wvTWtINzd6ZXgwNXJRbTJoNHVoUDlPblhxUUpLWmxpWnY0RmRuZDlEcmdJNTBaXC8yZU96NEZlWGhBaXFjNG5UU1dsXC9BWVhORkUrTm5pQ0RseWluOXU1eTlVanhMa1wvZE1LdkNxVUQ2SVZPcEZ2b2V3bENDQTZtVGYzTTU4SmxPaUdCa0pBWFlBQmE0WkRta1ZRU2dzamdJMWJUU3loWUcyK080YkhtZkVSZ2lQejNhYWVwczNyXC9NVUlZNzVHc29mRkJiUERcL0FBOFVHazN1Qytuc1FqeEk5SFVaVnJPY3hNTmduU3BySWo1enFBZ3RHSEVzYUNqZmdCTXNoWmtlTjRMK3h1TkJMQ3MzcFVYV2lVZXVrVUx6NHM4MjJZRT0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8yZr7GB/JYefSGQPMPHIiA","kid":"6k1RreAbvzlG4N6XMFG6EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Movies" ch-number="404",404 BOO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDU4MzI3NjAiLCJyZWZyZXNoX3Rva2VuIjoib3RYZXdYcGNKSHN3VVJ2azRaYWRNTlhlNDRobEk2VlErVHJWM01ISXBvWFR3WXhuRVVkRTVFSzNcL0k3NHVhM1ZPY1k0VUlcL1Nyb3FqaDlyNzRicXJLMjBCeVFBVnNJN0c3d3lyMElKWjNvUHJKVFdpMGlkVjk1V0xvRzZXV3RwTVFCV1RpZjlFdklGcHZmVW1TNmNLbmQ1ZWRzXC9UTk1VbmR5aE1GYnhPTU13NU05YzhcL0plNjZtZENiT3AxdHJNcHZVQktGQnpyelhLdG90dmNycm0xS2wwY3VYZE91N2REMkRzYzU2UGlIMGM4dGlEYVpxeU9OU1VcL3FIbkhZYm5TZFF1MURaT1wvWXJiRHVaYkFVQnpVVDFFb2VwTFMxdnlZZDdKSjFrN09EbUxFWkptXC9rcnFJSVQzZUphXC96V29lenhsMmRweisxeGxHeENMcjl2cFZ5cWJROWFcL3h5ZWRVWnBJMFR5ZHhkTlhBPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Q4+2LpcnhSZobZIRJjQ9Mg", "kid": "LzI4FCNIeJ7VqZuaG9jgEA"}], "type": "temporary"}
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="410.astro" tvg-name="ASTRO PREMIER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-title="Movies" ch-number="410",410 Astro Premier
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjgwMTc1MzQiLCJyZWZyZXNoX3Rva2VuIjoiOFJ5ZmNcL1JpVjdIbVwvYUtGWHpZMkhzWEFOWUdNZmFOVFpET1lVeU12S3dUNDRXWEhSXC9lc0R3QUttcDBNVlZkbmhqcnN0YnMzWlwvXC91UXhOSlF2ZDdVZGVBNkRMSEdGc0JTYTZ4MFUyNjlsUUx6YVBXT3QrcHpwZThWNU1SeXIyQ2Z2VmpRUU1sQmJiWTlPNVBkV3hSdFVKQTdhNVpqMWN1SldKZHlReHZFSEtVeEFuTVdOY0ZnY1ppaThhbVNUM1RqVFNSNW5waVl3NDRHRndsV01uVFZXYjBIUXcydys4aDZHMEVoQXF6SFZ1YTNGTXRla2RxZFJWd3BKaDNwOFFLaWFnbW1LY3pFNTNPT1B0T3U5VzdnNVNkY1QwYjhxVUd3SU1BOWdVV0xvWGd6NGVrQzFXNTNxT291NVc2cVRGTjdGY24yRHdvZWJcLzZtOElcL0U2MzJUaGdTcFdUTGl2Y1wvRVFSY0NSczd0N0E9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8/hCxUzJbLvQvLlqTLioEw","kid":"oJiJbSsRxfOQapk8O6XGEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="411.astro" tvg-name="HBO HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies" ch-number="411",411 HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzcwMjY1OTQiLCJyZWZyZXNoX3Rva2VuIjoiMk4xUEFFM0ZkdWlsajlqZ1lsM0RuVk50ektYZzVOT1B0WlZRTXVNQ1MyUWxNY0Y4XC9HK1JwM1hSeDU1NUxYaEVoVWxkY3FoQkxyNzBrSGNxUmJMbDBwRzRRbnBEQXppVzBpdlhQTERPQXZkNkpXUmN2aGJhdHpCRzRDbEFJN3ZTSHFDSnBlZ3RiK2h2a2xlcEpRdmFzQ3FicW1QQmFUMlwvQVpoSDJUejNaTjlWT1B4clE3V0ZcL1dXMTJlekdvQ2dWTW5LMFFlMW8wSlhMY2IrazQ5Y09uNW44VDFQZGNXUXdhWFk0OFRmdlhSTnJKNEFqVW10WE00UTFEU2VCVm43aER4blwvdVhFQ3Uwd1liMGZINEl2dkswQ3NQelRZZ3RWTTViajFGTXpTNXlCVDNnZUc3a1FnMVVscysyOVwvdXEwU3l4dTBTbk82U3NGdTJSUVR2NUNpOEJLdmFaXC9GWjkyUVY1S0wya1Irb2hZPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E8xTWtSnMgEUeGPKw4bN0w","kid":"79sqjTkVHMOfS1HXYs+cEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="412.astro" tvg-name="CINEMAX HD" ch-number:"Cinemax" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" ch-number="412",412 Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzUxNzI0NjkiLCJyZWZyZXNoX3Rva2VuIjoidkxqaWZPa3RWdFFGKzcxZDFEckNOcktITzdISXIxRTRnWlljYVo1b2tpRUNNcjVuOE1TR1BrSVRFdGVjeSt0ZDVUQkpnVUdrSk9rSGtEN25wQWRYSzNhMHlMVFJRVVVOU0hpRVh4V2dwbnpBNWV2Wmdza2JrQ2R1V0YrTDBUcE5ZVHY3RHAzZk5KMWlTanorTlJmd1Q0aWg3XC84RWt3aUxTQTRSNXcwK1g4dkFBQU5pTVNKRmtEWUE1bTMwZTk2OFdGZWxxRXVSdW5CRHZIR1A2SjNtdDdwUXlcL2VGRkRNRVBMQVwvTkkxNGdlMnhaYnhJTGVYUERjNE54cHFEV28rTURiMEJFa1EzUlk0M0Y2NkFyVDRDZWh3VzhUWmQ2dVNDYUxyTDhNTjJNanYzbEtXanJmSzBETXlERG5YVE9YQk9hV3FNaHRmNkpJSTQ5VjlFbTVrU05SZVl1UWFValZ1MHhqdFVHNVRoSGYwPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yg0YU4hFuuLLT0oWgDbxdA","kid":"uAkMg2HMXMXBqsDsJxDeEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="413.astro" tvg-name="SHOWCASE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="Movies" ch-number="413",413 Showcase Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODkzNDA1MTYiLCJyZWZyZXNoX3Rva2VuIjoicUh2ZW80NmRQTzhjY1ZRZGVtVGdZUldsTjE5YTg4ZkpSUFFqYnVOSjVDaVFLcU5vM29KeHFzXC9WRkJISCt3YjNqdmE2alwvRGIyXC9nSFRISTlLc1dnOXVldWQxN0dtUGJiK1I5WStMT2RibFFcL01BUGp6QUZ5OFwvajFGem5qU0pyajZcL1F1KzZ5RlVGV3FvUTRpQnhXdzNSTVVqb3BtSERLeHdjR1dXZEt0M1FTR2dGbEVDRHZXXC9xaWRxRVd0NHJZUkNseTdcL1JzXC9hVWQ1c2tTR1BRY0VNUGU5RXdPcjZPbHFhd000aFVkM1RjcWtZakZNeEFGRDZQTnB4NVJnQVI5SDZVZDJXVmtHUGI2bVwvclFscWd3VFEyR3RqV2tkVFZlSFdyUWNtcit4Q3pNNXdXdldQRkZJY3VPcnAwdEh6WnpKdW52MzJoNHZocjQyZm10T3owY3lQeUZcLzlqbmx6OEd4bXlmNk5pUGZja1U9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eWE5ugWiq0Jfl4x/2YtDcg","kid":"XWAOtwlE1oHCbB9I++YfEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="415.astro" tvg-name="HBO Hits" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" ch-number="415",415 HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTU5Mjg3MDQiLCJyZWZyZXNoX3Rva2VuIjoieEFaWG5MU3AxeWZNOXIzaEt0MFhyVFwvbWpPWUE0djUrclwvRjB4aDJrTUljK2JkdFJaYldTZkFRblRhUlVmWDBPWDJORGRcL3lYT0FcL1lidlFId2VyUVlhclwvUm4rTWJpUVNKbEpMVWJNeVlRdGNuMk9VMlo3M2hpTUlRK3poWjBvdG5vV3FqQTRuTGlwK3p2QzF5TXBsXC9CVVpcL2FTT1wvcWRiNXBBYUJxYnFhOG8wR09vMGRKM2RcL2JEeHNFaDd1XC9mb0R4dDNvZ2hhdXNcL05zYWZuMVV4T1ZDYSs1V042ck5ielhvU3haSUg1Y1JtTlRmU0pnd3I2WlZKa0w0a25JQ0pCRWk4WFRrZkFUZU5JbjAxKzdpOVwvN2JibTRxcXlseFVcLzQ4TzlNTlpzK3dyMVlQZjFsTUZ6Rmp1dDBSWmRmazh3SW92dkw4dGJ5MlhGdDI0WGxRT3FPak5pbzNzeklnRGVuTUo4cXdHV3NDRT0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0SzOuvu6KlNdiKMIf4hCUg","kid":"jiaciqMq1364MGgxI0PWEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvN Movies" group-title="Korean;Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" ch-number="416",416 tvN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzgxNTQ2NzIiLCJyZWZyZXNoX3Rva2VuIjoiUEpmQWdpcEhPbmYyWjRpWVI5bFFJRnFPQXMzcHV6S0Z1bnVtVXpaQXBUWU9PRDNtcVY1T1dIUFMyblZmNmg5QVFtdGNMZkptK3Z5ZGp1N3ZCN2J2bk9RSjBBTXNjU3AyRTByQnNQNnJpYmtxV0Q0cTdkRUMyVHpSbGZnZFM0UlFGSkdjK1wvWENtMVJ5Q1lUaUhkQXEyK29NYXFwdmMxYU1MM0NibVZjd294anVVeTJwN3g2QkdvUkNkQ01CRFFpUWxsZmtaS0lSK09YdlVpTDBxdGF4K2tBSVp3VmtxOVVaK1VGY2xGaWlhblpzY2JHQnpUNGc3d2VrY2V1dGRvRnRwWmlpUkV0eTE2T3ErNzV1MXd2M2FFN3BcLzM3bm9hRVc5NU52RE01anp2R2VqeGFHT3N5ekczXC94TytQRldienRrZURSbG1JRmVwanRtb1NFdUJ0V1NlSGM3NGpORUJVYWlWM29HS2dEcTlBPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UlUQz6Y0vWMK+MlfqTV2yg","kid":"bwbzs898utDMiyHiyU37EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="501.astro" tvg-name="AWANI HD" ch-number:"501" group-title="Malaysia;News" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://i.imgur.com/cNLNle7.png" ch-number="501",501 Astro Awani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODUwNjI5MzciLCJyZWZyZXNoX3Rva2VuIjoiYTM4bkJOVjNmWTViZ3UyXC96dlRoSG1POFk4N0JxNCtFRDZRZG9EcWxqb1l5K2s5dFd5NHQyaGZLdUowcGtGNDlMVnZMNVdnUGMwUEtQOTFFN2VyK3VBOFd4YmlFZkJMazY2VDlES0tiY1k0UFQ2ZStXWXRNcnNDVmZEVmR6a0NxR2xta2lDTEpzYnlMVlwva1FIUWVDckhOY3dqMHNqN2FaMTdtY3ZZQk9aVW1FbjhPY203d2RJSUl2dEIweE1aSFlxTFRYTER6cnhxa0ZxV2t1dEhpa1RZYkJqRWxLWmd5YXdhU1wvK2hpc1N2MVFxVG1BZmgwbG8zNFRkZTI1OWN4M2JcL3RuWUp6UHdpQ1JQbnFPcFZnY2Zkb1wvMXJ6bWFobkJ3ZVEzZEZKVmc2ME1FbVlwMG55V1FQQlpXZlRxa0JRN2pUUTFXdE13bnhOYnJFXC9XR1wvN2REWWtRUlZIWHN1eUJcL000YTZrMUhEY1k9In0=
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="BernamaTV" tvg-name="BERNAMA" group-title="News" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" ch-number="502",502 Bernama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDc5Njg1MzEiLCJyZWZyZXNoX3Rva2VuIjoiZjluNFdDS0NPS01CWWwyVGxLREd4REtwZHhtU0ltaGNSaU5DMXdyKzg4ZVpRR2hwSkJlTUloRHUxRjNvMEVpZEhEb21JbnBOR3crakFSWXBPRFZVMVpVbk1GczBOM3ZLbjR5SFJUZSsxYnRMNks1TVBiOXhcL2VSbTBWQ25mTFJ3aTJMNWNFdlY0dEVyUnpoV3RaNjlKT2dlSk5nRWhHeFN4M1pSUER3UVdYVGVpekxoY3FQb0RiekswQXNpVXNnTUJxTERIZ3VXNnFnY0dvNUJSREdEaHpQb2FLMWhBcFNwTW5YMjZcL2JKeWxiNjNBRjdOdGR4SlU5alNKbGxpclVKRE9iTCtFY0xrTXR6a3Jzd3JPRElZSzJ3bHBrZGEzNXdMaHdMblg5ZDBqdlU5UyswZ1ZtQ3djOHQzdFB5cENmWGdLUmdJYUx4bnlLRmMrdmVCVHRqK2dEQjdYZ0IwVWIybXh4Y2QwZWJ2ZEk9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nnBhYfAvuZy2ktKWVHBJTg", "kid":"/GbvDuNbW6Y53A4TxfipEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="503.astro" tvg-name="CGTN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_v1.png" group-title="News" ch-number="503",503 CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDk3Njg0NTEiLCJyZWZyZXNoX3Rva2VuIjoiWStwTG1LTkJIOWlNcWZBOG1EQVJ3dkdWb2R1N0RzZkZUMHRvdGRsaXVRV0tDckpFNCtkbXlWRDhEY2QyY1JSZVpTVkl2aTZKMFVEMHorbHF4M0ZUMVRadGF6dXNoMkgxODBqS29kZU1UZlRxaWZmdlU0SlcySjZGNEcrRkppZ0gwNHBzUFpMNU1ZN2RLMThwc253b1BQZTE4SktSY2xCZnMxNDlITnZDT1JrWjJaSngwbmVuS09GXC9jbERzemdCMWxkQlpFM2ljRnNtZERoUURUQU9LbE9Ic3N4ZHloY28yVkpUOHFHU0IyeFZzcFZ3M2ZYN256c1BDb3JwUGVIUzlIdXdzVEtUZDdcL0drUGFQVm9EK3MyeHlaNzVEeGFJb0cxb1ZDTzhTZmgxWnFzSkYrbDVWR0QxZ2JDS2x0dE16Y2hqNHQwVVBaU2dkNmlHRHQ2RENHOTVtUGtGWnFPa0U5U1wvWDRWTm1lS09RPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v34bl1VcSst0VfcRsqn/Fg", "kid":"G2GKKRzs5EyYRd3fxP2bEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="511.astro" tvg-name="CNN HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNN_v1.png" group-title="News" ch-number="511",511 CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjg0MzcyMDkiLCJyZWZyZXNoX3Rva2VuIjoiZkNvczVTUnRIdDNmWk1mZzFGSzFGZFJrZ2xaRWV3eGgrNWVTXC85MTI5N3FlbHN5UGF6TEY3MXh0NFRmbWpGbkNiMDJmT2t4dnFwVndsUXlvWG9udjlOek1uZUxWTjg3S1FjT3p6cTBPS2N2WmFia003V0lIdTE1M05DUWcrNEJlVStFQVpKc1QrczRvOFwvczV6OCs0b1hXQjRJTTE2OEo4enpDNVBcL0VFM0VwU2tJZXQ1UHRpaFwvVTVsdUduZnpyYmxSSmVyMXRscFwvVkIzNzZNQ0R2WkRLRTFpckdsV0t5MlZveThNbGN6YUR1XC85RGRvRXBHeTB4Z2t1QnVqQVloVFRVdzVFaHNtbDh5eUhHSXVnNmt6WElwNkFib0FIRjAyaGpIYXVxOCtwTG1ueEwxYkRNY3FWUk9rbGdabDgwK01VeWdSK0p0Q2c0OTRQZ0tGTDN0ZnhScXR3STZyeTZKR21neFROSUo1MW5NPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d+wO6yHAeBL9fFhig2bMsw", "kid":"AXZ9HCMVwOlVb0d/sfDHEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="512.astro" tvg-name="BBC News HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png" group-title="News" ch-number="512",512 BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTc2OTA0MzgiLCJyZWZyZXNoX3Rva2VuIjoiR0VseE5Za296QTlQdWpwZUdtemxXMk9yM0JYOXFvQTE0UXNENWVSOFYyRFMyNzNpeVZOK0Z4XC9QclhIMmQ1YXNsV0dLM1R6VnZwb1wvdEhNMW9HYlc5MjVSTDkxdFI1b0NGUm02K1RZaTkwVFwvNm12OGV4M3c4Z0plQ2c1Tk9VMlZZbGJYNFcwcDU0QWtPdlI0UDN3ODZ2WjE3dVYzWFlreTNLU1Y2VTRpc3lUSW42U0xlbTNMWTFIbExpaFFSMVdEU0ZQODh4Q05rVHNvNWxVOVRkUENoeTJwd3BYY0xjRG5QM01YNSsyVFo1dG9JM0VYVnZ5R3FcL0ZwbEZUQlJpbVdiS3lZVjZlYlNkN1RSQURjczZGTkZid2Q1ZllIUnlhRGkwbm5VQlNycjArUk1IbFJONitQNThRSGN0WTk5UWVIZ1g0dkxqZ053K2ZzMnQ5ZSt1STl6NmpIM3VXV0ZIUHlualFxbGlINHRrMD0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bDxJgROr/99FTck1MZp5TQ","kid":"sfvQh055I/WwWSmgQqoGEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="513.astro" tvg-name="AL JAZEERA HD" group-title="News" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" ch-number="513",513 Al Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTIwOTc0ODMiLCJyZWZyZXNoX3Rva2VuIjoiQUZzc29vdXpQWDk1RVwvdDVtSHdYaUhLTFpKM0dZU0FUKzAxUWp3cjBkUkI3M01VWjB4N1JOQ3FsNVVsRmNoekQzTk9mVGdHR3UzM012SkhDa0piWmFpaVZYV1JoR3YzVlBQVHpYc1wvVTZrSm1FNUdIWGZwN0RUaDhzYXZ4VjBzcGZuR0xqRk9oSG1abUhzXC9LemtCUmhhbEN1SVY2NERUellLcHJjcXlDWGR4b29RK3VwemhhaVVHMG1XZGNkMG9Sc3E4b3QrT05Zc0ZEYmxZWmVtd1QyY0FNbGdsU1F2aEhINzVUQ0JQQnFXbnRDenlQSDRjRkNhTUR5SzVWVlV6OTYzWEZ5U0Rhc2VXb1pySjhSVFhYUWVxVjNDOCtpTFVaSEtcL2k4Rm1md2ZWN3kzb1BZRFQzd0hoN1BnXC83MHZ1TTJxU1NITVJvR3RNeExaNjVTZWprVnh5RWtpRFZqVzZVUjZ5cTFOdXlPWTA9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"L7Oas/VTM9X6PoMOv5nsFg","kid":"ktNKhPro5U3gqClimUG+EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="551.astro" tvg-name="Global Trekker" group-title="Documentary" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" ch-number="551",551 Global Trekker
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTI0MzY1MTAiLCJyZWZyZXNoX3Rva2VuIjoiOXplK3R2Y0NSZmRqUW9zTWxvbnJJMVdNUTZDVUdOaVorTmQxUERaSzQ1MXRSMHo0NXp1N1Z2Wk9uYmgxQnlDdFZLTFdnaFdGZUhxaXlHZm5KZ1p0NXB3T3BjRmRibW4xTjRodjNmeFNDdkRNdHE5NEhETENYRDNnMzFnREJ5R0NwcjlzK2d4YU1vUUhYTm5CRDZjaDNBZVRCRmFpUWJ5UENNYjhvQ3Z4NEpZdFpMNmxyY3o3S21sNUZlbnFtRThCVXRYV3BzbldBaGUxQVR4NnltMXlEOHUxWlZramRob0NsNTJ2Z3FiakdrR28wUjZKckpjUk42XC85WExQb2dqVE44Tk1GVEJ0cXF1THhrcmh6VE5YZmFkUUlkSFNhdDlJaFwvbVg0dENVeW96dHhLZzFGWFd6RWMzeTlQZXJ5WW1ZZ3NJclJkTlRlbzZmRTMxSitOYVJPSXg3anNYR2dEZEdoYm1keDdVYmk0NFk9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"A++I3xpHZp5UWeEF47U1sQ","kid":"J2dnpXiq4urLKEJHzNnrEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="552.astro" tvg-name="DISCOVERY HD" group-title="Documentary;Education" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" ch-number="552",552 Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTQxNjU4MjAiLCJyZWZyZXNoX3Rva2VuIjoiQWpsZTZnTkN3c1Foa2psczB0b0NxdmFpV2VEUEk3elE1aEQ4OWxaalFkWXgwR2FhU25NZ216Q3NZTG5zNzRLaHRhWGQ2UUs4ZmJnVlF5R2VoaEx3M1RCdlgzK3NCbTAxZER3TzRwbTVLWDBEck9UQlpxZGk0U1wvbkFZTkRlRHA4RGFBZmhHTEh6TXhOU25mUUM5bmkwKzNNK3FEZmppaGl6UGJRM25nQW9XcUpYRjk1bE05ckl1QnY0Q3BOcU0wQVFsR0NnQkNoUUM5STNXV1RtSjlaR3F0ZTlsV1VSUTM2NnRFbk1JVFZPVHl0Sm9ydVdNRzhQMU1NMXNtVWpScWtYRzZxU2JBdHRWdEZ4bWkxdTZ1bHhXUDJxMkFkdGdsd3ZZYU5qRVg0cWNxRVdiNjNpZDR2MXZyM2t6ZWI1QnphVTNCTmVDeXQ5UVFCNTY5cHF6Tm1JZDl5R1M0aFZHb0xFY1lvaHBia0FVZz0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"w6WOyGfMJYKeH76JOEQlUw","kid":"P/AvzYDC4yMMUq5w/pA0EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="DiscoveryAsia" tvg-name="DISCOVERY ASIA" group-title="Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" ch-number="553",553 Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjg3NjUzNDEiLCJyZWZyZXNoX3Rva2VuIjoiQnh1UCtlSVdJRXNWUnY2UEdUMjZLZFp4ckkxZkVkdFNJVW9qTlllN2lva3hnc3F0OU5tUTYxYndKTTJOTDZhWlVQZHZNcCtpSzJENEg2d3BoNUJqVkdUVVMxMEpkdmJDSFFTbDRrOVRTa1VzdVRvQldSUXR6b1UyUGNGdEZ2d2p3a2tiQ1RxMFwvcXRnZ3Q4cm04UEx2ZUk3TnRWd0VaVndpSnVma1ZGalZiSVE0c0dsdU55XC9zZ1o1U1RJT2pkQWNISWYrTm5UVWtBSHpWQ2hub0NMeGFVNWJ1VUhCQm8rT0g2T05pY2t2cXNtRWE5c0dpK1wvRmtqaXRvVk5MXC9wTmUzbThVdFYrczlreXhcL3pzVmVtdnhlZnhicm9sb0J5S2lQNlYwOGwxZnU4K053RkJKRXVtaXBTMjlYVWp2SldcL01ZMHllWHZHQ1dQRDhUdHhwUlFEaCs2TEhCK2VTXC83cng3enkxcVh3Q1g1cz0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uxvbJ8xf4exjfSV5mTRMww","kid":"2/Yv8IBLxbjVI+8AnXhjEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="554.astro" tvg-name="BBC Earth" group-title="Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" ch-number="554",554 BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTE0NzYzNTIiLCJyZWZyZXNoX3Rva2VuIjoicVpjZE9yYUIyS3U2eWl6em1KbVwvY2NBK0FGazZOcENQRXJqTFlaVE1cL1wvNmRLelNZUm53ZFZQUmF3d2loVEwwdWw0U2FhaHExS1FmOTY3WjlMUXFjeFJvZXJFU3FQbzBXS256eGk5YWU2UzdvdjViWUsrUDlIRUFhN1I4YVRqRlk2eGFRQ2N4dDJ3ckJHd1prZjQybTNDUzh2RTNpZk5aQUc1c0JqdDBLRGR0QkU2QWw0a3QzVlQ5UlwvMkhkQXdTaEdPbldPWWpQMzF3bXYzaXV5UFd1QU9pZ1wvMXBiRVwvbEw0N3VhMDR3SHJWVlFmNmo3MnFLdzRxZytYNms4R25CUEZSZ0FNNGIyU25YK1Y5akQ2UlFqdmRuelJReFpTUWt2dVBkMjdqbmZOaTJPN3hQd3pQRWhDdk0xRWtiRGlsYXVSc2x5XC9CUlNQUFhPaFM5S0t3NFBWNTNNbnVQSVRmUWExZXVRR0xNenhvYz0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NFgmX3Uwvx/vIEyoy0aJ2w","kid":"P+7MNpMHMsu2kwbcaHxvEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="555.astro" tvg-name="HISTORY HD" group-title="Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png" ch-number="555",555 History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzAzNjQyODkiLCJyZWZyZXNoX3Rva2VuIjoiZmY2elFiOTF6ZzRTOEhFdEdvR1ZsTEltcTEzNlVNNmtraDlCSzRJejcxcWtrTXE3cEVCTVdKZ2haZVBiZG82cFwvUEZua0R0VzlRbFwvUmQzaWswVnVudVlHRzBzekhZMk9JeDBhT2VteG42N3ZxQ1hqN1NZaFhsR2Z3T0tyMEVKKytlTkZ6eHZ3MHRQU2tVTEg5cE9Yek44Y200aGpqZDFhclErM2ExYTFna05xUjNMOVQ1SWJiYjRxQkY0VWxzamNsVU1WWHVhdmc4VDRKRVRSTmtPQ05vRjNqZlwvc2xpSllkeHRRMlB5WFFXa2FkeWdLMkdoc2RIS3k1NWp1eHJaKzNEZEFER2Q5QVhCV2ZQb2t5UWxDU2xXWjhYS3FBZDFKU3dRQldkUnphcXFnbGxBSzJOR0wrMVNzYWZ4SnlEaDBVOUMreVpuTFwvOUt3NlhoNGUwQjhJMlZYTHdMOEVEVTQ1VDRReFpKcnJwOD0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TU1NncQb5D9SiklAz2bxTA","kid":"1RmfFROgKG4Dja6PfYIAEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="556.astro" tvg-name="ANIMAL PLANET HD" group-title="Documentary;Education" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" ch-number="556",556 Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTk2NzQwODIiLCJyZWZyZXNoX3Rva2VuIjoia1FyMWlRdHNhNWo1UFpuUFhDVW12YlBiYldNc0JWeFRmd29nWEo2ZTJkSXYxSTZUczJReGlZNk5menlkeDVXQjM4eGQ2MVVwTmJQNDhGdzFnVDhUUWZuNzJsdWZJQnV1RG1PUGxVVHV1NlZodEtGTzZ4REk1alcrWnNsVVNYa29leUhcL1ByVzJpVjZYZ0JuYzhubFJDc0FFbWhwWTI5TWk4VG1jRGtYWHUydXJmOWlJR1wvSzZiYVBkZ0VcL2pXdWNWVCtiZnlraGlYbk9panpRMm8zMVwvZ0lMTEZxc01LYVwvTWhCSHpQdTQ1RWxoM3I3V3RsSDY5ekJJVTdwZzNFSDJmRzJzckhxZmpcL1BzZEZZVlUyZWxSM1VGWVRPWHUyT1EySWtaTHJMV1ViM1wvV2paUmZBWXJSdUdDdGFrK2lzaFEzY3FHSnVZSWNcL3BEMSs1OFlaWVpyZ1wvNXR3QXNBY1wvdndSZkdoaWo5QXNrWT0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Malaysia" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://i.imgur.com/M0fsHDD.png" ch-number="611",611 Ceria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODQzNTI5NjAiLCJyZWZyZXNoX3Rva2VuIjoiTURwNW5aRWtjWVJNM28yWmlqWnBhM0VvUWZGQ2U3NDhqend4Wm1NTmllczMyNmtqbUcrUXFYeVwvSlFCOHhoZlBuT2U1WkZDSWd5czh5VU9xY01QWGQ5S1hQT2l4Sno4djJCa1RlUGhjT1Y4NFR5VGpBWE00VDFqTm5maVlFRVwvZkpIcmF5V1lPR2xiOTNIeklVQTcyWGZHNWdJUkFKQW4xekVqODRVUnlWMVRXdXczTDRGKzhSQ1JER1NpYVlITTNNSFNzR001Q28xYkpnR29RVHl0dU1RZVN5XC94MEtITHpzUVJmWUMxdERpSGhqMmFJTmlIZEZuNlhOa3FXdWhZY1NIdUVkbG1HSG5kc3pYMldvVDFsbHB6YWtCZXVNVVNzK0F2Rko1YVVmbFpWZVwvbVhmakFLcVFEK0NWZVQrNmpHdU5FY1BtMk81TlVCQVwvamd2TDNPSWgyR3R0RU40QkhSc2s5TDlDalwvTnY4PSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2x7iuJlLkarGUEnvPkk3hw","kid":"Ivxbr0euO2MivCRCBruyEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="714.astro" tvg-name="CI HD" group-title="Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CI_v1.png" ch-number="714",714 Crime & Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODA3MTM5NDYiLCJyZWZyZXNoX3Rva2VuIjoiZjV1UkwwV0xqQTFvMVdxS25JcTZSRVBnd0p3WkpmQ0xCMmNRdVMyRHEzbWlvU3VFTEM3bFdwXC9VSDhHUTJPNWIwRFwvaVc2VkVXUklHRVdZSU5WYjAzd0daUlVNV2pQOGZxcnZrdnBFTmpyVTR6WHZyOUZLUUNrNkNCXC9iaTl3YThRU1lqWnp3U2krOE5yMzVNM0lZcE1zdm5Rdm1HODd6QnUxRnFBU0cwZVJ4VG1BclZGQzlVeFlsTXNcL1h1RFdobGtkSWFnNnNNYkVpWWpFSlhIcmNnSHBwOHg3SGdaSk5nd3dBWGs4ZFgrejRTUWd4REIzeUVNTjBkRGRlRFRBMENsVXVpRElhRzlNYmVuNTRLQWsyYmlzZk9XaUdrSnVNdkRDaVwveXdOejRVbGxIVDFYRWJGbEN0c3BNK2l5SzZiVWVONk1YNWQzaVBGT2FWT3FpcVwvRjRmNks0WThNalRVTENWb3lEWk1hMVwvbz0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="550.astro" tvg-name="Love Nature" group-title="Life Style" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png" ch-number="550",550 Love Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzgzMDUyOTQiLCJyZWZyZXNoX3Rva2VuIjoiVlAzVUxEb0hSWENlZTU5V3lQQWJJMXpIZTRqdVZNczBPemlyRjd2cGtYWldNZzQ3YzlWNVJCV3dBN0MzNENHbjZXVnRsTVc0bHl3aW9VVmtJN3hrOG5iWmd5SzYycElESkdnOFBoWmgrWEM1WmZCVWw5dzlzYjgycGl4UzJadGJiUzE0bjJFamdGTnl4UXJkM3hpTDFhbDY0ZXdLRmNwYzBydzVDRUthVVRUT0xwYnUydmpsZmZrOXJ2ZE5kNGs4UTNnNmxuaGk1NmhYMGR3Z2g4bVRmd1pGRDkwTVE2cGRqNGpMZ2RkWXlkSkkzbzRVZWl3b1pTSFJJV2Vrek1yQlMxN2I1bG1lZFpFdEJlQUhKMm1Zb2dCV3dJSVRqdHBZV1g3WkdTNDBJSUZ2R0pxYmxzM2U1SFl3blRHVlB1Y2cwd25SZU9mYzVob0t2M1AxUFwvVmV6NFRLQ0NnUWJVdTZsMGVnQVRJMG5LUT0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LcKnYXveKrABNu5onFbXiQ","kid":"LRPIFN9KDCzkiLLtoFLXEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="708.astro" tvg-name="FOOD NTWK HD" group-title="Life Style" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" ch-number="708",708 Asian Food Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTQ3NTA2ODIiLCJyZWZyZXNoX3Rva2VuIjoiK2ZVNXVUSzVpbFp1Zzdod1pyamtiK3VNNVMzZ0lXTlo3WlJZN1VpUnEwb28wbFpmRHQyVjNxMDVlOHhYbVNGVHduU3EyRml0NWcwVVdCWWdsS3VCbzBWZTFQSzhXckZPRW1iaWJDdGJ0NEpBVjc3cGMwNkk0dVM1bUozSXlraWZnemFSUytzUW9DdUc0NXhhZDJ1b0VBK2JOTnJpbVdwWmRwVE9ldElXYjJ0YThLWitRNVdSaFltbEN3UFN6ZFcxVU9QNjEwXC9EYnBpQlpGUXFXODhNVTFxeGgwMytLcGwrclBjTXdLc29yamRaTllYVVBKRlJ4SHRZRUthYTZ2dmNJXC90QlZRa28zOVdwR0RkR2Fndm5zV3RubmthUWxQZHdKbXliNVBmSFhWc1B1MWc1V29vaXZDNjVBdmJaaktmVVBoZDA3dFVORGpQdmZuZEoxOEJ3eWdvNUdMQ0tjSkRPd0JLT09rbWhScVU9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zwz/tje4FZiie9aw2Q1lqA","kid":"NGufQeKTN0jIhh+Cky4BEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="709.astro" tvg-name="AFN HD" group-title="Life Style" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png" ch-number="709",709 Asian Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDg1MjY5MTMiLCJyZWZyZXNoX3Rva2VuIjoibzhRTTM3VnhmTDEySzVFNmx1MGN5VmRlekd4MUFMenllQXVyampvNEVjRmJkaTlVN1wvZ0RFUGNqREJtOGQya0xSMWFPVm9xXC9oY3hpQWxDMkE3dkxhYVFVMmJzclBuMUhSRGk3TUlCTDNnbk9tREdBdjR6aFJSQ011Tzl3OHpTbHFsK0d1aVpxMnhCWXU5NW1jZVh3WjRwOXlnT1VpWnBhOFBRa1wvbUw2OW1yYW5kOGRibHBiNng2SGxWMUthbnFcLzF4czY1TEJPT2Q3eW52XC9yUER0aGVXMHptbHMwNDBhTGIrdWlESk4zUmhsXC9hcHk0RVRtRDE3aDFhYTZkOWdhUTJSS05cL0ErdXlDVUp6c2VISmVtdlFXWTd3U1wvMUpUa0cwbmFRV29JZkVUMzJ1VzlmMmVKMVliVWw1ZVlCVkVLMDRvN0VQM1RKNDBlZ3h0SWhyUHNYTERaR0Z2XC80VlJvQm1KNG1ucFBOVEVRPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KmlbBG589YEaY00TSEQRlQ","kid":"jBuzCZVe7jKII5Cr6+GYEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="715.astro" tvg-name="HGTV HD" group-title="Life Style" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" ch-number="715",715 HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTQ2NTMyMDEiLCJyZWZyZXNoX3Rva2VuIjoiWTBuRXBIVzZuSWpHOGVwRFBONk5VaFNONXlhbktDTHZpcmFialorRms1dExRaEh1bGRnNmlvY0hOSHNNNEdER1wvenJ1WUZmS1lEOTI4NVdxUzJrSXp1UDdib1Z5MTJjSU9oRTBCeXpVaGlucTIyaVpjSTdzTDJ0VlFJaGN4NGowU2luYXI2b28yRnJ1OTExeFRnSUkrbWdhd1hBbjhuQzNFT0ZnSzE0dkhnMHQ3TlVwZWRvbkxocklXNlwvakZaSkVDaDVSaGNFSWgwTXNaNzhnaWZWa3pJYlRoT2x1XC9zMnd0anQ0cnI3OEJWeTlhdmFySk9cLzJHVlwvK3dXcGtSY2w0V1ZSTnI1TDJZUTFlV2RnZGoyTEhaSzV5dWZEZ3dTZEZwMzUyZFNiN1dwOGlRNFQ4NGNPK3ZEVHRhNzZuaUxCZmhtRGZTdmdqT3EySHBDdFBhWjBXekxkSDEyVmNEOExiYjlKckxkblJyOUU9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"h944zz7Su81dibY+Vxv+IQ","kid":"DiHaMEopKYzsof39HnHiEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="716.astro" tvg-name="DMAX HD" group-title="Life Style;Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" ch-number="716",716 Dmax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTM3MDQxNjIiLCJyZWZyZXNoX3Rva2VuIjoiOVExSzFNT0FCczVIMVVvSW9NY2VuczR0UHQrOXRNSDlnSDVOcE51eTR1eElKK1wvdlNWOStEYjRXcnc1ekVnM3VucFI3MzFaSzd1SEJiT0hmbmhxUGozQXo0K1BRVEZ2ZkxXUWtGNUFBbW5JNDBXRVZyY2dqVzB4ZzNYYTA1TGdqa2F2ZDBoNmlYZTJvc2hGMU5pTVJIcUdKdzVwQ3VKQWZvb3Bxa1RFRkRXNTd5UTJma1pnQWU3dzNuZnJCNlNPaWFyTmxKRHltY1FIa1RHQklFdTRYdUJjV1FYZEJMWHJLTVNpcElvdGpNMU9sNlpSYlFCdHFLTWRUb242U1VMTm44VHZ1Vys4dlB2Y0lWWDhidm9cL2Zxc0s1UkpmOFF3ZGJcL1ZXVXg2eGpxZndxeDNRZFI4SEpWYkNuRVN1clZmOTJhSWJkNFBKVEV5SXdqSitiSHNPbXUwSnlQdHQrWmdhUTdUdEJPTFpqM2VzPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sS4fiUEpxRfciEW6ruvsig","kid":"9CkpLcdE8oQ1UwhWFXesEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="717.astro" tvg-name="BBC Lifestyle" group-title="Life Style" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" ch-number="717",717 BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzc2MTk0MjUiLCJyZWZyZXNoX3Rva2VuIjoiVUx4NDNZb1JoT2dLd3ZPNFhEbjljWlFvekRmajd0MkU2cjE2a3Z1Z0hXcjRMM2thSXFoMXo4b0VFYzUzTm5QdHphUk9CWEdORW8xK25Hb0VFa0xnZE8wSEVUVlE5SU9DcklidEdtWmNKV2orMzZsRFY3KzRidEJqYytjMGVRMFFJbG00eVZrUDg0aVhoQjFFeXIrUzdWV3JFelFkcm44Qzg1WHBGZXdvM1N2N2tUWEZOeWlxb3poWllacVAwcVBsb2ZiakdzSXVCVlJSand1alV3SWJNVmRcL3h5OUdGS2dwdW8rdURhRjdRTUxvQStselBheDBFQWpnXC9VdmRNVlNBWHlqNkRVZHI2emZVRGJIcFVCZE1DYlJuNWljTEp5bnNrUEZkSzlrU2JcL2JxN0ZqeHdGYnExM0dmODFJSXNoYkwwQ2plM0N2dVRDYmZ5YjBRelAyQjF2K1JEWkJiakRmYWh4VnNuWlJyQWZZPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wyGv4WibB9W35VvQJcSDzg","kid":"wkp4EdmrRrSLdGoOfiaSEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="701.astro" tvg-name="AXN HD" group-logo="https://rocket-tv.online/Gambar.webp" group-title="Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",701 AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTgyNzE2MzkiLCJyZWZyZXNoX3Rva2VuIjoiSklIN0FmTVkxNlFGTUJyWEYySE1LNnNRWEp1Q0tucWx5QjRYMVk5T3Nidk1YZ1BRU0VmRHZJSUxocVpsbHZWXC9uQThrWThXV2szT3hrcGtDSit3QVwvcyttMllhK3VFMWJUbms2aWUrMCtcL2FoXC9ydzFzUURhYlRpT0psbmFwQktTZTNBUWt1NXJKcjZvSGtOMmZ1TjNCdVBkNm5LZW9wU2J4XC9MSTJXYVJab0l4Nm41XC9WdnNtQUZFKzVQazZZTFpSbGRicm9lS1I5TmdSMjdHc2hmUHVDdTFGZVNIUTVXaXhWXC9kTksrWTJsR0FWb3ZNcEZyYnU1MEtSUGZ3RVwvMURqZlBwemwyNnM4amZvNGtrbVc1ajh3SlhEK1pRcFRwYTl5eDE1ZlJiaEtqYjlQVG9qZGxSc0dXNVZGcWdlWTVodmpoWVJ3RWhDS2hqRTVuZlwvZHl6RWVlZ1o0WWs2aUJXS2ZJUVc5eURwMWhVPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GDs+r6TILmj3TEJE1UkGsA","kid":"jeEeAF21vQ24IogUhjzTEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="703.astro" tvg-name="Lifetime" group-title="Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Lifetime.png" ch-number="703",703 Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTIzNDE2ODciLCJyZWZyZXNoX3Rva2VuIjoiNnpYR0tqNXAyNHJNRmh1MlgwR2FPaGx6MkFoNkNyNkdpbFVGd3YyR3Q0S0p4eFVsUGxoVERpdTdoa0tQb29XanRxSE9kVkV3bkVjaTBWVmoyK2I3Z1haOXpjckk2MDRiblpZMTVZOUpmRE94clZKNFdkdTJkVEZCenM5ZHRhbzJVY2Y1WXBPVU5IVFZMaXRIUDhJQWNCZm5aMHdQaXpYcmY4eUMxZFBZWmZwVHJwNm1DcW9UaXlraGVnNWkwa3VocDJieEpSV0ZjZDl5Q2FnUkFzM3BlbzVkKzBRRldSXC9pRmpCVnp1NGVkZWNJM2ltTCtqM2JkZVwvb1RoUlhSZDR6Q2t4cGJ6ZU80ZmJwSVBmXC96dkdoZ2U1Nyt2K05DXC9iaUFmWFp4dkNsa01OSDhNODIzZ2xCSXNGWWdLZFh3cTNKNEh0bUgxNFVOZVpJZ2s5OTJwTG10Y2xoVkkrbUQrckc2ajQ4U3dBanFlMD0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NssgY79TONGNMWVzcbFYFw","kid":"H+kmhadYRNxUydrBJIAlEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="706.astro" tvg-name="HITS HD" group-title="Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png" ch-number="706",706 Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTMwNzgyNjUiLCJyZWZyZXNoX3Rva2VuIjoiKzJWWTQ3UmYzemp5RVQ5MWU3UUswTWxOQ20rUWc5V2VEaHhMb2hlWDlnU2pPMjJWODFzOTVaRUFqU0YzQzgxUk9iVmpNVHBoNGM0NFwvQVJ1czN0UjNmRzluRTZ2MkwxbmxHeWM3YlpWaFE2M0JjVjRtRWhGKzBJOUZIUDFMeWpFckRNcDdQY0VsS1VHY1F0QzZiaERwSEF6K3lVSFB6SzNtc0JhOXJ0VDJlRkZIdnNvMEhIZTVXclVENGNkOVFkUTBDOHFZQW1PdzJ2XC85KytVYTBvMmUzdUJ6MzdUbStKVVFPbXU3K2lSTjRsZ0NJTDVmNUNrUTAwM2M3SW45eE9TQnoyajlsUWhtNVVuUWxleFE3N2FocklwXC9YV3FNM3doQUExVXVkSHJFRTNVUW5EMmdFMElMZjRzNFdrQUN4Z1JMenZQUEdscThiTnJqcFRENDUzWjlwTmxOeWc0Y1RFdkZ1d1plSVR5djlzPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+DJvZox77jCeUwK1E+W99w","kid":"YJPhJjmyTNZR7ms8E0RtEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="712.astro" tvg-name="WARNER TV" group-title="Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" ch-number="712",712 Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTk2NDgwNzUiLCJyZWZyZXNoX3Rva2VuIjoiVGZBS1dHSUU0UVRYbGtGM2pLUjZaUHM3b29IWEVIZnNnXC8rM0ZlTStuTTdYbnluQUUybFdKOVBQb0ZSa0VpXC9CREZGczJYMXRHR0tZMjdHVXpFNmwrbEdkZGs2bzdPWVI1UHVIUzlJc0JScVBNVmVHeG1nSDNMSVZMSGJOUjRUdnZxU0taSnZHR2hBVkFLUEJvYXZwcWtGV2l5NWxzbGtpVDNQQnhrWkxjQ0dSQVlGaFwvRmZtbmNCTElJVDF0WFJFakJmVUIzc0xqV3JMZFJ0cDc4R2lqc3g5SDV3bzVTOXpDNXZ4SCtFK3pYbmxLMWtaK2loNFIwMllocEI1dkgyamxyZHlUQzdPTTFDXC9WcFhVQnBhSDVBN1NXY1ozbGxhdHFyb0RJa3dPTVwvSnlUaFwvSnhOWHQ0eWh1TmtsYlJjZUhWZWd1Q1ZUazhkaEFRT1RzMXcxMW1CZmpralZxYUhuNmNNOEo3M05FMDdVPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IvlkptaSfM26SC53XN/xkA","kid":"OsJUKk9750ZjPbB2R0UXEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="718.astro" tvg-name="MTV HD" group-title="Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MTV_Live.png" ch-number="718",718 MTV Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDI1MTA2MzgiLCJyZWZyZXNoX3Rva2VuIjoiVENPREY3SnF5ZVAxK1l6aVI4N1Y5QnZaSWgyb0Q4M1AzYTRqMXc4ak1lSWRIbitNOFYwMjEzTVpFbW12Y0FwWTYwelNDNXl1Ulhwb3FcLzZ4bXQ3OU03SDlRQTY1Qm1yXC9LbWJ2SmhkTlhtZTNNVkVyYTMycnd0aStRSFwvMmR4TzJEajFJU2J0bmRibWZUelhRQW5XSWVSOWRRem4xWjhRNExzbzJac2tMbTBHbldoS3RwbUp1Vm43Z0Z0a0laSUhyMnJcL1k3TTJZRnRTY0NqaEUyeEFtTDdESXk2MjBkWWFWaElPbDBOUCs0MVRXRVZtUHl1WVBpUFNyTEQ2U2NxUXRKR1ZsbnR6NmgwUmRMVmFyS013UlA3Q1ljcllQK2lERm9kWmprcHZNY1l1R0U0UVhwNW5MMVFHZHF1NXM3Y0RwZEVaUDJ4THBTTk1tK29wUEx2MFlvKzAwNGhrWkZiaGxycG5DdnZlelc4ST0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rtncAgOHJarb0Me9FwkkCw","kid":"iCm49NkdJjDzmMZ+2UwjEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AstroTutorTV" tvg-name="TUTOR TV" group-title="Education" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png" ch-number="603",603 Astro Tutor TV SMK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTgwMzc5NTYiLCJyZWZyZXNoX3Rva2VuIjoiWk15NHFLMTNwQXJoV1EzbGtWcWhzeVpqbUVOQmZuQmdqbkJtYmNaeVd3aXlXZjR5WG9LQTVsbGh0ODBwUmpKU1J2Sk5QZlRmMnUwa1BYUytJSWpKZmdhekJ0TW80bGZJa08rc1ZvQ0NuejlWYmpiVUJlQWw0NEVCKzMzd05oejAxYk5nQ29EdHdEa28yVXpjM2tFRktFRDhqSUk2dExuSk54OVpEcFBIeWY5RjRZZGVYTXdiMnFQUGlMQ3E1N213MWo4amRhVWRhVGZFTTh3WHRVTnZodHpuU1dJcmExWDdpaVVNM1BCdzNaaHFhVGxLXC9BRzJtMHh0XC9SRlBuK2s2ZlorbjY0cDFwY2ttV3RTNzVHdFNtbDJjT3hhUmtYcGdIcGl3cjdKMGVkQUtHbzBqalRzMEc1SXJkd3crZ2RsM1JES25pdUQzNEd2VVwvcDZtNE1PdjduWjBjWmVsRVVjNGxGZ3lKcndJVFhnPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3MvfBDrEPRi+Cz60Olgodg","kid":"tb/jVU3yq803r+Ewp+HTEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="612.astro" group-logo="https://rocket-tv.online/Gambar.webp"  tvg-name="Dreamworks" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png" ch-number="612",612 Dreamworks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTM2MTcwODIiLCJyZWZyZXNoX3Rva2VuIjoiWW9VVWxyVkFxaWhzaFBZUkJaOFkxbTBLUkF0Z1pSNXFOQ0lZaHdxXC9hbHVxcEtlU2hFRXcwRENudXBoSjNtU0JJWndyNG0rMHBaMlwvWm5oYnNTXC9jNnZ2czhyYWp0b1IyU0lyM0ZsVmRZR1dRQVlpWFdTaVRmckR2enJtbzFRTEpWeW1RTlhKbFlENDdUTWpSTGZwZStWOEFGTng0VjVFNXVHSHdHMld2bTA0bWxjR2R0V1dlZnZ5dmV3TlNKeVRGY294aXAyXC8zeWVKaVVUZm9XRFlWYmNZOHpnRFZjdUZKYm55dHpVZFZpVjRWdFpmZThGYmh6YlFKVEJYRjViZGRJUkg4K3RoRFgreXRLcm53R3ZTZ2x5TDBFVEdrNXJMYzlsYldRYUxMeUhjNHdoVjhUQ0RsaHdxeEtUXC90TDBDTGltcm9PVDArS0RNZURIYkQ1dHk5d1k1cG85QVhWTlBsMW01NXBwZFBldU09In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"icX/n45lx/6WavvS+RKOXw","kid":"GgW+v3BkCEMaOQw/n0D0EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="615.astro" tvg-name="CARTOON NTWK HD" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" ch-number="615",615 Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTczODY1MDQiLCJyZWZyZXNoX3Rva2VuIjoic2ZiQllmY2ZkVlBcL0JPeG1ZZm1IaVQ5QXRpWWpyRnJPSGNTSmRaK2RQd05Vc3F0cnFnN203c3BGbWdwS0VIS0lsNHNwdCtkcFpWU1wvOTU5YzFVNllidGhqU3ZSV3h4V2t0dGlKcmNhZHNsM1wvNlZ5d2ZrUGwzSGRQdzBoV09FSWdsMHEzOGhqOFJUd2ttTUtScmpYVDZlS3dEa1dQU0h3QmxEVmRJd05nb2VQTzRnQ21vdm43VWFkU1pqY3NhQVdWd2RyOHJKTlBkaDdKWmVIa3hEMXYwbm5CYzJnc2tHMjBnbWc3T2xqaVFPandOWEtWUk12QmE0YjRsOFNueEkyUXp4UzU0OUoybFBRYnRhbTRNRDhjZkpIXC9zNjNyS1FKeWs0V1hCeFdQVFV4NXBsaTI0WHhHYTVHeGpvTDRaanNtN2pvRHhlMFRHajhGRDhuYWJBS1VMdzlIaVRBemZ6T0FybDlqWTdKeFNGUT0ifQ==
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12d9a54e458d31975632be17a8dac010:aa6173e8795c9b0b2733df838934817f
+#EXTINF:-1 tvg-id="100.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HOK_CH100.png" group-title="KIDS",HOME OF KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDI5MTQ2MzgiLCJyZWZyZXNoX3Rva2VuIjoiazQ0S04wR2ZPNnNnUjlCTXZIQkVhelp3WCs2cmpVZnlqWm1ZdWl3V2Npd2dhRzY5Y3RvcVlsQlJKczNrMVJXemtLTEp1bW1UZFNNckg0SWZpWm1SaE9CSmZxQWo5XC9na3c0bVp0S2Z5N1hEOEpmNHRZNmFTaHI1a3laelwvWUR3SzljYlQzcGtta2xjVjBJNmRZSU5ydHVBRGdVUjBxSkNHbDFlXC8zNjdJM1Y5QXFpcHQ1NStSZXU0N2FwV1JBdzdcL1QwWGRmTHF4NlwvemxDOTBqdEVpWnRWeFpnUWhzRkFHRm50ZDZZSEZOb0NnUjQ0R2pETXhcL1BhNHRPcHV5ZVVYenBCQXJ5OFJvbXBrTmtMTVlQU0NtKzV1cWE1c3FqSlNQYkRzVGpJcTdDRlpyc2pWbWNxc1dyRnFqcEp2Q3JUS0Y5ZTFMcFhQalZicGpjZTBkcysrSm9HaTBZdVF0c2x6SndGTW5cL1wvQlwvV29jPSJ9
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vaX3u8HkQJb3eaBhn+mIHw","kid":"2FIOlqEoOrblvlOEdL+oEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="616.astro" tvg-name"NICKELODEON HD" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ch-number="616",616 Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzMxMDk1NjQiLCJyZWZyZXNoX3Rva2VuIjoid1ppWVBBa3VwRmNsVFFsWHZuclQ3WXJSTkdDeUhidVZpQ1JcL1plXC9sdkVnXC9aZzB4S0F1RGZDK21uMmw2VDFNMzdOekIxS01jSnJLVTVUbTVmVmdBVkk5aEk0UWhQekxneExRcUNOeXg3aGRtdzV1XC9ZRUpESXppVVQzamJESGs2QnVHK2JHSm51WDFDazFyR2JQTXdIcnJzdnQ3MlZzamFLN25lQld0aVJuM3pQNWlqYWRRMGpOeEZBQ3JRMlM3WWpmK3RIUTVWV3g0UjA5dDNybGRQcXAxRHZBWGVwUVhqTGRiNkJpdE93b2prd1p5cFVZSWdZbVZJXC91cVBHOFN0UXFaRGh3Z1E0NkwzZzV0ZUxYNnJmcjEwcXRkUTdDVEFuYTFpZ1NOQTJqRWxcL05MSFhscHFydDRueGxXNENcL3ZQMktZRjNuM2YwMXJ6NHRubjdxYmR5dW1Dd0lhOUtYOXF1Uk9heFwvK3NkWGc9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tKu+6Vtps+gKDRQScshw2w","kid":"+mUiDJ925CQXOJnfUzptEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="617.astro" tvg-name"NICK JR" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" ch-number="617",617 Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjk3MDgzNDEiLCJyZWZyZXNoX3Rva2VuIjoibmlhc1JWR1I1a3ZDSkJWMVVRSXRtd0xHVnllb1RzUUxYZTlUUjY5dWNwNm9xMFV3T0dwMzFsQ2dpUTg0Uko1ZU0wK0Q4MlJvUk9OVkF0WTMyOGdBaFYrMnVsaUFsZHJFSXdmVVpOWmhoZGRPOUhWaENlSHdHNmNLcmJ0MHBYR3VjdTJyNFRmaDhZZkM3Um4yRnpCSzNxOUpIMmdCQ3RcL3hEVjFxeFpZMzJLV1dGcitERjJWOFFUZzM4Y1BnY0ZmdnhWTE0rVTFxSTF4RVc3anFxNjk0MUphblFweEZXejNxRitFZ3RRcUY2UktIVkUwRDBjc2pHWDFTeUxYZFowU09xUUhPNVB5SExuc1RqM29vbWs1WFNyVTFxUHdwWlwvcTFwVXRZaW1UaDFLWGZGNjZOc1dQRHEzbEU5emVMVytGOUVMNlRIMDhneGVuakJ5S2xFNXczdGsyd2JHRFhmcll6XC9DUkJ1ZjVwOGxZPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"irCTravcNDuHNLfs8K6hGg","kid":"48t0mXEHhusQX6t7UkWZEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="618.astro" tvg-name"Moonbug Kids" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png" ch-number="618",618 Moonbug Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTkyNDgzMDYiLCJyZWZyZXNoX3Rva2VuIjoiSjhPTHFCMnRONGgxempvTEgydHBtTEt5WW5tSCs1alZtOWN2WUg2RVdkMkQrWWlmOWh5alN1VkkxSjBlWWZOXC9Beng0OVVrazFsZHpzVHhZdU92a3J0cEs5NXdadldjYnpcL0tQMHloOHZvcmFacnc0RTNYa1VMSU1lQ1N3dHpBM2c4NGdNZGRyTktrYjBPbHFvUGVUSVZqcm5kanVMZVFGa3hwaDI4ZWVBelIzYlZVakRNWUFCTHhEamRVSDdlWGdJalZXZFJ5NlJpZjNGM0huRnJuWHJFSUJTNEtPVit4YUR4MFY1Nk1BMldhTzNrR2dqNGRqa0dYWXVKRXZEeFF6OEhOVUxCRFwvRXRCRVg4b09sQU5XbGRpUVwvekpjeHpDOGM0YnNuemMxUW5JTFRsOW1xaFFcLzlub3BOQVJNOXBuUTZ2Z0hTTStVcWtWYmFFM2pFRHNDdWhkaHZhR1YydWpzaEo1REs0b3lGVVE9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="620.astro" tvg-name="CBeebies" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png" ch-number="620",620 CBeebies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTA3NjEzODQiLCJyZWZyZXNoX3Rva2VuIjoiY3ZWbStiZUVcL2RLTGpnZ2NZb3NEUFQ1andSYjFzbmJ3NE9Jb2J6TGdXc2wxalRFMFd2Y2ZMdGRjZzZRSlltQTFFS1JFTWdoV3JpdGV6b28wbVRMRGJSZEVyN0tTNHd0aVwvU3p3WTZNUTZWMkcwT3RkSzRhVEV4TXpxcm1PQXd0eUduSWdnNGlrb244SlRmbE9QdDVjTlptS2RhRXZmTkppU0Q5a0FqQXRwVjVMaVdwSEpHRDZaXC93MkJWTU5PcmU5eHN4aHlPY3YwU1BkODFXSE84OVwvNHZhQ3hWKzYxVGNIQ2h3SUxtSHRZSGlrazZcL2tPK0NCdU1SXC9WYnBoR2RVQjhhM3Y2djBCbGpKbXpPNVRQemlIcjlZV1wveTRlM202T2lMb0Nua0ZST1BTemVLSUhoR0pMd3NqRFIwZVBCUDlkdWFcL1dHQ3ZDS1UwYW1vOXJNRG5pNW5vTkZja2ZNTmkwcER0d0pmWkVqOFU9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
+#EXTINF:-1 tvg-id="619.astro" tvg-name="" group-title="Kids" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Blippi&Friends.png" ch-number="",619 Blippi & Friends
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzgwMzI1OTQiLCJyZWZyZXNoX3Rva2VuIjoiTmx0a3RFV0JFWUNNSGFWc2o5TkRSMUc3R1RENXJFTW9LcEpuNXFWME44WkhWcEw0d3F0SVFUak5JMDFJV05pWnloTHhnbTVzdlpZU0RpeDByOGp5TzJFcWY2MnFKc2lCaXZkZ1JYd2lZSmdzWFNSMWtBd211TVhsZVZXQWZqdEwyMFVjcTV2M1Jmb1JsTUxKUzYyYnI1Yk1hRGhVWDFGR3pEdTlSWVBXYVJPTk9KUHFcL2x4dkt2NVRVTkhzM3BDbk5zbzkzOFlDYjdNRmpPbnk0VU9od3FLdktcL1REcElYVnlncUNHOGJJWnZadXU3R2JldnpVTVUwRlBMbnRNMzZrRmUzVXFpWnpmNHBKdERKSVBNT05KcVFaZzVPblwvQ3ZJdmhOTVwvZ3cyQlFjZm8wVTB1XC9ncGNFdzhzNzVSNlM4WlVCK0x1K0RONGZLXC9lTFBiSm15VVNYNkl4dCtQTVlTUVBHRGxRcWhQXC8wYz0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y54aEi7RxkRffT/SFiNY8Q","kid":"/hIZAZqfNs3vNHCI5ZLKEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="310.astro" tvg-chno="301" tvg-name="TVBJ" group-title="Chinese" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" ch-number="310",310 TVB Jade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjkyODU0NzMiLCJyZWZyZXNoX3Rva2VuIjoiOGFpT0hkdXlZMTZBdTJHa1wvT3Vha3M5VVR6WFwvd012QXRTOFY5bEwrV3dpanRxaVdqXC9paFZndkZkamU2d2h2MjNGVTV3TjFZak4wWVBIWDdLcXVOUlUzQlA2TEFUbFwvY2hJcG1oRFYrWnNnR3dBcnlvak8rcDd0NU1ndmRJV2xLWFg4MzFkYU55QnhtdktLZlVvUGx1MW5MN1plemVmeDBibm1lbmVIakhZU0Vtb3Q1VG1xeGxwM3pGK0QxM0R1UXE3QTJaNEtQVEV2aFZOSlErNDM0VnkzVW1YVGhSZW1wV05CNFpEZ2EzWlhraUFDSE84YXlFcG9IUndCR2QrdU92dWVyNXdRdXgwa1pPSXVPbDlPdUpUdUNJNzJ5U0s0V1BVbXBFVGs4aWhcL0VjbTFYMTFlR1lUMXFjRUVueW5XdmlQRURRaWFcLzhwTEoyM3hGbzhERHp1bHJzQ2FoaW9wSHBic056WEduNDJjPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9anK3qI3KlLCuR+cJh/gpA","kid":"1iZZjCq0UlN1Cdy4qG25EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CTIAsia" tvg-name="CTI ASIA HD" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" ch-number="316",316 CTI Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTI5NDgzMDUiLCJyZWZyZXNoX3Rva2VuIjoiNVRPbmI3XC9HdGdlYUdUaWI5bkZncERsMnZQTEtIMGpQNGVYYmRmMHhxeGFqYVF1WTlQdk5cL0V4dUUrSUR2SktUK0JKbDlPS3RNMkRORkVZTVYwcCs4YzdVVEJMUWJSUDZDM1hoM1FmVitLc25rWVI1SnZkSGM0SGNTN05GSURkZ1lGK2hhNmRzS1g5OW1renZhQnlhOFJweGJvVWlCS0tJeVpGRFV0dzhWVnRjWHJHcldDTTlvYkZrb1BseDBVWHVOVENkUU15WUFXM3htTUFsRit2OHY5WXFHaGFxNTJwS1V6bVE0cEl0QkJvaitIZktiVVQydExnVFU5NG45OTI0Wm1vVXp5Yk16RGxyMFArMTBRdnB6ZlFZc3pvaklzaVwvbUlXTWlGNGdaR3AxaVhRU3l1RGNRVmhiQkIwTzRoVGdqZ0VlUlZBUFlnY0ZiSnl5VFBFRWozejJ0UmpTSks5SWZwSDEwMnhpbW1jPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="319.astro" tvg-name="TVB XING HE HD" tvg-logo="https://aqfadtv.xyz/logos/TVBXingHe.png" group-title="Chinese" ch-number="319",319 TVB Xing He
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjkwODM1NDIiLCJyZWZyZXNoX3Rva2VuIjoiM1RIcVI3b0FGVnFBZEo5a1ZVbTVrRExxd0h2Qzgzb2tZejZZTHFJeEFLZlV6NzJJbFhqYkpBYlk1N3BLUmlDWEJnVCtITHhlV1RVVmt5UnRWVlM4eFVLYkJTRzE3dEs3XC9COFRcL29HWmNtVXBWUHVkd0hESHVmNFNRV2NSOEdnZ1wvNlJoVDY4Um1YMjJuZEdzM1VkMGhXVDRtN2Fkb1A2Um5MV0JncjZyTHM3R29zdkQ2Y0ZrSWhRbmM5dnRaNklxWVMyT3VWS2FVZ3FxQUhiWEJEQXczT2RKb0RMYzNKVGNIVzdYZ2I4TkRYTzNNazFuczlvQmhZcEtaXC9jcURVVlFLSUsxd0dZTkJEZFJcL2Zvc3BJWmVhMkJEUTZSSlNrRUFrQjc5YVQ2aEwyT2w1QVpYQ1Q1SXBJd3VpdGJ3QUkySEJJWitQWmNHdzlOZVBlWTJWSzAxRDdvNXhnMDJpWVVQS3p2UlNqVFZBQnc9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NG8PYMvXWR4a5yyliRV7sQ", "kid":"52qJoeI/j3uCj029wtCaEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="320.astro" tvg-name="TVBS ASIA HD" tvg-logo="https://aqfadtv.xyz/logos/TVBSAsia.png" group-title="Chinese" ch-number="320",320 TVBS Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDgwMjc5MTMiLCJyZWZyZXNoX3Rva2VuIjoiS3RMcGtjeHJHeVJHcWhMTnFiWU9ycVJWTFhoTTJObEhjVVkybHFHNFoyd2RIbDJWcXdVRnlxXC9QVW9NMnJcL2ZSUUtuRmNvMzl0N0VWMkYxRzNWazFnRGUrek1qRjVpRVwvQjZLelFaSjFuM3BLcWN4MDVIXC9RaWh4MkpYU21zdG92cFFwaG9ETUE1QzI5TXc0V3hZdlVOXC9MXC95MnlqK0QwMXoyM0NwWFwvelwvN0RCWWlBcVhjQUU1Z2kxeFc5cXQyQkt5R3A5NkdKZ1A0MFpQYXBoQWY5cXE2UEd4dTdoNGlCbmVlUlp6RFJ6SnVnUmZoVFBzWTNFNk9lTzYrSm9PbjZlYmpNT1QyWmI3UktHMng2SkxTWlM4WHBWUlpcL2RpNThHTjh1YVJrOHR1WElvQUV0XC9kVHdKTjhWMmxPaEMwUWZwQjU5cXM0ZW95VWd4bXdyR3VLT2EweHBmajZZWVRCYnREb25GdUtQREsxZz0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="325.astro" tvg-name="PHOENIX HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png" group-title="Chinese" ch-number="325",325 Phoenix Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjU5NDY4MzEiLCJyZWZyZXNoX3Rva2VuIjoiSG1RVG5FcUJ5NkVHeTc5bzY1QzhZcDNxVkY4M0diRlRCS1FGN3pOSXlwVmZRTndvNU9OeStHUmZEcGg5dmtGd0pOWStIUnlcL01aWno4QVgrYmNsYmlnVks2U1hJZmJzYitXWUFsQ1plc2RWTm5hTUFzQ0RwTUFxRm9vRnRqNDhaelV0OGxQM0U0ZkNPRGtlcVIwbE1WVlNHbEM3U0t4S2FVNERWRDFOVUY2Q3RXdGczU2htdWRPY2pvVnp5ZWU5cjJ0QW5DWXBLQk5PUHFJXC9TaTduUkZKWEJIaFJYMG9mOVFaU09DejQ0SWlIN3oxVVE0YURDeEdObTNGSjNJUXNsdG42WXVBTHBha0xSYUVNT2FadktEMXhIcXJhTTNyM08xRWRBZ21PYTZPY0t4aGZvSW9vbGdjQjhiTVZlSE1BWUJ4SVhRWHJpOWxldlNkYzBBcGJpZXFOYXJUN0t6ODVOVlplMkpYQlwvTHZ3PSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i563q3GWpCXZq2GKXJ+Z2Q", "kid":"lylVipv/jZR3S/ovAZoTEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="326.astro" tvg-name="PHOENIX NEWS HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_News_Info_v1.png" group-title="Chinese" ch-number="326",326 Phoenix News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDE5NzA2MzgiLCJyZWZyZXNoX3Rva2VuIjoiamQwWjJkT1NNVVYrdkRZemR2cE5QbGxQeWNNdVVNNFRGUU5Nc3RrQWp3Rlhibk5WWHFycXRcL28yOHUxTnN4aFRlR3F5RFNud0J4a0RCWWVBT3p1XC9Gcm1GT0F3dm4wVzJtdWJSa2dsZlJDRTcxY1h4TUEwYldkY3ZvclpkYTNZaGZ0MXV5V2FMbEVWZUNJOEpXZDVUdzl2SWEzSWdZSVRCZXB1Zld5Rkh2ZTViVDh5RHFZRlwvcUhkRDVzY09ZVjZYR3NDRFBaeDJzQ093a2ttcG9JYlgrYUZJRGd5U2Y0eGlUUTRraGl2S1RLNWdNOStnRmxDZDMxVndwbEFUMEVXWDBpbDAzSHlKR2hCdE4wK1wvZGErMUhuUVFvaVdSSXAyWDBZVDdTT3pQNnFOK3hiUUR1c1wvOVoycXY2bDlwOUUzUzREYlwveGhrSlNZN0xmcEJlMlRDMGZNYlR5bUxFSFl0aEhUa1NaK1Vza1lJPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="333.astro" tvg-name="HUA HEE DAI HD" tvg-logo="https://i.imgur.com/4S3MxBR.png" group-title="Chinese" ch-number="333",333 Astro Hua Hee Dai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTIwNDU3MzkiLCJyZWZyZXNoX3Rva2VuIjoiTkpOYVwvTXVhaU9ZRkIwcVJJeVIxb2JuS1lydzNhVFd3dXk1OVVYdVRLS0tIK2NHS0FqMXV4N2l3YnU2UFY4QU9BUGxjcFl3cklKUmxkY2JzVWpZTGl6bHZKeHgxcW0rK3VSdktIXC9BWVA0QjJBeFNZc0ZPemxoamFjYWdudlpHTG16RG54VGFxbFMrenhXbkdseXJNYmhkNkRnSjZaOE0xc29QcElvMksxMUV5SzBJOUZOUUxxMTBYWFY1Zzl0OHI2QnU1bHZcL2tFQzNTKytETmpRXC9qUW9zV3hJb3JjbkJWTXRONmYxbkV6aDQ1eUNlVTM2cjUwXC80bXBVOGJEemFtaGFnQitWOVkyVzBuWTJwSTZxXC9LclBCMm1kK1wvcDZITDFadlZCdVVIRkpyd2I3NENMSGg3NHFFSjBLXC9ZWTRUYVZqdVFqdmZWeW5cL2xwVTJkNkFBcWR5MnIwMDJNN2lWQVVoV2tJS1lVdW9jPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OKaMdJiYEUzwYp134kaoiA", "kid":"aRkWFkvisa5shS8ZkNH+EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="354.astro" tvg-name="AOD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="Chinese" ch-number="354",354 Astro AOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="321.astro" tvg-name="CCM" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="Chinese;Movies" ch-number="321",321 CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzI5ODMxNTAiLCJyZWZyZXNoX3Rva2VuIjoiUm5kQ21ybVVnOVlwWVFFXC84NWFCZEZGSWFhRU10eDFoVWFVNnd5MXZxSTlzelFsK1VZSDFrRk1QTTBwSHZQSzJvTHVjd0NFMzhWVHFwOXhON3VqRjJNQVVUYnhxY1l4aHNVMWZUeWF6bUpEcmZmUFBwNWxNbjNmcWNuc1ZDNVp1aFMwVEF2VWFFTFB2TWFtK2piYWExRXR3TFc4aFNoTHpvT0xkRWpiKzZBSG8rUUdQWVdvdWxPTVhPNWNISmU1XC9DVW4reHc0NVM3b0piY2V5bDlVSVVjenBBXC9CYXhiNnVJY0VCR3VtVjV3UHpTRUtLNVByOCtTQzZWUjFVZnBCQ25USnpPZVRrM0xCc3lPSkNSUExUd3pYQXFJa1IyWWd4dVZiVjVLS1owYUV3ZDhlY0FoRTBzaFJ2WjFldm9keVBhWEsxRSt3emxBamx6TFpMVVpPV2NQZ1lla3Z1NjRqSG1Dd1lrNW1nTlVjPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" ch-number="309",309 Celestial Classic Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTA3ODM0MTIiLCJyZWZyZXNoX3Rva2VuIjoiR0Z5eDBmK0lKOTFka1ZydENWMWl4bW9HdkxTUE91OW82TmdqaGNaejd1eXJcL2ZPeCtVTmN2TkkrMytlU05RSFpQbmtZOGdDbUFMS0hjVm50TkhBWlhhK3Z4aWVuMmhZSFhLU00xTnVcL2NcL2lGbHZ3cHFQVllXTEUzdFFQZmRPM2hoQ05yRUMyMFRvVXBYQ1RmakNtZFptMERlRFd6dTllMFBicHk5WGZrVWVOTFkwMGtLcGlJMWNIalpcL1BWamhNaW9tV2tGa3pnTUZ3eW9qTTNweFZGZVphRWsxTEhMZitlTVlGUW5iK1hHNnYrKzc5S3Z0U25EUGZBZGZ2ZmRcLzVwRk52eWV2dDdcL1RvQmE4NDdXbmpCVjdPR1dNOFlNdVVHMHg1bUhDN3pTczFYR20yTVJQa0RCOEtUcTN6ckxVS2dXV2MweGszeHdla01sMlZuQUJ5dkN2Rm9oR015WEFUeWRJR2trc1wvdDdIYz0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hCVpDEhE+7AbXq5wa8L3xg","kid":"2xozj3HUAYb1mXywhbs/EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="335.astro" tvg-name="CCTV4 HD" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" ch-number="335",335 CCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODk0NzMyNTYiLCJyZWZyZXNoX3Rva2VuIjoiajdIdTJEMnoyV1FHOE1vRklTUHpnT1hsN2llODBUZHVTc2Rsc1FEMDdnZktiUlI4REU2aFNtTDZlT0RFU1hobkFnRE13UUhsT0lNRkhCZzExY0R3WVN4V2dpcEFvZ3BhY0J6UldrN3pxRDhvU1ZqVVRLak5IVGpIbGN2Ujh3enpndk5pWVZKcUNcL2p3OGxrSGswVkdsQzhVYVRNZFBcL2dSU2ZzUVVueDJNTHU4bHFLendQR3l6Z1VyaTlYaVlBbzA3Q2ppSWZ3eEpyMFV4VStyYU5LajUrcTJqSDZWZVowTzZ1dHpnamMybFJRU2ZHNXpOU1ZCQUhNQVFoS3QyYTdJK3A2QWYyZldvZ0FrOU5PVHF2WGN4akt3RWZSNXNDZWFDVUN0VE5uM2hUV0J0bk1Vb282ZUVcL0FmSHNqNmJTUXRyWm1WaHhoV2lvMHBvT1hYRTVTTjMxN2FMMWY3YlNpaHRvdlVNYjNCM3NRPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eaBEsw1k9cN+bUXVA8uygA","kid":"2xNDVFriXd7PjfpEIvNUEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="517.astro" tvg-name="BLOOMBERG TV HD" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" ch-number="517",517 Bloomberg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDM0ODY1MjkiLCJyZWZyZXNoX3Rva2VuIjoiR0hwSTZVN3NNbXNoUnd4eGJGVkxtc20xRnlDVFh6c2g4ekJsODVZSDUwdnVnRFpzZkhWdHFSR1h3RUw0OVBpR3ZhOTRmNDFncUpxYUVUdjBKaTYrTUs2UG9saHFMWGQ4YWYyNDNvXC9TTTNcL1Ntb2REMHN6Q0dlV3lxdVV0RnIxSHpRTGE5b2xGakpGNjY2VytKQWJwb21mbWZZUmt6eTErTlNQZlA5cFVhVFVYdTBSZVo0M1ZqaDNwOStENUdqamNvUzJvZjNWTmpReWh6V3ZTd3ZxTG9saVVFVXozYVwvK094bGJqMHlhcjdNdlVHblJPbUhLWVwvUkJreitZZVlETU5CQVlraVNYQlBGTGhjRVRcL2xUY3lUcHg3NStHWHI3cmVsNHFrR1wvVGN2dGlMbERsRm13TEs5RUxoT3RwdXJiVmFGTWRxcXFhY3IrbGprdW9HQkhoSkx0elY0V3M1aW5ZeDJ5WmdiWjBIMElzPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sNrddLcT5LKf0n4UfK5xMw","kid":"S+9/wby2vX8ofe+UDjjLEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="514.astro" tvg-name="SKY NEWS HD" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" ch-number="514",514 Sky News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTQyNTMwNzgiLCJyZWZyZXNoX3Rva2VuIjoid3VBbW1IVjNcL2c2Q3pzQ25mMzJTUW9tRk80TzRWQ2pFd3k1WTZzWVl4aXViVm9yY2tXamd5V2R2NkxOMmY4NWpCZWNPQTgzSnE3NUFBbHZ1OWNwSEx4NHBxSzRiVDZpS2xEMEFudlRpZk5xVnRVSitVNFk0SkFETkZEdmxacHY4V09rMTk5VXAwMmpnazBwMmdzVUpyNzlIQmNtOVwvRGZXeVRNXC9tRUZ0RlptMEw1bmpydG9pbm5paXJpQWZBOEtrSDhqZm52UXhoTFU2M2lHZFV4YXZpUTlNQktxZ3Nnd2xsd216VlREMnFsTHZcL2dYUzdmaUtIUDgwMjE0aVlYWEFcLzdlTkN0VnhRQkhMSTZDZ2dheXlLY3V5c0k3dlg2M3Q4UTFyRk1HRHVQc284eUhOMk13eElLaXlXVTJpNnBpOW5KV1hET2lyc0VNblVUazVjbmdlT3RzVVNcL0lYUnFNSTdRMkdnSUtVTkM4PSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="515.astro" tvg-name="CNA HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-title="News" ch-number="515",515 CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjQyMzg5NTEiLCJyZWZyZXNoX3Rva2VuIjoiaVdvN0p2NjN4cUVCRG90Z3FnUStcL3RSOEQ2Y0sycXBHTkJEeGFSaTZnNUpzZGpFMzIzNFNySHFwQzVZM0o2SnlYU3VMV1ZhdFFaalJJNDljRlJKbEs1TXdVYXpKOTdXaU5rMkVpTXJsZ2cwMlJPWCt3VEI3RjZIOXpWNWFZT0hjVEFhd2FpdVVcL0F6c0xPekNcL0FOR1c5YU9DNFVtdHpkYWFFMmNsQVdwRDdVWTFGVVlvd29ScEcrQkI3VVFEaDFUVjI5TnJzZUZIRnIxU0gwUm56SlpIaVVzcEtZXC9EWjFMQ2RrRURmN0U0ekt4REJIUlwvOEpLcWVYcTYwKzFaek5ONG15aVFQcXlrbGE2MWIrakg5V0hFcUFLTEQ0U2tibVFRXC9rNUVxT1M2djJWWmhlVUp6TFRcL1MrOUhZbE15U1N6SEJDNnEzc0lmTWJiSzUrRlVQSUhaR1BaQ09GdWh3Vm5SRXVqTFIzazRJVT0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YCgnqHDUmGLRoj8pEpV7TA","kid":"w6OPE0BTF1mhype8XYDIEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="516.astro" tvg-name="CNBC HD" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" ch-number="516",516 CNBC Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjA1NzgzNDkiLCJyZWZyZXNoX3Rva2VuIjoiZElYNE5FNE1vWTJnSWxKNFZGOU1GVXNTTEgzVGJHOGUzWTVwR2c0RDc4SnhSMnNzRUNpc1wvRHN4U3c1TmFGdFRMT3hiYkRYQXVqTTF3R0s1NFVOSnF4QUI0RHNKMlU2VDhYaDhMWFZWQndUNjgrZytvUlNkXC9aMXh5MWEyRVN6UEZuS01TU1lxZWFCd2NJYzV1cTRqM25US21DczAwdUZmeFdDbWlKM1YxdkcwMlcwRHpLXC85WW1cL0NzM0JuclpcL2ZKaVphUDBnT3RFT1RjcGVPVnE4b3N5V3NBMW84M3NaUUxBNjJseE5heDhJNWFZcm9jMENyUVVQTkVQVFlSNnJLaGUxc1k2RlRzWlpiOHJMdEttUEVTQ3ErU0lzQUNoYzZaUmNCaVJJc3ZGbTBqZ2QwSDh2STZNQ3JVbFVlSjMzMjBFeFdsUWVVS0g5bThlcXkzbG0rZmtURzB1YzZXTVlnSm9pOGVuK0NWanc9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mb18H/I5EkS05A4IvvEQnQ","kid":"ap/ML5QljO4PIQhofELnEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="518.astro" tvg-name="ABC AUSTRALIA" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/461_144.png" ch-number="518",518 ABC Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzQ1OTE4MjYiLCJyZWZyZXNoX3Rva2VuIjoiN1wvNUFWb0hna0dVS3pVM3FJRHJnaWxEaGJSR0dOUmRSUDdiNGVGQys5Uk9Fc0V1RTFiQnFoVUMrNDhzUDhEVXlTeDludDhydlNDZWN0ME1UYk5BVUMzZnNQOVZ5dXNlU3BJbk91V1dvK1VKQXpycmdKS1VFcVowS3d6d2s0UU55R1NEXC94a3ZheUxkS3ZLRTNGamhUNUFqcFNHcmpXQzVEWGNXSjBYdVI2ek13SFRzZVwvSVZkcGFDVWRIRkxRZ0RxOFBqRnBidmNBcFdWeFNBY0VCaWpBRFpPcTBVbGp5cmY1R3hWczYyRVZqT3Q5TjFncHVEMzFoUTViUVdLclRnQWNZa2VpM1krZnd5S2R0U1VSdWhnMkxSYXdmQkYzbHFTdWZvV1Rkdm1RYVJyVjBMOTFCZmNaR21BSzVhUGZmdlUxNVVpSFhqTWdWUlhkOUVNd1ROOEhBd1VlUUN4UVBiQjRJZWxURUlSNUVNPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E7uCnOSDbM90BxxFmTl4xQ", "kid":"ft871ZDPM39yGi5b7DYVEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="521.astro" tvg-name="DW HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DW_v1.png" group-title="News" ch-number="521",521 DW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTIxMDYzODQiLCJyZWZyZXNoX3Rva2VuIjoiSWc0NXBlcFE4M3lYdVhZQUZ6MGRBenB2dEtTTUJGbmF1MjdnU0tOZk9EN1JCaUFDUkdaK25OM1kxXC9Da0FrbEh3S2J6c1QrZ25ycTFjNXJ2bFVkNEhPZjJsVkhWVk90Y0xBcjFPN1lOYlQrS290bFNub2dwd3VxNjlYOWJRRXp6Ym9hdXpTMjFZSlF1SkVmT1pJNldEV3RFWlwvaW5ZOUtMVVFRNFpTUFpyQTFPMzRXRkVBc01Jc2x2aHMycyttSkE0VFZwKzNaY1BLU1pvNk1MczhjalNqUXhnMmxXK2NoWGVaQ2pkZFg1dEY2TXdDMlpVc2pYT3JrWXRFcFZOVnRqZzI5SFV2Vk1nbU5ycmdKTkFDWjhPaHBndk0xOFNXM3djVFl0NEZhVVNCRnF4TTNycWpRVGFvNG0xdDlldEJHKzZkN082RnAxYWxwTHdxQm5rd1k0VXV1RDd4cUxYc3ZzQzVyWEdENnBGK2s9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dtQJ/8TqoBLGHYwxvRPfXQ", "kid":"Owwc69DEUY1gD1LDVO0ZEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="522.astro" tvg-name="FRANCE24 HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/France24_v1.png" group-title="News" ch-number="522",522 FRANCE24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTI3ODQ1OTYiLCJyZWZyZXNoX3Rva2VuIjoicHl0QXhlWkl3TXdvU0tiZ1M4N04zMEVOMVdLWnFiZFZta1QrRVhFdkY0bTQ1YzZjdzFKOVc4OGcrald2d3dJTloycVczejlwMTBYblNVbUl6alk4ZmdyN2ZTbnBxS0tQMVJweWlhZ2hnRkc0QTJTaUVuaDhLaHhPRDNEbW1kVGtjN1pFZmNRbGxcL1NpM1lLaDRQTHBDdWV2MEhia2sxcllqTUJtK2ZXSjVrdnJHbkVkS2N0ckVGNVhNdmR2MENERG1OSFQ2ZEJ0cHBWeVwvNnhjSVpONitmbDBVQitPZTFDV1wvYnlmWGg0Q01sTG52MG83RTlJYm83WmVuOEJZc245cWMwT1k0RkU4b1o3QU55b1FFNDQxN2N1aTZhTUhuTURZV0lcL21DRjJ6dm5DQWluS1hnNHhCZGc1SGdBYWZ0WFBzY25qZmlNOVwvOTNSZnZVakN1cTVHYUhwbGE4WDZoSVVJeU1hNVZqTGF2Y1U9In0=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+#EXTINF:-1 tvg-id="707.astro" tvg-name="TLC HD" group-title="Life Style" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png" ch-number="707",707 TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://iptv.rocket-tv.online/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzgzNDI5MDYiLCJyZWZyZXNoX3Rva2VuIjoieXpTRmpxZUkwMUVVd2tVU1diWU5vNTRHOVFvZ3Y3a1JEbzkxRzFRUVRTNDRhUjV2bUVLeVdpZXZWNDk2TFhIcUpcLytBRFpRaDVoUXBRVWFKSm94NVJZR283dVljVEcxRE1nejN4Y3BmTk8zTmxUbDQ4SXpRYVhiYjdNdHFKQ1pQQzExTDdoekJIMGRGeU13c1A4U2VvRHVqc2xnWGc5TFhcL3dcL0JxZWpUc09seUorbVBhcndiODhXcDRLaUxHUWJqTGxiUXUxbVQ3cjdIZUY4cExUZUZqak9GM0ZucHY3TVhYdFhJZWJUWmFBdWZkeVo0aXNwWStKVEhlaDVSdFRmYUFzejdtbFZsM2xtNk1pNzR5aWJiaklcL1NlaU9vUlhJTG9MNXNPRk1GN3ZYSTFFd2hMeStQN29Ud3VWcysyNW5YR0pSSUdZcFU4WjhcL2lldTNoRVZSNk1cL1wvNnZOaWhRakRWMW1hRzBCWHROMD0ifQ==
+
+
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" ch-number="123",123 Awesome TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#EXTVLCOPT:http-referrer=https://awesometv.my
+
+#EXTM3U billed-msg="| Rocket Tv Malaysia | Expired 16 May 2025  |  Limit Device Saat ini 1578/2000  | " url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://azimabid00.github.io/epg/unifi_epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_OPTUSSPORTS1.xml.gz, https://avkb.short.gy/tsepg.xml.gz, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/us.xml, https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/epg.xml, https://tvxray-cdn2.eu-central-amazonaws.com/xmltv.php?username=freebasic&password=m%40laysia887&prev_days=0&next_days=2"
