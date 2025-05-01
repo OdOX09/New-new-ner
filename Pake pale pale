@@ -107,4 +107,39 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+
 [5/1, 18:47] D V S K .: https://perfecttv.net/PerfecttvFree.m3u
+
+
+
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="UPIN IPIN VOD", TEST V1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69b33b29c0d0ea11220a9a538afa5a10:2b2c27ebf59f0cde5d00af43b899cca4
+https://attitude.my.id/qwerty/corsproxy.php/https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3f65bb3c-ed5e-5ea2-bd8e-054673f325a3/default_primary.mpd
+
+Example 
+
+Ntar Abang coba satu satu aja bang 
+
+Ganti link mpd nya aja 
+Ama clearkey nya
+
+
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="UPIN IPIN VOD", TEST V1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69b33b29c0d0ea11220a9a538afa5a10:2b2c27ebf59f0cde5d00af43b899cca4
+https://attitude.my.id/qwerty/corsproxy.php/https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3f65bb3c-ed5e-5ea2-bd8e-054673f325a3/default_primary.mpd
+
+Example 
+
+Ntar Abang coba satu satu aja bang 
+
+Ganti link mpd nya aja 
+Ama clearkey nya
+
+
+ua astro 
+Mozilla/5.0 (Linux; Android 99; Astro UHD 4K Build/1; wv)
